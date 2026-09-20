@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
 
-
+ 
   <!--::Comment:: day8 start -->
 
 
-  <text id="day8_angela_1">Supongamos lo siguiente:</text>
-  <text id="day8_angela_2">si justo en el momento de recolectar la última energía para la cuota</text>
-  <text id="day8_angela_3">un empleado se viera envuelto en un grave peligro,</text>
+  <text id="day8_angela_1">Hipotéticamente hablando,</text>
+  <text id="day8_angela_2">si en el momento de extraer la última porción de energía de la cuota de una Anormalidad,</text>
+  <text id="day8_angela_3">uno de sus empleados se encontrara en grave peligro,</text>
   <text id="day8_angela_4">¿qué decisión tomaría?</text>
-  <text id="day8_angela_5">Es una pregunta muy básica, así que estoy segura de que acertará la respuesta.</text>
+  <text id="day8_angela_5">Es una pregunta muy básica, así que estoy segura de que acertará.</text>
 
-  <text id="day8_selection1">Recolectar la energía.</text>
+  <text id="day8_selection1">Terminar de producir la energía.</text>
   <text id="day8_selection2">Salvar al empleado.</text>
 
-  <text id="day8_angela_1_1">No es la respuesta perfecta que esperaba,</text>
-  <text id="day8_angela_1_2">pero se acerca bastante a la correcta.</text>
-  <text id="day8_angela_1_3">La verdadera respuesta era 'haber recolectado toda la energía antes de que ocurriera esa situación'.</text>
-  <text id="day8_angela_1_4">Lobotomy es una corporación inmensa, y la producción de energía debe ser la máxima prioridad.</text>
+
+  <text id="day8_angela_1_1">Aunque no era la respuesta perfecta que esperaba,</text>
+  <text id="day8_angela_1_2">se acercó bastante.</text>
+  <text id="day8_angela_1_3">La verdadera respuesta correcta es «recolectar toda la energía antes de que ocurra una situación así».</text>
+  <text id="day8_angela_1_4">Lobotomy es una corporación enorme, y la producción de energía debe ser la prioridad sobre cualquier otra cosa.</text>
   <text id="day8_angela_1_5">Parece que sí ha estado prestando atención a mis palabras.</text>
-  <text id="day8_angela_1_6">Por favor, mantenga esa mentalidad durante la gestión.</text>
+  <text id="day8_angela_1_6">Le pido que continúe su gestión con esa misma mentalidad.</text>
 
-  <text id="day8_angela_2_1">Es algo tan básico que no debería tener que recordárselo,</text>
-  <text id="day8_angela_2_2">pero la norma principal de un gerente es producir energía.</text>
-  <text id="day8_angela_2_3">No la de ser un protector que cuida de sus empleados. </text>
-  <text id="day8_angela_2_4">No llevo mucho tiempo conociéndolo, pero no sabía que rebosaba de tanta humanidad.</text>
-  <text id="day8_angela_2_5">Lobotomy es una corporación inmensa, y la producción de energía debe ser la máxima prioridad.</text>
-  <text id="day8_angela_2_6">Pensé que era una pregunta fácil, pero parece que para usted no lo fue.</text>
+  <text id="day8_angela_2_1">Es un concepto tan básico que no debería hacer falta recordárselo, pero</text>
+  <text id="day8_angela_2_2">la regla fundamental del gerente es producir energía.</text>
+  <text id="day8_angela_2_3">No está aquí para ser un guardián que cuida a los empleados. </text>
+  <text id="day8_angela_2_4">No llevo mucho tiempo observándolo, pero no me había dado cuenta de que rebosaba de tanta humanidad.</text>
+  <text id="day8_angela_2_5">Lobotomy es una corporación enorme, y la producción de energía debe ser su prioridad sobre cualquier otra cosa.</text>
+  <text id="day8_angela_2_6">Para mis estándares era una pregunta fácil, pero tal parece que para usted no lo fue.</text>
   <text id="day8_angela_2_7">Si yo fuera humana,</text>
-  <text id="day8_angela_2_8">le habría dicho:</text>
-  <text id="day8_angela_2_9">"Qué decepción".</text>
-  <text id="day8_angela_2_10">Pero no se preocupe, no diré algo como eso.</text>
+  <text id="day8_angela_2_8">«Estoy decepcionada»,</text>
+  <text id="day8_angela_2_9">le habría dicho.</text>
+  <text id="day8_angela_2_10">Descuide. No diré algo como eso.</text>
   <text id="day8_angela_2_11">Esa es la ventaja de ser una IA, después de todo.</text>
-
 </localize>
