@@ -1,31 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
-  <text id="expend_default">Te gustaría expandirte {0}?</text>
+
+  <text id="expend_default">¿Deseas abrir {0}?</text>
   
-	<text id="expend_malkuth">Buen día! Te gustaría ampliar el Equipo de Control?</text>
-  <text id="expend_malkuth_first">Se supone que debes expandir un equipo todos los días. Deseas desbloquear el Equipo de Control y continuar?</text>
+  <text id="expend_malkuth">¡Buen día, administrador! ¿Ampliamos el Equipo de Control y pasamos a la fase de gestión?</text>
+  <text id="expend_malkuth_first">¡Administrador! ¡Cada día puede abrir un departamento nuevo antes de empezar a trabajar! ¿Abrimos el Equipo de Control y pasamos a la fase de gestión?</text>
 
-  <text id="expend_yesod">Te gustaría ampliar el Equipo de Información y continuar?</text>
-  <text id="expend_yesod_first">Estoy a cargo del Equipo de Información. Le gustaría abrir el equipo antes de comenzar el día?</text>
+  <text id="expend_yesod">¿Desea expandir el Equipo de Información y pasar a la fase de gestión? Por favor, juzgue la situación con cuidado.</text>
+  <text id="expend_yesod_first">Estoy a cargo del Equipo de Información. Las presentaciones quedarán para después. ¿Es correcto abrir el Equipo de Información y pasar a la fase de gestión?</text>
 
-  <text id="expend_netzach">Está seguro de que desea expandir el Equipo de Seguridad antes de comenzar el día?</text>
-  <text id="expend_netzach_first">Estoy a cargo del Equipo de Seguridad. Te gustaría desbloquear el equipo hoy?</text>
+  <text id="expend_netzach">¿Seguro que quiere expandir el Equipo de Seguridad y pasar a la fase de gestión?</text>
+  <text id="expend_netzach_first">Yo me encargo del Equipo de Seguridad... Mejor lo hablamos luego. Um, ¿vamos abriendo el Equipo de Seguridad para pasar a la fase de gestión?</text>
 
-  <text id="expend_hod">Te gustaría expandir el Equipo de Entrenamiento primero? Sería útil para usted administrar el progreso laboral.</text>
-  <text id="expend_hod_first">Hola, estoy a cargo del Equipo de Entrenamiento. Le gustaria desbloquear el equipo ahora?</text>
+  <text id="expend_hod">¿Desea expandir el Equipo de Entrenamiento y pasar a la fase de gestión? De seguro le será de gran ayuda, administrador.</text>
+  <text id="expend_hod_first">Hola, administrador. Estoy a cargo del Equipo de Entrenamiento. ¿Abrimos el Equipo de Entrenamiento y pasamos a la fase de gestión?</text>
 
-  <text id="expend_tiphereth">Vas a expandir el Equipo del Comando Central?</text>
-  <text id="expend_tiphereth_first">Estamos a cargo del equipo de Mando Central. Quieres expandir el equipo del Comando Central?</text>
+  <text id="expend_tiphereth">¿Vas a expandir el Comando Central y pasar a la fase de gestión?</text>
+  <text id="expend_tiphereth_first">Nosotros nos encargamos del Comando Central. ¿Vas a abrir el Comando Central y pasar a la fase de gestión?</text>
 
-  <text id="expend_geburah">Expandir el Equipo Disciplinario y querer ir al departamento de administración? Si lo hace, vamos a hacerlo.</text>
-  <text id="expend_geburah_first">Estoy a cargo del Equipo Disciplinario. Quieres ampliar el Equipo Disciplinario antes de continuar?</text>
+  <text id="expend_geburah">¿Vas a abrir el Equipo Disciplinario y pasar a la fase de gestión? Si vas a hacerlo, que sea rápido.</text>
+  <text id="expend_geburah_first">Yo me encargo del Equipo Disciplinario. ¿Vas a abrir el Equipo Disciplinario y pasar a la fase de gestión?</text>
 
-  <text id="expend_chesed">Vas a ampliar el Equipo de Bienestar? Si estás ocupado, trata de ser suave.</text>
-  <text id="expend_chesed_first">Estoy a cargo del Equipo de Bienestar. Quieres ampliar el Equipo de Bienestar?</text>
+  <text id="expend_chesed">¿Tienes pensado expandir el Equipo de Bienestar y pasar a la fase de gestión? Tómalo con calma si estás muy ocupado~</text>
+  <text id="expend_chesed_first">Un placer~ Yo me encargo del Equipo de Bienestar. Las presentaciones para luego, ¿sí?~ ¿Vas a abrir el Equipo de Bienestar y pasar a la fase de gestión?</text>
 
-  <text id="expend_binah">Abrirás el Equipo de Extracción?</text>
-  <text id="expend_binah_first">Encantada de conocerte. Estoy a cargo del Equipo de Extracción. Nos encontraremos de nuevo.</text>
+  <text id="expend_binah">¿Abrirás el Equipo de Extracción?</text>
+  <text id="expend_binah_first">Qué grato encuentro. Yo me encargo del Equipo de Extracción. Pronto nos volveremos a ver.</text>
 
-  <text id="expend_chokhmah">Quieres abrir el Equipo de Grabación?</text>
-  <text id="expend_chokhmah_first">Buenos días. Este es el Equipo de Grabación. Estamos grabando y controlando todo.</text>
+  <text id="expend_chokhmah">¿Desea abrir el Equipo de Registros?</text>
+  <text id="expend_chokhmah_first">Este es el Equipo de Registros. Nos encargamos de registrar y controlar todo lo que ocurre en la compañía.</text>
+
 </localize>

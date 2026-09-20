@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day47_abelGameOver_1">Aquellos que no aprecian los sacrificios no merecen avanzar.  </text>
-	<text id="day47_abelGameOver_2">No puedo abrir la puerta a alguien que no está listo.</text>
-	<text id="day47_abelGameOver_3">Debes parar aqui.</text>
-	<text id="day47_abelGameOver_4">Y dar la vuelta.</text>
-	<text id="day47_abelGameOver_5">No sera dificil. Tus pasos serán ligeros cuando dejes todo en ti.</text>
-	<text id="day47_abelGameOver_6">Nos encontraremos aquí de nuevo, cuando estén listos.</text>
-	<text id="day47_abelGameOver_7">No estoy seguro si vendrá o no.</text>
+	<text id="day47_abelGameOver_1">Aquel que no valora los sacrificios no tiene derecho a seguir adelante.</text>
+	<text id="day47_abelGameOver_2">No le puedo abrir la puerta a quien no está preparado.</text>
+	<text id="day47_abelGameOver_3">Debes detenerte aquí.</text>
+	<text id="day47_abelGameOver_4">Da media vuelta y regresa.</text>
+	<text id="day47_abelGameOver_5">No será difícil. Si dejas todo atrás y caminas, al menos tus pasos serán ligeros.</text>
+	<text id="day47_abelGameOver_6">Cuando estés preparado, volveremos a encontrarnos aquí.</text>
+	<text id="day47_abelGameOver_7">Aunque no sé si ese día volverá a llegar.</text>
 </localize>

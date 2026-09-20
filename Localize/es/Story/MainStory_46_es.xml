@@ -1,75 +1,68 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
 
  
   <!-- day46start -->
 
-  <text id="day46_abel_1">Ha pasado mucho tiempo desde que mis seres queridos se fueron con sus cuerpos y corazones rotos.</text>
-  <text id="day46_abel_2">Finalmente nos hemos encontrado, después de tomar un largo rodeo…</text>
-  <text id="day46_abel_3">Un dia te envie una carta.</text>
-  <text id="day46_abel_4">Esa vieja y extraña carta, que tenía el mismo nombre para "remitente" y "destinatario".</text>
-  <text id="day46_abel_5">Te dije que nos encontraremos pronto.</text>
-  <text id="day46_abel_6">……</text>
-  <text id="day46_abel_7">Por qué estás dudando? Ven, con tu mente a gusto. </text>
-  <text id="day46_abel_8">Espero que este ambiente te satisfaga. Hice mi mejor esfuerzo para recrear nuestra oficina.</text>
-  <text id="day46_abel_9">Necesita al menos un lugar para sentirse cómodo, no es así?</text>
-  <text id="day46_abel_10">Sin embargo, especulo que sientes que este lugar es un poco más... sereno, por así decirlo de lo que podrías recordar.</text>
-  <text id="day46_abel_11">Hay muchas razones para eso.</text>
-  <text id="day46_abel_12">Este es el reflejo de tu corazón después de todo. </text>
-  <text id="day46_abel_13">No nos gustaba especialmente el desorden. Sin embargo, estaba ella, que hizo un desastre de una habitación organizada.</text>
-  <text id="day46_abel_14">Hubo momentos en que estábamos acostumbrados a tal desorden, abandonando la limpieza de la habitación.</text>
-  <text id="day46_abel_15">Lamentablemente, nuestros corazones no podían tomar en esos momentos. </text>
-  <text id="day46_abel_16">Estoy seguro de que ahora sabes...</text>
-  <text id="day46_abel_17">Este espacio cambia a tu corazón.</text>
-  <text id="day46_abel_18">Esta oficina nace de tu corazón, extraída de tu inconsciencia más profunda.</text>
-  <text id="day46_abel_19">Sí, muchas partes de esta instalación fueron extraídas y creadas de nuestras mentes.</text>
-  <text id="day46_abel_20">Cómo pensaste que construir estructuras subterráneas tan enormes en tan poco tiempo era posible?</text>
-  <text id="day46_abel_21">Necesitamos múltiples extracciones hasta que finalmente solidificamos algo que no tenía forma.</text>
-  <text id="day46_abel_22">Lo repetimos tantas veces, hasta que los recuerdos fueron borrosos, y los pecados fueron olvidados.</text>
-  <text id="day46_abel_23">Sí, hubo muchas repeticiones.</text>
-  <text id="day46_abel_24">Deben haber sido aproximadamente 10 años fuera, mientras que toda esta instalación ha estado atrapada en el ciclo durante cien mil años.</text>
-  <text id="day46_abel_25">Esta eternidad es fascinante.</text>
-  <text id="day46_abel_26">Todos los humanos solo viven una vez.</text>
-  <text id="day46_abel_27">El futuro nos llega como las implacables olas del mar.</text>
-  <text id="day46_abel_28">No podemos ir contra ellos. Simplemente somos rechazados. </text>
-  <text id="day46_abel_29">La tecnología de Time Track solo podía invertir el tiempo en un área muy limitada.</text>
-  <text id="day46_abel_30">Esta tecnología se usaba para cosas triviales, como otorgar un momento infinito de muerte a un hombre condenado.</text>
-  <text id="day46_abel_31">O mostrando a aquellos cuyos tiempos están contados sus momentos más felices.</text>
-  <text id="day46_abel_32">Sin embargo, cuando se combina con nuestra tecnología energética, esta pequeña tecnología podría convertirse en algo más grande.</text>
-  <text id="day46_abel_33">Invertimos en ellos sin dudarlo, a pesar de que requerían una gran cantidad de fondos y energía.</text>
-  <text id="day46_abel_34">Así es como el segundo invento de Time Track cobró vida.</text>
-  <text id="day46_abel_35">Si el tiempo puede invertirse infinitamente, podríamos alcanzar el cielo que parecía inalcanzable. </text>
-  <text id="day46_abel_36">Lamentablemente, romper una regla absoluta nos cuesta mucho.</text>
-  <text id="day46_abel_37">Aunque pudimos rebobinar el tiempo infinitamente, siempre dejó alguna forma de distorsión. Esta tecnología aún no es perfecta.</text>
-  <text id="day46_abel_38">Ningún hombre podría tener su cordura intacta en este lugar.</text>
-  <text id="day46_abel_39">Pero aquí estás. Has llegado a este punto, aunque cojeaste en el camino.</text>
-  <text id="day46_abel_40">Por supuesto, no hubiera sido posible si no hubiera sido por Angela, pero es un logro hercúleo que haya pasado por ese viaje.</text>
-  <text id="day46_abel_41">Deja que tu cuerpo y tu mente descansen. Debes de estar exhausto.</text>
-  <text id="day46_abel_42">El camino después de esto será brutal.</text>
-  <text id="day46_abel_43">Extremadamente brutal.</text>
-  <text id="day46_abel_44">Yo, "nosotros", que volveremos a encontrar, también seremos brutales.</text>
-  <text id="day46_abel_45">No te dejarán pasar como yo.</text>
-  <text id="day46_abel_46">Si por casualidad cree que aún no está listo, está bien volver al punto de partida.</text>
-  <text id="day46_abel_47">Si lo has hecho aquí después de tanto tiempo.</text>
-  <text id="day46_abel_48">Vendrás de nuevo, no importa cuánto tarde.</text>
-  <text id="day46_abel_49">Literalmente tenemos todo el tiempo del mundo. No hay necesidad de apresurarse.</text>
-  <text id="day46_abel_50">Solo ten en cuenta que la situación será muy diferente si avanzas desde aquí.</text>
-  <text id="day46_abel_51">Se te darán duras pruebas y preguntas sin respuesta, saturadas.</text>
-  <text id="day46_abel_52">Pero creo que ya sabes eso.</text>
-  <text id="day46_abel_53">Puedes invertir el tiempo...</text>
-  <text id="day46_abel_54">Pero no puedes revertir un cuento.</text>
+  <text id="day46_abel_1">Han pasado muchos años desde que nuestros seres queridos se marcharon, destrozados.</text>
+  <text id="day46_abel_2">Después de un largo camino, por fin nos encontramos.</text>
+  <text id="day46_abel_3">Alguna vez te envié una carta.</text>
+  <text id="day46_abel_4">Me refiero a esa vieja y extraña carta en la que el remitente y el destinatario eran el mismo.</text>
+  <text id="day46_abel_5">Decía que pronto nos encontraríamos.</text>
+  <text id="day46_abel_6">……..</text>
+  <text id="day46_abel_7">¿Qué esperas? No dudes, entra y ponte cómodo.</text>
+  <text id="day46_abel_8">Intenté recrear nuestra oficina lo más fielmente posible, espero que sea de tu agrado.</text>
+  <text id="day46_abel_9">Pensé que deberías tener al menos un lugar donde pudieras sentirte cómodo.</text>
+  <text id="day46_abel_10">Pero, ¿no lo has notado ya? Está un poco más vacía y tranquila que la habitación que recuerdas.</text>
+  <text id="day46_abel_11">Debe haber varias razones para ello.</text>
+  <text id="day46_abel_12">Ese corazón vacío también debe haber hecho de este espacio visible un lugar desolado.</text>
+  <text id="day46_abel_13">Nunca nos gustó mucho el desorden, pero estaba ella, siempre desordenando la habitación que apenas habíamos logrado arreglar.</text>
+  <text id="day46_abel_14">Llegó un momento en el que nos rendimos, dejamos de ordenar y nos acostumbramos a ese caos...</text>
+  <text id="day46_abel_15">Sin embargo, a nuestro corazón le resultaba difícil seguir aferrándose incluso a esos momentos.</text>
+  <text id="day46_abel_16">A estas alturas, ya debes saberlo.</text>
+  <text id="day46_abel_17">Que este lugar puede cambiar de mil maneras dependiendo de lo que haya en tu mente.</text>
+  <text id="day46_abel_18">Es un espacio que se origina en tu mente, extraído al indagar desde tu consciencia hasta tu subconsciente.</text>
+  <text id="day46_abel_19">Así es, gran parte de estas instalaciones fueron extraídas de nuestras propias mentes.</text>
+  <text id="day46_abel_20">¿De qué otra forma podríamos haber creado estos departamentos e instalaciones irreales en este enorme espacio subterráneo en un instante?</text>
+  <text id="day46_abel_21">Tuvimos que realizar múltiples extracciones para lograr materializar imágenes amorfas.</text>
+  <text id="day46_abel_22">Tanto, que al final los recuerdos y las emociones se volvieron difusos y entumecidos, hasta el punto de hacernos olvidar nuestro pecado original...</text>
+  <text id="day46_abel_23">Así es, hubo un sinfín de repeticiones.</text>
+  <text id="day46_abel_24">Afuera deben haber pasado unos diez años. Y eso, a pesar de que este lugar ha repetido su ciclo durante diez mil años...</text>
+  <text id="day46_abel_25">La eternidad es así de asombrosa.</text>
+  <text id="day46_abel_26">Para todos los seres humanos, la vida es algo que solo ocurre una vez.</text>
+  <text id="day46_abel_27">El futuro choca contra nosotros continuamente, como si fuera una ola.</text>
+  <text id="day46_abel_28">Pero nosotros somos incapaces de avanzar, solo retrocedemos.</text>
+  <text id="day46_abel_29">Al principio, la tecnología de TimeTrack solo era capaz de retroceder el tiempo en un espacio muy reducido.</text>
+  <text id="day46_abel_30">Como someter constantemente a un condenado a muerte al momento de su ejecución,</text>
+  <text id="day46_abel_31">o mostrar repetidamente un momento de felicidad a aquellos con enfermedades terminales.</text>
+  <text id="day46_abel_32">Sin embargo, al combinar esa tecnología a pequeña escala con nuestra energía, se logró una expansión espacial a gran escala.</text>
+  <text id="day46_abel_33">Requería un capital y una energía colosales, pero lo invertimos todo sin dudar.</text>
+  <text id="day46_abel_34">Así fue como nació la segunda tecnología de TimeTrack.</text>
+  <text id="day46_abel_35">Si el tiempo puede repetirse infinitamente, incluso podríamos llegar a ese cielo que creíamos inalcanzable.</text>
+  <text id="day46_abel_36">Pero tuvimos que pagar un precio muy alto por haber roto una ley tan absoluta.</text>
+  <text id="day46_abel_37">Aunque podíamos retroceder el tiempo a voluntad, esos saltos siempre dejaban algún tipo de distorsión. Supongo que se debe a que esta tecnología aún no es perfecta.</text>
+  <text id="day46_abel_38">Al punto de que casi nadie podría soportar este lugar y mantener la cordura.</text>
+  <text id="day46_abel_39">Pero mira, aunque vengas cojeando, al final lograste llegar hasta aquí, ¿no?</text>
+  <text id="day46_abel_40">Por supuesto, esto solo fue posible gracias a la ayuda de Angela, pero es innegable que has completado un viaje increíble.</text>
+  <text id="day46_abel_41">Por ahora, descansa un poco. Ha sido un camino arduo hasta aquí.</text>
+  <text id="day46_abel_42">Lo que viene después será cruel.</text>
+  <text id="day46_abel_43">Extremadamente cruel.</text>
+  <text id="day46_abel_44">Y el yo, y los "nosotros" que volverás a encontrar, seremos muy crueles.</text>
+  <text id="day46_abel_45">No te dejaremos pasar tan fácilmente como ahora.</text>
+  <text id="day46_abel_46">Así que, si de casualidad sientes que aún no estás listo, puedes volver al punto de partida.</text>
+  <text id="day46_abel_47">Si has llegado hasta aquí después de tanto tiempo,</text>
+  <text id="day46_abel_48">incluso si vuelves al principio, eventualmente regresarás a este lugar, ¿no es así?</text>
+  <text id="day46_abel_49">Como sabes, lo único que nos sobra es tiempo. No hay necesidad de apresurarse.</text>
+  <text id="day46_abel_50">Solo ten en cuenta que la situación será muy diferente si decides seguir adelante.</text>
+  <text id="day46_abel_51">Lo único que te espera son pruebas crueles y aquellas preguntas descoloridas que nunca pudimos responder.</text>
+  <text id="day46_abel_52">Y ya lo sabes, ¿verdad?</text>
+  <text id="day46_abel_53">Que aunque el tiempo se pueda retroceder,</text>
+  <text id="day46_abel_54">la historia no se puede revertir.</text>
 
 
  
 
   
-
-
-
-
-
-
-
 
 
 

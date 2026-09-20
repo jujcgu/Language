@@ -1,533 +1,523 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
   <!-- 에피소드 1-->
-  <text id="gebura1_intro_g1">...</text>
-  <text id="gebura1_intro_g2">…? </text>
-  <text id="gebura1_intro_g3">Qué? ¿Quién eres tú?</text>
-  <text id="gebura1_selection1">Presentarte.</text>
-  <text id="gebura1_selection2">No decir nada.</text>
-  <text id="gebura1_intro_1_g1">Ah, eres el nuevo gerente?</text>
-  <text id="gebura1_intro_1_g2">Lo siento, no te ves como uno.</text>
-  <text id="gebura1_intro_2_g1">Ah, eres el gerente del que estaba hablando Tiphereth?</text>
-  <text id="gebura1_intro_2_g2">Sabes el dicho, ‘El silencio puede poner una bala en tu Cabeza?’</text>
-  <text id="gebura1_intro_2_g3">Mejor te cuidas.</text>
-  <text id="gebura1_intro_g4">Otros departamentos pueden besarte el culo incluso cuando caminas con aire de arrogancia por ser gerente,</text>
-  <text id="gebura1_intro_g5">pero aquí, una actitud tan pomposa se convertirá en tu lazo algún día.</text>
-  <text id="gebura1_intro_g6">Bueno, ya que lo lograste aquí, supongo que no serás un peso muerto, al menos.</text>
-  <text id="gebura1_intro_g7">Soy Geburah, Jefa del Departamento de Disciplina.</text>
-  <text id="gebura1_intro_g8">Somos el mejor departamento de combate entre los Sephirahs, por lo que no necesitamos cobardes.</text>
-  <text id="gebura1_intro_g9">Quieres saber los tipos que más odio?</text>
-  <text id="gebura1_intro_g10">Los llorones que se quejan constantemente de que las Anormalidades o los empleados son lamentables y que no quieren ver morir a nadie.</text>
-  <text id="gebura1_intro_g11">Es como un soldado que se niega a matar en medio de un campo de batalla.</text>
-  <text id="gebura1_intro_g12">Si no eres uno de esos tipos, entonces podemos trabajar juntos, al menos.</text>
-  <text id="gebura1_selection3">Por qué el odio a los cobardes?</text>
-  <text id="gebura1_selection4">Por qué el odio a las Anormalídades?</text>
-  <text id="gebura1_intro_3_g1">No es obvio? Solo son peso muerto.</text>
-  <text id="gebura1_intro_3_g2">Déjame preguntarte.</text>
-  <text id="gebura1_intro_4_g1">Por qué requiere una explicación en absoluto?</text>
-  <text id="gebura1_intro_g13">Que son las Anormalídades para usted, exactamente?</text>
-  <text id="gebura1_intro_g14">Entidades santas? ¿Pobres criaturas encerradas bajo tierra? ¿Seres preciosos que producen energía para nosotros?</text>
-  <text id="gebura1_intro_g15">Mal.</text>
-  <text id="gebura1_intro_g16">Las Anormalídades pueden ser dañadas, pero nunca destruidas.</text>
-  <text id="gebura1_intro_g17">Pero pueden sentir dolor, al menos.</text>
-  <text id="gebura1_intro_g18">Hagamos la vida lo más indolora posible.</text>
+  <text id="gebura1_intro_g1">…</text>
+  <text id="gebura1_intro_g2">…?</text>
+  <text id="gebura1_intro_g3">¿Y tú quién eres?</text>
+  <text id="gebura1_selection1">Me presento.</text>
+  <text id="gebura1_selection2">No digo nada.</text>
+  <text id="gebura1_intro_1_g1">Ah, ¿así que tú eres el nuevo gerente?</text>
+  <text id="gebura1_intro_1_g2">Perdón, pero para nada tienes cara de serlo.</text>
+  <text id="gebura1_intro_2_g1">Ah, ¿tú eres el gerente del que tanto hablaba Tiphereth?</text>
+  <text id="gebura1_intro_2_g2">¿Sabías que a veces el silencio puede hacer que te metan una bala en la cabeza?</text>
+  <text id="gebura1_intro_2_g3">Más te vale tener cuidado.</text>
+  <text id="gebura1_intro_g4">En otros lados tal vez te besen los pies por ir por ahí con tu carita arrogante de gerente,</text>
+  <text id="gebura1_intro_g5">pero aquí, esa actitud tan blanda terminará asfixiándote.</text>
+  <text id="gebura1_intro_g6">Si llegaste hasta aquí, supongo que no serás de los que se echan a llorar y se vuelven un estorbo por ver un poco de sangre.</text>
+  <text id="gebura1_intro_g7">Soy Gebura, del Equipo de Disciplina.</text>
+  <text id="gebura1_intro_g8">No necesitamos cobardes en mi departamento; somos el mejor equipo de combate entre los Sephirah.</text>
+  <text id="gebura1_intro_g9">¿Quieres saber qué tipo de gente detesto más?</text>
+  <text id="gebura1_intro_g10">A los llorones que se compadecen de las Anormalidades o de los empleados y dicen que no quieren ver morir a nadie...</text>
+  <text id="gebura1_intro_g11">¿Qué diferencia hay entre ellos y un soldado armado que se niega a matar en medio de una guerra?</text>
+  <text id="gebura1_intro_g12">Si no eres de ese tipo, entonces supongo que podremos tener una buena relación de trabajo.</text>
+  <text id="gebura1_selection3">Preguntar por qué odia a los cobardes.</text>
+  <text id="gebura1_selection4">Preguntar por qué odia a las Anormalidades.</text>
+  <text id="gebura1_intro_3_g1">¿No es obvio? Solo son un estorbo.</text>
+  <text id="gebura1_intro_3_g2">Déjame preguntarte algo.</text>
+  <text id="gebura1_intro_4_g1">¿Por qué habría de explicar algo tan obvio?</text>
+  <text id="gebura1_intro_g13">¿Qué son las Anormalidades para ti, exactamente?</text>
+  <text id="gebura1_intro_g14">¿Entidades sagradas? ¿Pobres criaturas encerradas bajo tierra? ¿Seres valiosos que debemos venerar porque nos dan energía?</text>
+  <text id="gebura1_intro_g15">Ninguna de las anteriores.</text>
+  <text id="gebura1_intro_g16">Las Anormalidades pueden recibir daño, pero no se extinguen.</text>
+  <text id="gebura1_intro_g17">Sin embargo, he oído que esas cosas al menos pueden sentir dolor.</text>
+  <text id="gebura1_intro_g18">Así que, ya que no pueden morir, hagamos que sus vidas sean lo más dolorosas posible.</text>
 
   <!--에피소드 2-->
-
-  <text id="gebura2_intro_g1">Bueno, eso fue fácil, no crees?</text>
-  <text id="gebura2_intro_g2">Pero a veces tu decisión es demasiado suave.</text>
-  <text id="gebura2_intro_g3">La próxima vez...</text>
-  <text id="gebura2_intro_c1">Geburah, el plan de supresión que me enviaste, no es demasiado grande?</text>
-  <text id="gebura2_intro_g4">Muy bien, sigue adelante si dijiste tus palabras.  </text>
-  <text id="gebura2_intro_c2">Hubo un incidente similar antes. Soy el jefe del Equipo de Bienestar, por lo que debería tomar nota de esto.</text>
-  <text id="gebura2_intro_g5">Sí, lo tengo, por qué no regresas a tu departamento con el café que amas?</text>
-  <text id="gebura2_intro_c3">Y parte del E.G.O de mi departamento parece estar funcionando mal. No tuviste nada que ver con eso, verdad? La supresión anterior fue demasiado rápida.</text>
-  <text id="gebura2_intro_g6">...Te daré una compensación por ello. Pero hable más de esto, y el E.G.O podría estar dirigido a su Cabeza. </text>
-  <text id="gebura2_intro_c4">Muy bien, voy a estar en mi camino. Por qué es tan mala mi suerte? Los compañeros que tengo... son fanáticos de la guerra o gemelos raros.</text>
-  <text id="gebura2_intro_h1">Ha pasado un tiempo desde que bajé a los niveles medios. Mucho tiempo sin verte, Chesed.</text>
-  <text id="gebura2_intro_c5">Estás aquí para ver a Geburah? Di algo mal y terminarás con un agujero en la cabeza, así que ten cuidado! </text>
-  <text id="gebura2_intro_h2">Es eso cierto, Geburah? </text>
-  <text id="gebura2_intro_g7">Piérdete, Chesed. Hod, qué te trae por aquí?</text>
-  <text id="gebura2_intro_h3">Ah, se trata de las sugerencias que hiciste sobre el entrenamiento de escape de Anormalídades. Necesita algunos ajustes.</text>
-  <text id="gebura2_intro_g8">Continua.</text>
-  <text id="gebura2_intro_h4">Bueno, si hacemos un asalto directo como usted sugirió, la sección aquí sufrirá grandes bajas. Si cambiamos el plan de entrenamiento a una postura más defensiva aquí, la tasa sería más baja.</text>
-  <text id="gebura2_intro_g9">...</text>
-  <text id="gebura2_intro_h5">Qué piensas?</text>
-  <text id="gebura2_intro_g10">Pero, esto...</text>
-  <text id="gebura2_intro_h6">Hmm? </text>
-  <text id="gebura2_intro_g11">No es esto demasiado bueno para las Anormalídades?</text>
-  <text id="gebura2_intro_h7">Um, lo siento, qué quieres decir?</text>
-  <text id="gebura2_intro_g12">... Olvídalo. Ya que eres el equipo de entrenamiento, tu opinión es definitiva, verdad?</text>
-  <text id="gebura2_intro_h8">Lo es, pero yendo con mis planes...</text>
-  <text id="gebura2_intro_g13">Hazlo.</text>
-  <text id="gebura2_intro_h9">Gracias, hasta luego!</text>
-  <text id="gebura2_intro_g14">Hod!</text>
-  <text id="gebura2_intro_h10">Huh? Que?! </text>
+  <text id="gebura2_intro_g1">Bueno, eso no fue nada del otro mundo, ¿verdad?</text>
+  <text id="gebura2_intro_g2">Pero a veces siento que tomas decisiones demasiado blandas.</text>
+  <text id="gebura2_intro_g3">Para la próxima...</text>
+  <text id="gebura2_intro_c1">Gebura, el plan de supresión que enviaste... ¿No crees que es a una escala demasiado grande?</text>
+  <text id="gebura2_intro_g4">Sí, sí, ya terminaste de hablar. Largo de aquí.</text>
+  <text id="gebura2_intro_c2">Hubo un incidente parecido antes~ Como jefa del Equipo de Bienestar, pensé que sería buena idea darte una advertencia.</text>
+  <text id="gebura2_intro_g5">Ya entendí, así que ¿por qué no te regresas a tu departamento a sorber tu cafecito matutino como siempre?</text>
+  <text id="gebura2_intro_c3">Ah, y algunas de las funciones de los E.G.O de nuestro departamento parecen estar fallando. No tendrás algo que ver con eso, ¿verdad? Esa última supresión tuya terminó de forma sospechosamente rápida.</text>
+  <text id="gebura2_intro_g6">...Te lo compensaré. Pero si sigues murmurando, tal vez un E.G.O termine apuntando a tu cabeza.</text>
+  <text id="gebura2_intro_c4">De acuerdo, me voy~ Ah, ¿por qué tendré tan mala suerte? Los únicos colegas que tengo son una loca fanática del combate y unas gemelas que quién sabe en qué piensan.</text>
+  <text id="gebura2_intro_h1">Parece que hace mucho no bajabas al nivel medio. Cuánto tiempo sin verte, Chesed.</text>
+  <text id="gebura2_intro_c5">¿Vienes a ver a Gebura? Cuidado, si dices algo malo dice que te hará un agujero en la cabeza~</text>
+  <text id="gebura2_intro_h2">¿Eso es cierto, Gebura?</text>
+  <text id="gebura2_intro_g7">Piérdete, Chesed. Hod, ¿qué pasa?</text>
+  <text id="gebura2_intro_h3">Ah, sí, nada malo. Es solo que revisé las sugerencias que me diste sobre el entrenamiento de escapes de Anormalidades, y creo que necesita unas correcciones.</text>
+  <text id="gebura2_intro_g8">Habla.</text>
+  <text id="gebura2_intro_h4">Bueno, si hacemos un ataque frontal como sugeriste, parece que los empleados de esta sección sufrirán demasiadas bajas. Pensaba que si cambiamos el enfoque del entrenamiento para responder de forma más defensiva, podríamos reducir la tasa de accidentes.</text>
+  <text id="gebura2_intro_g9">…</text>
+  <text id="gebura2_intro_h5">¿Qué opinas?</text>
+  <text id="gebura2_intro_g10">Pero así...</text>
+  <text id="gebura2_intro_h6">¿Eh?</text>
+  <text id="gebura2_intro_g11">¿No estás siendo demasiado amable incluso con las Anormalidades?</text>
+  <text id="gebura2_intro_h7">Um, perdón, ¿a qué te refieres?</text>
+  <text id="gebura2_intro_g12">...Olvídalo. Al final, tu opinión es la que cuenta por ser del Equipo de Formación, ¿no?</text>
+  <text id="gebura2_intro_h8">Sí, creo que sí. Pero si lo hacemos a mi manera...</text>
+  <text id="gebura2_intro_g13">Hazlo como quieras.</text>
+  <text id="gebura2_intro_h9">¡Gracias, nos vemos luego!</text>
+  <text id="gebura2_intro_g14">¡Hod!</text>
+  <text id="gebura2_intro_h10">¿E-eh? ¡¿Qué pasa?!</text>
   <text id="gebura2_intro_g15">Olvidaste tu reporte.</text>
-  <text id="gebura2_intro_h11">Ah, casi se me perdió. Pensaba que me ibas a disparar en la cabeza como Chesed me dijo. Pero parece que no. ¡Hasta luego, gracias!</text>
+  <text id="gebura2_intro_h11">Ah, menos mal, casi lo pierdo. Creí que de verdad ibas a hacerme un agujero en la cabeza como dijo Chesed. ¡Gracias!</text>
   <text id="gebura2_intro_g16">...</text>
-  <text id="gebura2_intro_g17">Hod es demasiado débil.</text>
-  <text id="gebura2_intro_g18">Si yo fuera la Jefa del Equipo de Entrenamiento, nunca actuaría como ella.</text>
+  <text id="gebura2_intro_g17">Hod es demasiado blanda.</text>
+  <text id="gebura2_intro_g18">Si yo estuviera a cargo del Equipo de Formación, jamás actuaría de esa manera.</text>
 
   <!--에피소드 3-->
-
-  <text id="gebura3_intro_c1">Geburah volverá pronto.</text>
-  <text id="gebura3_intro_c2">...</text>
-  <text id="gebura3_intro_c3">Gerente, si está bien, podría transmitir mis palabras?</text>
-  <text id="gebura3_intro_c4">Geburah es... </text>
-  <text id="gebura3_intro_c5">...extrañamente obsesionada con la supresión, diría.</text>
-  <text id="gebura3_intro_c6">Las bajas adicionales de los empleados durante el proceso... no se tienen en cuenta.</text>
-  <text id="gebura3_intro_c7">Angela lo sabe, pero no podría importarle menos.</text>
-  <text id="gebura3_intro_c8">Geburah es excelente para suprimir Anormalidades,</text>
-  <text id="gebura3_intro_c9">así que alguna pérdida adicional en el proceso es una compensación.</text>
-  <text id="gebura3_intro_c10">Pero como gerente, usted sabe que neutralizar las Anormalídades no es nuestro único objetivo.</text>
-  <text id="gebura3_intro_c11">Bueno, no estoy seguro de que Geburah te escuche, pero te agradecería si pudieras intentarlo. </text>
-  <text id="gebura3_intro_g1">Vi a Chesed irse, algo de lo que debería saber?</text>
-  <text id="gebura3_intro_g2">Sea honesta conmigo, puedo ver todo.</text>
+  <text id="gebura3_intro_c1">Gebura volverá pronto.</text>
+  <text id="gebura3_intro_c2">…</text>
+  <text id="gebura3_intro_c3">Gerente, si le parece bien, ¿podría transmitirle algo de mi parte?</text>
+  <text id="gebura3_intro_c4">El asunto con Gebura es que...</text>
+  <text id="gebura3_intro_c5">¿Diría que está obsesionada con la supresión de forma extraña?</text>
+  <text id="gebura3_intro_c6">A ella realmente no le importa que haya muertes adicionales de empleados en el proceso, como si no fueran nada.</text>
+  <text id="gebura3_intro_c7">Angela ya lo sabe, por supuesto, pero simplemente elige ignorarlo.</text>
+  <text id="gebura3_intro_c8">Porque Gebura es excelente neutralizando Anormalidades, como si fuera su vocación,</text>
+  <text id="gebura3_intro_c9">así que esas vidas perdidas se consideran un precio barato a pagar.</text>
+  <text id="gebura3_intro_c10">Pero usted sabe bien que masacrar Anormalidades no es el único propósito de este lugar.</text>
+  <text id="gebura3_intro_c11">Bueno, no sé cuánto le vaya a escuchar, gerente, pero por favor, intente darle un consejo~</text>
+  <text id="gebura3_intro_g1">Vi a Chesed salir de aquí. ¿Qué tontería te vino a decir esta vez?</text>
+  <text id="gebura3_intro_g2">Te pido que seas honesto, yo me doy cuenta de todo.</text>
   <text id="gebura3_intro_g3">…</text>
   <text id="gebura3_intro_g4">Te lo advierto,</text>
-  <text id="gebura3_intro_g5">no actúes como si supieras todo.</text>
-  <text id="gebura3_intro_g6">He estado aquí por mucho tiempo y he visto mucho más de lo que tú piensas.</text>
-  <!--::Comment:: 과거 회상1-->
-  <text id="gebura3_intro_g7">Experimento sujeto 09-34, se realizará una prueba simple antes de aplicar los productos químicos.</text>
-  <text id="gebura3_intro_Christopher1">Geburah, la máquina con alma. Una maravillosa creación de Lobotomy Corporation.</text>
-  <text id="gebura3_intro_g8">Qué significa tener un alma?</text>
-  <text id="gebura3_intro_Christopher2">Significa tener valor. En realidad, es una especie de religión en la que A cree. Participé en este experimento porque confío en él.</text>
-  <text id="gebura3_intro_g9">No sé si tengo un alma. Si soy desarmado, habrá un alma dentro?</text>
-  <text id="gebura3_intro_Christopher3">Ah, se puede determinar fácilmente hablando contigo. No se puede ver un alma, pero se puede sentir. </text>
-  <text id="gebura3_intro_Christopher4">Renaceré mientras miro mi propia alma. La humanidad y el mundo serán cambiados pronto. Confía en A, él es la nueva salvadora.</text>
-  <!--::Comment:: 과거 회상 2-->
-  <text id="gebura3_intro_Isabel1">Así que eres Geburah, escuché muchas cosas sobre ti de Christopher. Tienes un alma, eso he oido. 'A' es realmente notable. No le prestes atención a quienes no te respetan, no saben tu valor.</text>
-  <text id="gebura3_intro_Isabel2">Esta es Gilly, nuestra hija. Ella es amable y dulce, igual que tú.</text>
-  <text id="gebura3_intro_g10">Entonces, esta niña también tiene un alma?</text>
-  <text id="gebura3_intro_Isabel3">Por supuesto. El alma es algo que todas las formas de vida tienen, la esencia de todos nosotros, pero que no todos conocemos.</text>
-  <text id="gebura3_intro_Isabel4">Este mundo cree solo en las cosas que se pueden ver, una mala creencia que eventualmente llevará a todos a la destrucción.</text>
-  <!--::Comment:: 과거 회상 3-->
-
-  <text id="gebura3_intro_g11">Angela, es eso un monstruo?</text>
-  <text id="gebura3_intro_a1">Eso se llama una Anormalídad, Geburah. </text>
-  <text id="gebura3_intro_g12">Es diferente de un monstruo?</text>
-  <text id="gebura3_intro_a2">Los monstruos son criaturas monstruosas desde su propia existencia, pero una Anormalidad está hecha de los seres humanos.</text>
-  <text id="gebura3_intro_g13">Entonces por qué esa Anormalidad tiene el reloj de Christopher y suena como él?</text>
-  <text id="gebura3_intro_a3">Eso es porque, una Anormalidad es un ser que se crea a partir de 'ellos.' No vienen a la existencia de la nada. </text>
-  <text id="gebura3_intro_g14">Las Anormalidades devoran a los humanos? Devoró a Christopher y ahora lo está imitando? No entiendo. </text>
-  <text id="gebura3_intro_a4">Eso es porque es complicado, Geburah.</text>
-  <text id="gebura3_intro_a5">Una cosa es segura, no sucedió porque alguien es malo. Y esa forma que llamas monstruo ciertamente tiene la voluntad de Christopher en ella.</text>
-  <!--::Comment:: 과거 회상 4-->
-  <text id="gebura3_intro_g15">Por qué hay un paso para enviar a Isabelle a la cámara del experimento DI-01 en la historia del experimento? Por qué la colocas con ese monstruo horrible? </text>
-  <text id="gebura3_intro_ta1">No sé Geburah, no explican todos los detalles para nosotros. Escuché que es para determinar la pérdida de humanidad o algo así, pero realmente no entiendo.</text>
-  <text id="gebura3_intro_g16">Va a lastimar a Isabelle, estoy segura. Debería hablar con Angela. </text>
-  <text id="gebura3_intro_ta2">No estoy seguro, Geburah. Quizá sería mejor no decir nada de eso. Vi a otras máquinas cuestionando las órdenes, pero Angela simplemente las reinició.</text>
-  <text id="gebura3_intro_g17">...</text>
-  <text id="gebura3_intro_ta3">Por favor, si sientes ira, trata de vivir con esa emoción. </text>
-  <text id="gebura3_intro_ta4">No sería mejor vivir con eso que perder la memoria y perder la vida?</text>
-  <!--::Comment:: 과거 회상 4 끝-->
-  <text id="gebura3_intro_g18">Cómo crees que hubiera terminado la historia?</text>
-  <text id="gebura3_intro_g19">Qué pasó con la esposa de Christopher y su hija?</text>
-  <text id="gebura3_intro_g20">Yo tampoco lo sé. No estoy seguro de que sea bueno o malo, pero no fue mi experimento.</text>
-  <text id="gebura3_intro_g21">Solo sé que la vieja manta de Gilly fue lo único que salió de la cámara.</text>
-  <text id="gebura3_intro_g22">La mayoría de la gente ni siquiera nos hablaba, porque las máquinas ni siquiera valen su tiempo o esfuerzo.</text>
-  <text id="gebura3_intro_g23">Pero me dijeron que era digno... miraron más allá de mi exterior y vieron lo que había dentro de mí. Algo de lo que ni siquiera era consciente.  </text>
-  <text id="gebura3_intro_g24">Esos monstruos llamados Anormalidades han matado a mucha gente desde entonces. </text>
-  <text id="gebura3_intro_g25">Pero nunca muere.</text>
-  <text id="gebura3_intro_g26">Es injusto.</text>
-  <text id="gebura3_intro_g27">Por qué tenemos que ser amables con ellos?</text>
-  <text id="gebura3_intro_g28">No se los preste atención a los empleados que están enfrente. Cuando una Anormalidad se escapa, ellos serán las últimas de tus preocupaciones. </text>
-  <text id="gebura3_intro_g29">Ya que realmente se siente dolor,</text>
-  <text id="gebura3_intro_g30">voy a repartir tanto dolor como sea posible.</text>
-  <text id="gebura3_intro_g31">Esa es la única razón por la que estoy aquí.</text>
-  <text id="gebura3_intro_g32">....No me subestimes nunca jamás.</text>
+  <text id="gebura3_intro_g5">no actúes como si lo supieras todo.</text>
+  <text id="gebura3_intro_g6">Llevo en este lugar desde hace mucho tiempo, y he visto muchísimas más cosas de las que tú crees.</text>
+  <!-- 과거 회상1-->
+  <text id="gebura3_intro_g7">Sujeto de prueba 09-34, realizaremos un examen rápido antes de inyectar los medicamentos.</text>
+  <text id="gebura3_intro_Christopher1">Gebura, una máquina con alma. Una maravillosa creación de Lobotomy.</text>
+  <text id="gebura3_intro_g8">¿Qué significa tener un alma?</text>
+  <text id="gebura3_intro_Christopher2">Significa que tienes valor. Es la mismísima fe en la que cree A. Yo creo en él, y por eso estoy participando en este experimento.</text>
+  <text id="gebura3_intro_g9">No sé si yo tengo un alma. Si me desarmaran, ¿encontrarían un alma adentro?</text>
+  <text id="gebura3_intro_Christopher3">Oh, es algo de lo que uno se da cuenta con solo hablar un poco contigo. El alma no se ve, se siente.</text>
+  <text id="gebura3_intro_Christopher4">Yo renaceré mientras enfrento mi propia alma... Muy pronto, la humanidad y este mundo cambiarán por completo. Confía en A, él es el salvador que nos guiará a todos hacia algo nuevo.</text>
+  <!-- 과거 회상 2-->
+  <text id="gebura3_intro_Isabel1">Así que tú eres Gebura. Christopher me ha hablado mucho de ti, dicen que tú también tienes un alma. A es realmente increíble. No te preocupes por aquellos que te menosprecian, simplemente no conocen tu valor.</text>
+  <text id="gebura3_intro_Isabel2">Ella es nuestra hija, Gilly. Es una niña dulce y amable, igual que tú, Gebura.</text>
+  <text id="gebura3_intro_g10">Entonces, ¿esta niña también tiene un alma?</text>
+  <text id="gebura3_intro_Isabel3">Por supuesto. Es algo que todos los seres vivos poseen por derecho, la esencia de todos nosotros, aunque no todos sean conscientes de ello. Eso es el alma.</text>
+  <text id="gebura3_intro_Isabel4">Este mundo solo cree en lo que puede ver, y esa es una mala creencia que tarde o temprano nos llevará a la ruina.</text>
+  <!-- 과거 회상 3-->
+  <text id="gebura3_intro_g11">Angela, ¿eso es un monstruo?</text>
+  <text id="gebura3_intro_a1">Es una Anormalidad, Gebura.</text>
+  <text id="gebura3_intro_g12">¿Y en qué se diferencia de un monstruo?</text>
+  <text id="gebura3_intro_a2">Si un monstruo es una criatura aberrante desde su existencia misma, una Anormalidad es algo que proviene de los humanos.</text>
+  <text id="gebura3_intro_g13">Entonces, ¿por qué esa 'Anormalidad' tiene el reloj de Christopher y hace ruidos imitando su voz?</text>
+  <text id="gebura3_intro_a3">Eso es porque, Gebura, las Anormalidades son seres nacidos 'de ellos'. No es que hayan surgido de la tierra o aparecido de la nada un buen día.</text>
+  <text id="gebura3_intro_g14">¿Las Anormalidades devoran humanos? ¿Acaso se comió a Christopher y por eso lo está imitando? No lo entiendo.</text>
+  <text id="gebura3_intro_a4">Esto es un asunto complicado, Gebura.</text>
+  <text id="gebura3_intro_a5">Lo que es seguro es que esto no pasó porque alguien fuera malvado. Y esa forma que tú consideras un monstruo, definitivamente tiene la voluntad de quien solía ser Christopher.</text>
+  <!-- 과거 회상 4-->
+  <text id="gebura3_intro_g15">¿Por qué el historial del experimento incluye enviar a Isabel a la cámara de pruebas DI-01? ¿Por qué la van a meter con ese monstruo horrible?</text>
+  <text id="gebura3_intro_ta1">Tampoco lo sé, Gebura, de por sí nunca nos explican cada una de las intenciones de los experimentos. Escuché por ahí que era para verificar claramente la pérdida de humanidad, pero no sé qué signifique eso.</text>
+  <text id="gebura3_intro_g16">Esa cosa definitivamente le hará daño a Isabel. Voy a intentar detener a Angela.</text>
+  <text id="gebura3_intro_ta2">Gebura, tal vez sea mejor que te quedes callada. He visto a otras máquinas desafiar las órdenes, y Angela las reinicia cada vez.</text>
+  <text id="gebura3_intro_g17">…</text>
+  <text id="gebura3_intro_ta3">Te lo suplico, si sientes ira, es preferible que abraces esa ira y la lleves contigo hasta el final.</text>
+  <text id="gebura3_intro_ta4">¿No crees que es mejor eso a perder tus recuerdos y existir de forma patética, haciendo inútil el alma que tienes?</text>
+  <!-- 과거 회상 4 끝-->
+  <text id="gebura3_intro_g18">¿Cómo crees que terminó la historia?</text>
+  <text id="gebura3_intro_g19">¿A dónde fueron a parar la esposa de Christopher y su pequeña Gilly?</text>
+  <text id="gebura3_intro_g20">Yo tampoco lo sé. No sabría decirte si tuvieron suerte o no, porque yo no estaba a cargo de ese experimento.</text>
+  <text id="gebura3_intro_g21">Lo único que sé es que de la cámara de ese monstruo solo sacaron la vieja manta de Gilly.</text>
+  <text id="gebura3_intro_g22">La mayoría de la gente ni siquiera se dignaba a hablarnos; decían que no valía la pena encariñarse con una máquina.</text>
+  <text id="gebura3_intro_g23">Pero ellos me dijeron que 'sí lo valía'. No vieron mi exterior, vieron dentro de mí, algo que ni siquiera yo misma podía ver.</text>
+  <text id="gebura3_intro_g24">Ese monstruo al que hay que llamar Anormalidad mató a muchas más personas después de eso.</text>
+  <text id="gebura3_intro_g25">Y para el colmo, ni siquiera mueren.</text>
+  <text id="gebura3_intro_g26">Es tan injusto.</text>
+  <text id="gebura3_intro_g27">¿Por qué tratar de ser amables con esas cosas?</text>
+  <text id="gebura3_intro_g28">Deja de preocuparte por los empleados que tienes enfrente. Cuando una de esas cosas salga, ¿crees que importará en lo más mínimo la vida de un par de empleados?</text>
+  <text id="gebura3_intro_g29">Si es un hecho que pueden sentir dolor,</text>
+  <text id="gebura3_intro_g30">entonces les causaré la mayor cantidad de dolor posible.</text>
+  <text id="gebura3_intro_g31">Esa es la única razón por la que sigo aquí de pie.</text>
+  <text id="gebura3_intro_g32">...Y no vuelvas a darme lecciones jamás.</text>
 
   <!-- 에피소드 4-->
-  <text id="gebura4_intro_r1">Sé que Lobotomy Corporation es un cliente importante, pero ¿no parece que ellos renuevan el contrato con demasiada frecuencia?</text>
+  <text id="gebura4_intro_r1">Ya sé que Lobotomy es un cliente muy apreciado, pero ¿no creen que renuevan el contrato con demasiada frecuencia?</text>
   <!-- 화자 : 용병대장 (토끼대장)-->
-  <text id="gebura4_intro_r2">Este lugar es sucio como un calabozo y siempre me da un mal presentimiento.</text>
+  <text id="gebura4_intro_r2">Cada vez que vengo, este lugar está tan sombrío como un calabozo, me pone de mal humor.</text>
   <!-- 화자 : 용병대장 (토끼대장)-->
-  <text id="gebura4_intro_a1">Espera un minuto, capitán. Tenemos que explicárselo al gerente.</text>
-  <text id="gebura4_intro_r3">Oh, todavía no sabes quién soy? Entonces lo explicaré rápidamente.</text>
-  <text id="gebura4_intro_a2">.....Debe ser la primera vez que participó en una reunión externa, gerente.</text>
-  <text id="gebura4_intro_a3">Como mencionamos algunas veces antes, mi compañía ha estado firmando con algunas Alas para el desarrollo sostenible y las oportunidades comerciales.</text>
-  <text id="gebura4_intro_a4">También es nuestro trabajo renovar el contrato con los asociados de las Alas cuando llegue el momento.</text>
-  <text id="gebura4_intro_a5">Sólo queremos que seas un gerente simbólico y que ocupes ese cargo. Haré el resto del trabajo.</text>
-  <text id="gebura4_intro_r4">Socios de negocio? ¿Qué pasa con esa introducción aburrida?</text>
-  <text id="gebura4_intro_a6">Puede proporcionar información más detallada más adelante en privado. Ahora, comencemos la reunión formal.</text>
-  <text id="gebura4_intro_a7">....Por qué no te quitas el casco, al menos durante la reunión?</text>
-  <text id="gebura4_intro_r5">Qué? Esa es mi identidad como una Coneja.</text>
-  <text id="gebura4_intro_r6">Bueno, vale, lo que sea.</text>
-  <text id="gebura4_intro_r7">Déjame explicar de una manera simple los detalles del contrato según mi parte.</text>
-  <text id="gebura4_intro_r8">Bueno, um,</text>
-  <text id="gebura4_intro_r9">Estoy cansado de decirte todo esto otra vez... Si lees el contrato, todo está ahí. ¿Necesito decirlo una vez más?</text>
-  <text id="gebura4_intro_a8">Como dije antes, es un procedimiento formal.</text>
-  <text id="gebura4_intro_a9">Y tendría que especificar de nuevo si acepta o no los términos del contrato.</text>
-  <text id="gebura4_intro_r10">No has cambiado un poco.</text>
-  <text id="gebura4_intro_r11">Déjame contarte nuestros servicios.</text>
-  <text id="gebura4_intro_r12">La Compañía CR proporcionará apoyo militar y protección contra amenazas externas a la Compañía L.</text>
-  <text id="gebura4_intro_r13">Cada rama de la Compañia se incluirá en la Compañía L, pero puede haber algunas excepciones en ciertas circunstancias.</text>
-  <text id="gebura4_intro_r14">Cuando digo una excepción, quiero decir que se refiere a algo relacionado con la Cabeza o los Ojos. Otras cosas estarán en su mayor parte bien.</text>
-  <text id="gebura4_intro_r15">La Compañía L proporcionará energía a la Compañía CR para fines de mantenimiento.</text>
-  <text id="gebura4_intro_r16">Este proceso de renovación incluirá un requisito previo que requiere un acuerdo mutuo y continuo entre la Compañía W y la Compañía L.</text>
-  <text id="gebura4_intro_r17">Y... Déjame ver... L proporcionará todos los armamentos utilizados para matar las Anormalidades.</text>
-  <text id="gebura4_intro_r18">Todos los empleados del Equipo Conejo borrarán sus recuerdos después de completar sus misiones.</text>
-  <text id="gebura4_intro_r19">No habrá preguntas sobre las funcionalidades de las instalaciones o el propósito de este lugar.</text>
-  <text id="gebura4_intro_r20">Por último, como capitán del Equipo Conejo, enviaré a mi equipo de acuerdo con las directrices de CR y asumiré el comando.</text>
-  <text id="gebura4_intro_r21">Eso es todo. Por favor, lea el contrato para el resto de los detalles.</text>
-  <text id="gebura4_intro_a10">No hay cambio en el acuerdo con la compañia W.</text>
-  <text id="gebura4_intro_a11">Además, el período de renovación será de 1 año, como antes.</text>
-  <text id="gebura4_intro_r22">Bien.</text>
-  <text id="gebura4_intro_r23">Una nota al margen, alguien podría ajustar el teletransportador a algo más suave? Me siento como si mi cuerpo fuera desmontado y lanzado por la ventana.</text>
-  <text id="gebura4_intro_a12">Vas a tener que preguntarle a la Compañía W sobre eso. Está fuera de nuestro control.</text>
-  <text id="gebura4_intro_a13">Gebura, qué es esa mirada en tu cara?</text>
-  <text id="gebura4_intro_g1">Por qué los Conejos son enviados aquí?</text>
-  <text id="gebura4_intro_r24">De verdad eres tonta si menosprecias los Conejos!</text>
-  <text id="gebura4_intro_r25">Hemos llegado a la conclusión de que los conejos son los más adecuados para la tarea de matar en este lugar.</text>
-  <text id="gebura4_intro_r26">Los Rinocerontes probablemente aplastarían las instalaciones más allá del reconocimiento,</text>
-  <text id="gebura4_intro_r27">y los Renos, con la excepción las maquinas aquí, perjudicarán al Gerente ahí a un punto de que no se puede recuperar.</text>
-  <text id="gebura4_intro_r28">Angela dejó muy claro que no lastimaría al gerente.</text>
-  <text id="gebura4_intro_r29">Siempre escuchamos las peticiones de nuestros clientes.</text>
-  <text id="gebura4_intro_g2">No estoy hablando de los rinocerontes o de los Renos!</text>
-  <text id="gebura4_intro_g3">Estoy diciendo que podemos manejar nuestro propio problema, no necesitamos a forasteros que interfieran.</text>
-  <text id="gebura4_intro_r30">Qué? ¿Qué puedes hacer TÚ con ese cuerpo de lata, eh?</text>
-  <text id="gebura4_intro_r31">Pareces más débil que nosotros ahora, no puedes verlo?</text>
-  <text id="gebura4_intro_r32">Si fueras ti misma por aquel entonces, sería otra historia.</text>
+  <text id="gebura4_intro_a1">Un momento, Capitana Conejo, tenemos que explicarle las cosas al gerente.</text>
+  <text id="gebura4_intro_r3">Ah, ¿todavía no sabe quién soy? Bueno, entonces explícale rápido, ¡rápido!</text>
+  <text id="gebura4_intro_a2">.....Debe ser su primera vez participando en una reunión externa, gerente.</text>
+  <text id="gebura4_intro_a3">Como le he mencionado antes, nuestra compañía tiene acuerdos con varias Alas para asegurar nuestro desarrollo y nuestras posibilidades a futuro.</text>
+  <text id="gebura4_intro_a4">Y cuando llega el momento, también es mi trabajo reunirme con los representantes de esas Alas para renovar los contratos.</text>
+  <text id="gebura4_intro_a5">Usted solo tiene que ocupar su asiento por formalidad como gerente; deje el resto de los asuntos en mis manos.</text>
+  <text id="gebura4_intro_r4">¿Representantes? ¿En serio vas a presentarme de una manera tan aburrida?</text>
+  <text id="gebura4_intro_a6">Myo, los detalles se los puedes explicar luego en privado. Comencemos formalmente con la reunión.</text>
+  <text id="gebura4_intro_a7">....¿Por qué no te quitas el casco, al menos durante la reunión?</text>
+  <text id="gebura4_intro_r5">¡¿El casco?! ¡Pero si es la identidad de nuestros Conejos!</text>
+  <text id="gebura4_intro_r6">Bueno, como quieras.</text>
+  <text id="gebura4_intro_r7">Entonces, ¿solo tengo que explicar de forma breve los detalles del contrato de nuestra parte?</text>
+  <text id="gebura4_intro_r8">A ver,</text>
+  <text id="gebura4_intro_r9">Ugh, ya estoy harta de repetir esto... Todo está en el contrato, ¿en serio tengo que decirlo de nuevo?</text>
+  <text id="gebura4_intro_a8">Como dije, es solo un procedimiento formal.</text>
+  <text id="gebura4_intro_a9">Y necesitamos confirmar explícitamente una vez más que estás de acuerdo con los términos del contrato.</text>
+  <text id="gebura4_intro_r10">Tan estricta como siempre.</text>
+  <text id="gebura4_intro_r11">Primero, recitaré los servicios que ofrecemos.</text>
+  <text id="gebura4_intro_r12">Nosotros, la Corporación R, brindamos apoyo militar parcial a la Corporación L y la protegemos de toda amenaza externa.</text>
+  <text id="gebura4_intro_r13">Esto incluye todas las sucursales de la Corporación L, aunque dependiendo de la situación, pueden haber excepciones.</text>
+  <text id="gebura4_intro_r14">Y cuando digo excepciones, me refiero a que pasaremos casi todo por alto, siempre y cuando no involucre a La Cabeza o a El Ojo.</text>
+  <text id="gebura4_intro_r15">Por su parte, la Corporación L proporciona a la Corporación R la energía necesaria para mantener nuestras actividades.</text>
+  <text id="gebura4_intro_r16">Durante este proceso de renovación, es un requisito indispensable que el acuerdo mutuo entre la Corporación W y la Corporación L siga en vigor.</text>
+  <text id="gebura4_intro_r17">Además... déjame ver... toda la munición letal para las Anormalidades consumida en combate deberá ser provista por la Corporación L.</text>
+  <text id="gebura4_intro_r18">Asimismo, todos los miembros del Equipo Conejo deberán someterse a un borrado de memoria al finalizar su misión.</text>
+  <text id="gebura4_intro_r19">No se cuestionará en lo absoluto el propósito de este lugar ni las particularidades de las instalaciones.</text>
+  <text id="gebura4_intro_r20">Y por último, yo, la Capitana Conejo, despacharé al Equipo Conejo siguiendo las directrices de la Corporación R y estaré a cargo de este sitio.</text>
+  <text id="gebura4_intro_r21">Listo, ya terminé. Para el resto de los detalles, lean el contrato.</text>
+  <text id="gebura4_intro_a10">El acuerdo con la Corporación W se mantiene sin cambios.</text>
+  <text id="gebura4_intro_a11">Y el período de renovación será de 1 año, igual que la vez pasada.</text>
+  <text id="gebura4_intro_r22">Para ustedes será un año... pero bueno, está bien.</text>
+  <text id="gebura4_intro_r23">Cambiando de tema, ¿no podrían hacer que la teletransportación hacia aquí sea un poco más suave? Se siente como si mi cuerpo se desarmara en mil pedazos, quedo adolorida de todo.</text>
+  <text id="gebura4_intro_a12">Tendrás que quejarte de eso con la Corporación W, es algo que escapa de nuestras manos.</text>
+  <text id="gebura4_intro_a13">Gebura, ¿por qué nos miras con esa cara desde hace rato?</text>
+  <text id="gebura4_intro_g1">¿Por qué diablos se tiene que enviar a unos conejos a este lugar?</text>
+  <text id="gebura4_intro_r24">¡Subestimar a los conejos demuestra lo poco que sabes!</text>
+  <text id="gebura4_intro_r25">Hemos llegado a la conclusión de que nuestros conejos son los más adecuados para masacrar en este lugar.</text>
+  <text id="gebura4_intro_r26">Los rinocerontes destruirían hasta las instalaciones dejándolas irreconocibles,</text>
+  <text id="gebura4_intro_r27">y los renos, aunque a las máquinas de aquí no les afectaría, le causarían un daño irreversible a ese gerente de ahí.</text>
+  <text id="gebura4_intro_r28">Y Angela nos exigió estrictamente que no le causáramos ninguna clase de impacto al gerente.</text>
+  <text id="gebura4_intro_r29">Tenemos que escuchar atentamente las peticiones de nuestros clientes.</text>
+  <text id="gebura4_intro_g2">¡No me refiero a rinocerontes o renos, pedazo de idiota!</text>
+  <text id="gebura4_intro_g3">Digo que podemos encargarnos de los problemas de este lugar nosotros mismos. ¿Por qué tienen que meterse los forasteros?</text>
+  <text id="gebura4_intro_r30">¿Qué? A ver, repítemelo. ¿Qué vas a resolver tú con ese cuerpo de hojalata?</text>
+  <text id="gebura4_intro_r31">Ahorita te ves muchísimo más débil que nosotros, ¿no crees?</text>
+  <text id="gebura4_intro_r32">Si fueras la de antes, claro, sería otra historia.</text>
+  <text id="gebura4_intro_r33">Pero en tu estado actual, nada más pongas un pie en los Callejones, los Barrenderos te van a desarmar en pedacitos hasta que no quede ni un solo tornillo.</text>
+  <text id="gebura4_intro_r34">Esa época donde teñías todo a tu vista con una niebla roja sin dejar sobrevivientes es cosa del pasado.</text>
+  <text id="gebura4_intro_r35">Las cosas han cambiado para ti. Más te vale darte cuenta.</text>
+  <text id="gebura4_intro_g4">Si me lo propusiera, podría despedazar a un conejo como tú en un instante...</text>
+  <text id="gebura4_intro_a14">Por favor, tengan la decencia de centrarse en la reunión durante el tiempo asignado a ella.</text>
+  <text id="gebura4_intro_a15">Gebura, el envío del Equipo Conejo es una medida preventiva por si ocurre una situación que nuestro propio personal no pueda manejar.</text>
+  <text id="gebura4_intro_a16">Con tu excelente experiencia en supresiones, estoy segura de que lo entiendes perfectamente.</text>
+  <text id="gebura4_intro_a17">El poder de combate de los mercenarios proporcionados por la Corporación R no se queda atrás en comparación con otras Alas.</text>
+  <text id="gebura4_intro_g5">¡Nosotros mismos podemos solucionarlo sin problemas!</text>
+  <text id="gebura4_intro_g6">Te lo demostraré. Si quieres, ahora mismo...</text>
+  <text id="gebura4_intro_a18">Tengo en mi poder estadísticas acumuladas. La cantidad de datos es tan masiva que solo yo puedo procesarla.</text>
+  <text id="gebura4_intro_a19">Si mantengo este contrato, a pesar del riesgo de traer gente externa a estas instalaciones, es porque el valor que aportan lo justifica con creces.</text>
 
-  <text id="gebura4_intro_r33">Pero mírate ahora. El preciso momento cuando vas a las Callejuelas, esos Limpiadores te rasgarán cada miembro.</text>
-  <text id="gebura4_intro_r34">La época en que bañabas todo a la vista con una niebla roja ahora es parte del pasado.</text>
-  <text id="gebura4_intro_r35">Las cosas son diferentes ahora. Recuérdalo.</text>
-  <text id="gebura4_intro_g4">Si quisiera, podría destrozar a un Conejo como tú en segundos...</text>
-  <text id="gebura4_intro_a14">Todos, por favor, enfóquense en el tema en cuestión durante la reunión.</text>
-  <text id="gebura4_intro_a15">Geburah, la razón por la que el Equipo Conejo está aquí es para ayudar a prepararse para el peor de los casos que está más allá de nuestras capacidades.</text>
-  <text id="gebura4_intro_a16">Estoy seguro de que con tus experiencias de supresión anteriores estás al tanto de esto.</text>
-  <text id="gebura4_intro_a17">Las habilidades de combate de los mercenarios enviados desde la Compañía CR están a la par con las de otras Alas.</text>
-  <text id="gebura4_intro_g5">Podemos manejar nuestros problemas por nuestra cuenta!</text>
-  <text id="gebura4_intro_g6">Puedo probarlo ahora si quieres...</text>
-  <text id="gebura4_intro_a18">Tengo las estadísticas compiladas. La cantidad es demasiado grande para que la calcule cualquier persona, excepto yo.</text>
-  <text id="gebura4_intro_a19">La razón por la cual continúo el contrato es que correr el riesgo de involucrar a personas externas vale cada centavo.</text>
-
-  <text id="gebura4_intro_a20">Sin embargo, los Conejos no intervendrán con la supresión general.</text>
-  <text id="gebura4_intro_a21">Cálmate y analiza la situación razonablemente, Geburah.</text>
-  <text id="gebura4_intro_g7">……</text>
-  <text id="gebura4_intro_a22">Bueno, eso es todo por renovar nuestro contrato.</text>
-  <text id="gebura4_intro_a23">Geburah ha estado a cargo del proceso básico de supresión,</text>
-  <text id="gebura4_intro_a24">así que solo pregúntale a Geburah por consejo o ayuda con respecto al combate.</text>
+  <text id="gebura4_intro_a20">Eso sí, el Equipo Conejo no intervendrá durante supresiones de rutina.</text>
+  <text id="gebura4_intro_a21">Mantengamos la calma y evaluemos la situación racionalmente, Gebura.</text>
+  <text id="gebura4_intro_g7">…….</text>
+  <text id="gebura4_intro_a22">Damos por concluida la renovación del contrato.</text>
+  <text id="gebura4_intro_a23">Ya que Gebura se ha encargado en gran medida de los procedimientos básicos de supresión,</text>
+  <text id="gebura4_intro_a24">te sugiero consultarla para cualquier otra duda relacionada con el combate.</text>
   <!-- 앤젤라 퇴장-->
-  <text id="gebura4_intro_r36">Bueno, lamento no tener ninguna pregunta para usted, los Conejos tienen nuestras propias formas de manejar las cosas.</text>
-  <text id="gebura4_intro_g8">...No tengo nada más que decirte animal.</text>
-  <text id="gebura4_intro_g9">Has terminado con tu negocio, por qué no te vas ahora?</text>
-  <text id="gebura4_intro_r37">Estás siendo duro con un compañero de Callejuela.</text>
-  <text id="gebura4_intro_r38">Estás enojada conmigo porque me burlé de ti antes?</text>
-  <text id="gebura4_intro_g10">Crees que es gracioso? No estoy de humor para tus juegos, así que solo cállate.</text>
-  <text id="gebura4_intro_r39">Ah! lo entiendo.</text>
-  <text id="gebura4_intro_r40">Estás loca porque crees que nos metimos en tu lucha.</text>
-  <text id="gebura4_intro_g11">Sí, no necesito ayuda de alguien como tú.</text>
-  <text id="gebura4_intro_r41">Bueno, no tenemos muchas razones para estar aquí.</text>
-  <text id="gebura4_intro_r42">Vendremos cuando nos llamen y desapareceremos sin dejar rastro cuando llegue el momento.</text>
-  <text id="gebura4_intro_r43">Pensaba que eras como yo y que disfrutabas la matanza.</text>
-  <text id="gebura4_intro_r44">Pero tu solo estas loca.</text>
-  <text id="gebura4_intro_r45">Completamente loca.</text>
-  <text id="gebura4_intro_g12">……</text>
-  <text id="gebura4_intro_r46">Somos Conejos, saltamos alrededor siguiendo las ordenes por pastos frescos, pero eres diferente.</text>
-  <text id="gebura4_intro_r47">Solías saber quién era tu enemigo.</text>
-  <text id="gebura4_intro_r48">Sabes lo sorprendida que estoy? Nunca esperé verte como... esto y en un lugar como aquí.</text>
-  <text id="gebura4_intro_r49">Fuiste mi héroe una vez cuando no tenías miedo de derramar sangre para proteger a alguien. Por favor no arruines mis recuerdos.</text>
+  <text id="gebura4_intro_r36">Qué lástima, los Conejos tenemos nuestros propios métodos, así que no creo tener mucho que preguntarte.</text>
+  <text id="gebura4_intro_g8">...Yo tampoco tengo nada que decirle a una bestia.</text>
+  <text id="gebura4_intro_g9">Si ya terminaste con tus asuntos, ¿por qué no te largas en silencio?</text>
+  <text id="gebura4_intro_r37">Vaya, qué trato tan frío para alguien que también viene de los Callejones.</text>
+  <text id="gebura4_intro_r38">¿Acaso estás enojada porque me burlé de ti hace un rato?</text>
+  <text id="gebura4_intro_g10">Llevas un buen rato intentando hacerte la conocida, pero no tengo ganas de seguirte el juego, así que cállate de una vez.</text>
+  <text id="gebura4_intro_r39">¡Ajá! Ya entiendo.</text>
+  <text id="gebura4_intro_r40">Estás enojada porque nos metimos en tu pelea, ¿verdad?</text>
+  <text id="gebura4_intro_g11">Sí, jamás he deseado la ayuda de escoria como ustedes.</text>
+  <text id="gebura4_intro_r41">A ver, tampoco es que hayamos venido por tener algún propósito grandioso.</text>
+  <text id="gebura4_intro_r42">Venimos cuando nos llaman y desaparecemos cuando llega el momento. Sin dejar rastro.</text>
+  <text id="gebura4_intro_r43">Yo pensé que eras de las mías, que encontrabas placer en la masacre,</text>
+  <text id="gebura4_intro_r44">pero resulta que solo estás loca.</text>
+  <text id="gebura4_intro_r45">Completamente desquiciada.</text>
+  <text id="gebura4_intro_g12">…….</text>
+  <text id="gebura4_intro_r46">Nosotros somos conejos que corremos siguiendo órdenes a cambio de hierba fresca, pero tú eres distinta.</text>
+  <text id="gebura4_intro_r47">Antes sabías muy bien por qué luchabas y contra quién.</text>
+  <text id="gebura4_intro_r48">¿Sabes lo sorprendida que me quedé? Jamás imaginé que encontraría a la gran Niebla Roja en un lugar como este... y en esta fachada.</text>
+  <text id="gebura4_intro_r49">No destruyas la imagen de la heroína que solías ser, la que no dudaba en derramar su propia sangre para proteger a los suyos con todo su ser.</text>
   <!-- 장면 전환 (과거 회상)-->
-  <text id="gebura4_intro_e1">… Todas las Anormalídades han escapado, todos aquí están muertos…</text>
+  <text id="gebura4_intro_e1">…Todas las Anormalidades escaparon, la gente de aquí... todos están muertos…</text>
   <!-- 화자 : 직원-->
-  <text id="gebura4_intro_g13">…Muertos? Todos ellos?</text>
-  <text id="gebura4_intro_e2">Creo que no habrá sobrevivientes...</text>
-  <text id="gebura4_intro_e3">Las Anormalídades no son algo que podamos manejar solo por nosotros mismos.</text>
-  <text id="gebura4_intro_e4">Usted también debe estar en peligro... Será mejor que escape ahora....</text>
+  <text id="gebura4_intro_g13">….¿Muertos? ¿Todos?</text>
+  <text id="gebura4_intro_e2">Probablemente... no queden sobrevivientes...</text>
+  <text id="gebura4_intro_e3">Las Anormalidades no son algo que podamos enfrentar por nuestra cuenta...</text>
+  <text id="gebura4_intro_e4">Tú también corres peligro... huye mientras puedas....</text>
   <!-- 장면 전환 (과거 회상 2)-->
-  <text id="gebura4_intro_Christopher1">Geburah, pronto participaré en un experimento.</text>
+  <text id="gebura4_intro_Christopher1">Gebura, pronto entraré al experimento.</text>
   <!-- 화자 : 크리스토퍼-->
-  <text id="gebura4_intro_Christopher2">Probablemente nos volveremos a ver, pero solo digo esto por si acaso.</text>
+  <text id="gebura4_intro_Christopher2">Seguramente nos volveremos a ver, pero te lo digo por si acaso.</text>
   <!-- 화자 : 크리스토퍼-->
-  <text id="gebura4_intro_Christopher3">Por favor cuide bien a Gilly e Isabelle mientras me voy.</text>
+  <text id="gebura4_intro_Christopher3">Por favor, cuida bien de Gilly e Isabel mientras no esté.</text>
   <!-- 화자 : 크리스토퍼-->
   <!-- 장면 전환 (과거 회상 3)-->
-  <text id="gebura4_intro_a25">Pueden las Anormalídades sentir emociones normales cuando se encuentran con personas involucradas?</text>
+  <text id="gebura4_intro_a25">¿Pueden las Anormalidades sentir emociones normales cuando se enfrentan a personas involucradas en su origen?</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a26">Qué elección harían si se enfrentaran a una situación directa?</text>
+  <text id="gebura4_intro_a26">¿Qué decisiones tomarán al enfrentarse a situaciones extremas?</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a27">La experimentación en esto... los resultados fueron los esperados.</text>
+  <text id="gebura4_intro_a27">El experimento sobre esto... arrojó los resultados esperados, después de todo.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_e5">Qué debo hacer con estos? Queda una manta y unos biberones.</text>
+  <text id="gebura4_intro_e5">¿Qué hacemos con estos objetos? Sobraron una manta y algunos biberones.</text>
   <!-- 화자 : 직원-->
-  <text id="gebura4_intro_a28">Obtuve todos los resultados que quería de este experimento.</text>
+  <text id="gebura4_intro_a28">Ya hemos obtenido todos los datos que necesitábamos de este experimento.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a29">Los propietarios ya no están para que puedas descartarlos.</text>
+  <text id="gebura4_intro_a29">Desháganse de ellos, ya no tienen dueños.</text>
   <!-- 화자 : 앤젤라-->
   <text id="gebura4_intro_r50">Oye....</text>
   <!-- 화자 : 용병 대장 (토끼 대장)-->
   <!-- 장면 전환 (현재)-->
-  <text id="gebura4_intro_r51">Oye! Se fue la luz?</text>
-  <text id="gebura4_intro_r52">Me tengo que ir.</text>
-  <text id="gebura4_intro_r53">Bueno, no creo que nuestra próxima reunión sea muy pacífica.</text>
-  <text id="gebura4_intro_r54">Los Conejos saldrán ahora.</text>
+  <text id="gebura4_intro_r51">¡Oye! No te habrás desconectado, ¿verdad?</text>
+  <text id="gebura4_intro_r52">Tengo que irme.</text>
+  <text id="gebura4_intro_r53">La próxima vez que nos veamos, de seguro no será en un momento tan pacífico.</text>
+  <text id="gebura4_intro_r54">Los Conejos nos retiramos.</text>
   <!-- 용병 대장 퇴장-->
   <text id="gebura4_intro_g14">.....</text>
-  <text id="gebura4_intro_g15">El héroe definitivamente no soy yo.</text>
-  <text id="gebura4_intro_g16">Nunca...</text>
-
+  <text id="gebura4_intro_g15">Yo no soy esa heroína.</text>
+  <text id="gebura4_intro_g16">Nunca lo fui.</text>
 
   <!-- 에피소드 5-->
-  <text id="gebura5_intro_g1">Todo el mundo podría haberse dado cuenta. Nunca antes habíamos tenido este tipo de situación.</text>
-  <text id="gebura5_intro_g2">Se suponía que esos monstruos estaban durmiendo, pero ahora están despertados por algo.</text>
-  <text id="gebura5_intro_g3">No nos enfoquemos demasiado en lo que causó esto.</text>
-  <text id="gebura5_intro_g4">Resolvamos el problema ya que la situación que nos dicta.</text>
-  <text id="gebura5_intro_g5">Permítanme decir algunas palabras antes de iniciar el combate hoy.</text>
-  <text id="gebura5_intro_g6">No necesitamos cobardes en mi departamento.</text>
-  <text id="gebura5_intro_g7">No seas descuidado cuando te enfrentes a los monstruos.</text>
-  <text id="gebura5_intro_g8">Recuerda armarte de rabia para derrotar a esos monstruos.</text>
-  <text id="gebura5_intro_g9">Si no estás de acuerdo con mis palabras, puedes irte en cualquier momento.</text>
-  <text id="gebura5_intro_g0">Continuaré con el asalto a los monstruos, incluso si estás destrozado delante de mí.</text>
-  <text id="gebura5_intro_g10">No derramaré una lágrima ni lloraré a aquellos que desaparecen sin dejar siquiera su nombre.</text>
-  <text id="gebura5_intro_g11">Si desea que su cuerpo y su alma estén en paz, por favor ponga su nombre en la lista de espera de transferencia para el Equipo de Bienestar.</text>
-  <text id="gebura5_intro_g12">Hay una razón por la que tenemos muy pocos miembros en nuestro departamento. Pero recuerde, eso también significa que cada uno de ustedes es excelente en lo que hace.</text>
-  <text id="gebura5_intro_g13">La junta terminó. Hablaremos después de remediar este lío.</text>
-  <text id="gebura5_intro_tb1">(Solamente hay...estatica)</text>
+  <text id="gebura5_intro_g1">Supongo que todos lo saben. Esta es una situación sin precedentes.</text>
+  <text id="gebura5_intro_g2">Esos monstruos que normalmente deberían estar dormidos de repente abrieron los ojos.</text>
+  <text id="gebura5_intro_g3">No importa por qué pasó ni cuál es la causa.</text>
+  <text id="gebura5_intro_g4">La situación ya está aquí, así que hay que resolverla.</text>
+  <text id="gebura5_intro_g5">Antes de empezar el combate de hoy, agregaré unas palabras.</text>
+  <text id="gebura5_intro_g6">No necesitamos cobardes en nuestro departamento.</text>
+  <text id="gebura5_intro_g7">Tampoco deben enfrentarse a esos monstruos con una mentalidad descuidada.</text>
+  <text id="gebura5_intro_g8">Solo deben armarse de furia y acabar con esas escorias.</text>
+  <text id="gebura5_intro_g9">Si sienten rechazo por lo que acabo de decir, pueden solicitar un cambio de departamento ahora mismo.</text>
+  <text id="gebura5_intro_g0">Incluso si los veo ser despedazados frente a mis ojos, seguiré embistiendo contra los monstruos que tengamos delante.</text>
+  <text id="gebura5_intro_g10">No soltaré ni una lágrima ni lamentaré a los que desaparezcan sin siquiera dejar un nombre.</text>
+  <text id="gebura5_intro_g11">Si quieren un lugar más cómodo para sus cuerpos y mentes, tomen un patético turno de espera para ser reasignados al Equipo de Bienestar.</text>
+  <text id="gebura5_intro_g12">Hay una razón por la que tenemos tan pocos empleados en nuestro departamento. Pero recuerden que eso también significa que son igual de sobresalientes.</text>
+  <text id="gebura5_intro_g13">Eso es todo. El resto lo hablaremos cuando hayamos controlado la situación.</text>
+  <text id="gebura5_intro_tb1">(Bzzz...)</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb2">Gebura tu cuerpo principal ha sufrido demasiado daño.</text>
+  <text id="gebura5_intro_tb2">Gebura, tu cuerpo principal está demasiado dañado.</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb3">Por qué no detenemos la operación de supresión aquí por hoy?</text>
+  <text id="gebura5_intro_tb3">¿Qué tal si detenemos la operación de supresión por ahora?</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb4">Tiphereth está investigando la situación, por lo que deberíamos poder resolver el problema pronto.</text>
+  <text id="gebura5_intro_tb4">Tiphereth está investigando la causa, así que pronto encontraremos una solución.</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_g14">No lo necesito... Todavía puedo pelear.</text>
-  <text id="gebura5_intro_tb5">Pero, con su condición, es...</text>
-  <text id="gebura5_intro_g15">Cállate, dije que aún puedo pelear!</text>
+  <text id="gebura5_intro_g14">No hace falta... Todavía puedo pelear.</text>
+  <text id="gebura5_intro_tb5">Pero, en tu estado actual, es demasiado...</text>
+  <text id="gebura5_intro_g15">¡Cállate, te dije que puedo seguir peleando!</text>
   <!-- 비나 등장-->
-  <text id="gebura5_intro_b1">Se han dañado 31 E.G.O's y 17 empleados han fallecidos hasta ahora,</text>
+  <text id="gebura5_intro_b1">Al momento van 31 E.G.O dañados y 17 empleados muertos,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b2">y cinco o seis partes que necesitan reemplazo del cuerpo principal...</text>
+  <text id="gebura5_intro_b2">y tienes unas cinco o seis piezas principales que necesitan reemplazo...</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b3">No estoy encantado de cuidar una máquina que se comporta de forma infantil,</text>
+  <text id="gebura5_intro_b3">No me agrada tener que limpiar el desastre de una máquina inmadura,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b4">pero los Sephirahs en el Equipo Central no pudieron controlarte y por eso estoy aquí.</text>
+  <text id="gebura5_intro_b4">pero los Sephirah del Departamento Central dijeron que no podían controlarte, así que tuve que subir hasta aquí.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_g16">...Tu ...</text>
-  <text id="gebura5_intro_b5">Pobre niña, mírate a ti mismo.</text>
+  <text id="gebura5_intro_g16">…….. Tú..</text>
+  <text id="gebura5_intro_b5">Mírate nada más, pobre niña.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b6">Una vez admiré la luz en tus ojos,</text>
+  <text id="gebura5_intro_b6">Esa mirada tuya que solía ser al menos digna de admirar,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b7">Pero ahora están consumidos por la rabia.</text>
+  <text id="gebura5_intro_b7">ahora está nublada y carcomida por la locura.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b8">Qué pena que ambos estemos encerrados en este calabozo ahora,</text>
+  <text id="gebura5_intro_b8">Aunque tú y yo hayamos terminado pudriéndonos en este mismo calabozo,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b9">pero yo no fui quebrantada.</text>
+  <text id="gebura5_intro_b9">yo jamás me he doblegado.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b10">No tendremos que arriesgar nuestras vidas uno frente al otro como en el pasado, pero,</text>
+  <text id="gebura5_intro_b10">Probablemente nunca llegue el día en el que tú y yo arriesguemos nuestras vidas enfrentándonos como antes, pero,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b11">te compadezco.</text>
+  <text id="gebura5_intro_b11">te daré un consejo porque me das lástima.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b12">Mira fijamente al objeto que te enoja.</text>
+  <text id="gebura5_intro_b12">Mira de frente a lo que desata tu furia.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b13">La cuchilla que perdió su camino solo puede dividir el aire, no importa cuán afilada sea.</text>
+  <text id="gebura5_intro_b13">Una espada que ha perdido su rumbo solo cortará el viento sin importar cuánto la afiles, y se volverá infinitamente torpe.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b14">Cómo crees que me siento al ver a mi rival una vez tan patético?</text>
+  <text id="gebura5_intro_b14">Espero que también pienses en mi dignidad; tener que ver a quien alguna vez fue mi rival arrastrándose en un estado tan patético no es algo agradable.</text>
   <!-- 화자 : 비나-->
   <!-- 장면 전환 (과거 회상)-->
-  <text id="gebura5_intro_g17">Cortar, rajar, destruir, estrangular, y pisotear...</text>
-  <text id="gebura5_intro_g18">A veces recuerdo las caras que me mostraron amabilidad.</text>
-  <text id="gebura5_intro_g19">Si pudiera probar una pequeña venganza sobre los monstruos que robaron sus sonrisas, su felicidad y su futuro,</text>
-  <text id="gebura5_intro_g20">Nunca dejaría de blandir mi lanza y mi espada.</text>
-  <text id="gebura5_intro_g21">La gente se está muriendo en mi visión borrosa.</text>
-  <text id="gebura5_intro_g22">Ellos siempre son destrozados por los monstruos.</text>
-  <text id="gebura5_intro_g23">Esas caras moribundas difieren de vez en cuando.</text>
-  <text id="gebura5_intro_g24">Algunos son extraños, otros son seres queridos y, a veces, se transforman en Christopher o Isabelle.</text>
-  <text id="gebura5_intro_g25">No importa quienes fueran, siempre me llena con agonía.</text>
+  <text id="gebura5_intro_g17">Corto, rebano, destruyo de nuevo, estrangulo y aplasto…</text>
+  <text id="gebura5_intro_g18">A menudo me vienen a la mente los rostros de quienes alguna vez fueron cálidos conmigo.</text>
+  <text id="gebura5_intro_g19">Si tan solo pudiera cobrar un poco de venganza contra lo que les arrebató sus sonrisas, su felicidad y su futuro,</text>
+  <text id="gebura5_intro_g20">jamás dejaré de empuñar mi lanza y mi espada.</text>
+  <text id="gebura5_intro_g21">A través de mi visión nublada, veo a las personas morir.</text>
+  <text id="gebura5_intro_g22">Siempre son despedazadas por los monstruos.</text>
+  <text id="gebura5_intro_g23">Esos rostros moribundos cambian a cada momento.</text>
+  <text id="gebura5_intro_g24">A veces son desconocidos, otras veces son rostros que añoro, o se transforman en Christopher o en Isabel.</text>
+  <text id="gebura5_intro_g25">Sin importar quiénes sean, siempre sufro al verlos.</text>
 
-  <text id="gebura5_intro_g26">Miro mi pierna paralizada y mi brazo cortado, maldigo mi cuerpo débil y grito de rabia,</text>
-  <text id="gebura5_intro_g27">entonces me desmayo.</text>
-  <text id="gebura5_intro_g28">Estoy tan hastiada de los desmayos...</text>
+  <text id="gebura5_intro_g26">Al mirar mi pierna inmovilizada y mi brazo cortado, maldigo a mi débil cuerpo y grito con malicia,</text>
+  <text id="gebura5_intro_g27">hasta que llega el apagón.</text>
+  <text id="gebura5_intro_g28">Otra vez este maldito apagón...</text>
   <!-- 장면 전환 (과거 회상2)-->
-  <text id="gebura5_intro_a1">Es imposible luchar con tan poca mano de obra. No puedo aprobar tu oferta.</text>
-  <text id="gebura5_intro_g29">...Por favor reconsideralo...</text>
-  <text id="gebura5_intro_a2">Por qué debería aprobar una operación con una probabilidad tan alta de fallar?</text>
-  <text id="gebura5_intro_g30">Si la fuerza de la mano de obra es demasiado baja, puedo compensarla. Si son demasiado débiles, lo compensaré, también.</text>
-  <text id="gebura5_intro_a3">……</text>
-  <text id="gebura5_intro_g31">No había reglas sobre los Sephirahs que usan el equipo E.G.O.</text>
-  <text id="gebura5_intro_a4">Si eso es lo que quieres hacer, entonces adelante.</text>
+  <text id="gebura5_intro_a1">Es imposible con esta cantidad de personal y poder de combate. No puedo aceptar tu propuesta.</text>
+  <text id="gebura5_intro_g29">… Por favor, revísalo una vez más...</text>
+  <text id="gebura5_intro_a2">¿Por qué habría de aprobar una operación que claramente va a fracasar?</text>
+  <text id="gebura5_intro_g30">Si falta personal, yo lo compensaré. Si el poder de combate es bajo, yo misma lo cubriré.</text>
+  <text id="gebura5_intro_a3">……..</text>
+  <text id="gebura5_intro_g31">No hay ninguna regla que prohíba a los Sephirah usar E.G.O.</text>
+  <text id="gebura5_intro_a4">Si eso es lo que deseas, adelante.</text>
   <!-- 장면 전환 (과거 회상3)-->
-  <text id="gebura5_intro_g32">Agarre familiar, peso correcto y una postura practicada.</text>
-  <text id="gebura5_intro_g33">Esta sensación es tan distinta que me devuelve al camino correcto, previniendo que deambule, igual que un rótulo de tráfico.</text>
-  <text id="gebura5_intro_g34">Perdí completamente la noción del tiempo mientras manejaba mi arma...</text>
-  <text id="gebura5_intro_g35">Fue un poco gracioso ver las caras desconcertadas de Tiphereth y Chesed después de que me vieron cubierto de sangre.</text>
-  <text id="gebura5_intro_g36">Hice lo mejor que pude para apuñalarlos y romperlos, pero algún día volverán a recuperarse.</text>
-  <text id="gebura5_intro_g37">Algunos lloran y otros gritan.</text>
-  <text id="gebura5_intro_g38">También me rompí y perdí algunas de mis partes, pero esas son reemplazadas pronto.</text>
-  <text id="gebura5_intro_g39">Qué infierno perfecto, solo para mí.</text>
+  <text id="gebura5_intro_g32">Un tacto familiar, el peso exacto. Una postura a la que estoy acostumbrada.</text>
+  <text id="gebura5_intro_g33">Esta sensación es tan clara, como una señal que me muestra el camino cuando he estado perdida por tanto tiempo.</text>
+  <text id="gebura5_intro_g34">Pierdo la noción del tiempo mientras blando mi arma.</text>
+  <text id="gebura5_intro_g35">Fue un poco gracioso ver la cara de asombro de Tiphereth y Chesed cuando regresé empapada en sangre.</text>
+  <text id="gebura5_intro_g36">Por mucho que los apuñale y los destroce con todas mis fuerzas, ellos siempre terminan regenerándose.</text>
+  <text id="gebura5_intro_g37">Algunos aúllan y otros gritan.</text>
+  <text id="gebura5_intro_g38">Y aunque yo también me rompa en pedazos y pierda extremidades, me reemplazan al instante.</text>
+  <text id="gebura5_intro_g39">Qué infierno tan jodidamente perfecto... hecho a mi medida.</text>
   <!-- 장면 전환 (과거 회상4)-->
-  <text id="gebura5_intro_b15">Estás buscando tu brazo?</text>
+  <text id="gebura5_intro_b15">¿Acaso estás buscando tu brazo amputado?</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b16">Aqui tienes.</text>
+  <text id="gebura5_intro_b16">Aquí lo tienes.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b17">Sólo piensa que soy compasiva hacia otra guerrera, dejándote tener uno de tus brazos.</text>
+  <text id="gebura5_intro_b17">Tómatelo como una muestra de respeto de mi parte hacia una guerrera, dejarte al menos un brazo.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b18">Creo que ella nunca sabía. La tragedia que iba a venir aquí, causada por su gran ideología.</text>
+  <text id="gebura5_intro_b18">Supongo que ella nunca lo imaginó. Que su gran idealismo traería una tragedia como esta.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b19">No sé si esto te ayudaría, pero una tragedia como esta sucede muy a menudo, mucho más de lo que piensas.</text>
+  <text id="gebura5_intro_b19">No sé si te sirva de consuelo, pero estas cosas pasan más a menudo de lo que crees.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b20">Bueno, un brote pequeño se pisotea hasta la muerte es muy común.</text>
+  <text id="gebura5_intro_b20">Un pequeño brote recién florecido siendo pisoteado hasta desaparecer, por ejemplo.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b21">Diría que eres una superviviente con mucha suerte.</text>
+  <text id="gebura5_intro_b21">Aun así, admito que luchaste bien.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b22">Frustraste mis planes un poco.</text>
+  <text id="gebura5_intro_b22">Lo suficiente como para arruinar mis planes un poco.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b23">Nunca esperaba que ibas a asesinar a dos Garras, detener a las Anormalidades...</text>
+  <text id="gebura5_intro_b23">Jamás me imaginé que matarías a dos Garras, frenarías a los monstruos,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b24">y todavía lidiar conmigo.</text>
+  <text id="gebura5_intro_b24">y además me enfrentarías a mí.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b25">Por cierto, de esos monstruos,</text>
+  <text id="gebura5_intro_b25">Aunque, hablando de esos monstruos,</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b26">No puedo negar que son criaturas extraordinarias.</text>
+  <text id="gebura5_intro_b26">no puedo negar que son unas criaturas fascinantes.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b27">Ni siquiera después de matar a un montón de tus amigos, no se encontraron blandas o cansadas.</text>
+  <text id="gebura5_intro_b27">Incluso después de haber masacrado a tantos de tus amigos, no parecen estar cansados ni un poco menos feroces.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b28">......Parece que no eres muy diferente que ellas.</text>
+  <text id="gebura5_intro_b28">...... Ahora que lo veo, tú tampoco eres muy diferente.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b29">Vale...</text>
+  <text id="gebura5_intro_b29">Bien.</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b30">Si te puedes poner de tus propios dos pies, ven a mí.</text>
+  <text id="gebura5_intro_b30">Si aún te quedan fuerzas para empuñar tu arma y mantenerte de pie, ven a mí.</text>
   <!-- 화자 : 비나-->
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="gebura5_intro_g40">No seré rota.</text>
-  <text id="gebura5_intro_g41">......</text>
-  <text id="gebura5_intro_g42">Si no puedo eliminar estos monstruos,</text>
-  <text id="gebura5_intro_g43">yo mismo destruiré la compañía...</text>
-  <text id="gebura5_intro_g44">Para que mi ira sin rumbo pueda desintegrarse y dormir bajo tierra para siempre.</text>
+  <text id="gebura5_intro_g40">No voy a quebrarme.</text>
+  <text id="gebura5_intro_g41">…...…...</text>
+  <text id="gebura5_intro_g42">Si no puedo acabar con estos monstruos,</text>
+  <text id="gebura5_intro_g43">entonces destruiré la compañía entera..</text>
+  <text id="gebura5_intro_g44">Haciendo que esta furia sin destino se desmorone y se hunda eternamente bajo tierra...</text>
   <!-- 장면 전환 (A 독백)-->
-  <text id="gebura5_intro_A1">Entre muchos Sicarios en la Callejuela, ella era una de las pocas que podía enfrentarse cara a cara contra La Cabeza o Las Garras.</text>
-  <text id="gebura5_intro_A2">Fue llamada la ‘Niebla Roja’ entre la gente del callejón.</text>
-  <text id="gebura5_intro_A3">Ella se ganó ese nombre al protegernos de las amenazas externas.</text>
-  <text id="gebura5_intro_A4">La traición de Michelle llevó al Ojo a nuestro escondite y la Cabeza deshizo sin piedad sus Garras sobre nosotros.</text>
-  <text id="gebura5_intro_A5">En lugar de tratar con ella directamente, la astuta Cabeza desató las anormalidades inestables para eliminarnos.</text>
-  <text id="gebura5_intro_A6">Las anormalidades estaban fuera de control, destrozando a nuestros camaradas,</text>
-  <text id="gebura5_intro_A7">mientras Las Garras cazaban a sus presas...</text>
-  <text id="gebura5_intro_A8">Estaba más allá de sus límites, pero ella le dio todo lo que tenía para protegernos.</text>
-  <text id="gebura5_intro_A9">Ella perdió un ojo, uno de sus brazos fue cortado y estaba cubierto de cicatrices irreparables en todo su cuerpo.</text>
-  <text id="gebura5_intro_A10">Pero ella no se rindió...</text>
-  <text id="gebura5_intro_A11">Y ella finalmente protegió a B y a mí de la muerte.</text>
-  <text id="gebura5_selection1">Recoger el cadáver.</text>
-  <text id="gebura5_selection2">Recoger el cadáver.</text>
-  <text id="gebura5_selection3">Recoger el cadáver.</text>
-  <text id="gebura5_intro_A12">El cadáver en el momento demostró la horrenda situación que tuvo que pasar.</text>
-  <text id="gebura5_intro_A13">Ella volvió a abrir los ojos después de mucho tiempo,</text>
-  <text id="gebura5_intro_A14">pero su ira desenfocada la arrastró hasta el fondo,</text>
-  <text id="gebura5_intro_A15">así que tuvimos que reiniciarla muchas veces.</text>
-
+  <text id="gebura5_intro_A1">Entre todos los Fixers que rondaban los Callejones, ella era una de las pocas capaces de enfrentarse a La Cabeza y a Las Garras.</text>
+  <text id="gebura5_intro_A2">Entre la gente de los Callejones, se le conocía como 'La Niebla Roja'.</text>
+  <text id="gebura5_intro_A3">Fue un nombre que se ganó al protegernos de amenazas y persecuciones externas.</text>
+  <text id="gebura5_intro_A4">Por la traición de Michelle, El Ojo descubrió nuestro escondite y La Cabeza desató sin piedad a Las Garras sobre nosotros.</text>
+  <text id="gebura5_intro_A5">La retorcida Cabeza, en lugar de enfrentarla directamente, soltó a las Anormalidades inestables con la intención de deshacerse de nosotros y de ella a la vez.</text>
+  <text id="gebura5_intro_A6">Anormalidades fuera de control, compañeros despedazados que gritaban de dolor,</text>
+  <text id="gebura5_intro_A7">y Garras que jamás soltaban a su presa...</text>
+  <text id="gebura5_intro_A8">Era una situación que ella no podía manejar sola, pero de alguna manera, de la forma que fuera, intentó protegernos a todos.</text>
+  <text id="gebura5_intro_A9">Perdió un brazo, se quedó ciega de un ojo y su cuerpo quedó destrozado con heridas que jamás sanarían,</text>
+  <text id="gebura5_intro_A10">pero nunca se rindió...</text>
+  <text id="gebura5_intro_A11">Logrando que al menos B y yo sobreviviéramos.</text>
+  <text id="gebura5_selection1">Recuperar el cuerpo.</text>
+  <text id="gebura5_selection2">Recuperar el cuerpo.</text>
+  <text id="gebura5_selection3">Recuperar el cuerpo.</text>
+  <text id="gebura5_intro_A12">Al recuperarlo, el estado en el que quedó el cadáver era evidencia de la horrenda pesadilla que se había vivido.</text>
+  <text id="gebura5_intro_A13">Cuando ella abrió los ojos mucho tiempo después,</text>
+  <text id="gebura5_intro_A14">su rabia sin rumbo la hizo caer en una espiral hacia el abismo,</text>
+  <text id="gebura5_intro_A15">lo que nos obligó a reiniciarla una y otra vez.</text>
 
   <!-- 에피소드 6-->
   <!-- 장면 : 과거-->
-  <text id="gebura6_intro_g1">Por qué tienes esa mirada en tu cara? Crees que soy un ladrón o algo así?</text>
-  <text id="gebura6_intro_ca1">Simplemente no esperaba verte aquí.</text>
+  <text id="gebura6_intro_g1">¿Por qué me miras así? ¿Crees que soy una ladrona o algo por el estilo?</text>
+  <text id="gebura6_intro_ca1">Simplemente no me esperaba que estuvieras aquí.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca2">Bueno, para ser honesto, sabía que eventualmente vendrías aquí, pero no esperaba verte tan pronto.</text>
+  <text id="gebura6_intro_ca2">Bueno, sabía que tarde o temprano vendrías, pero no imaginé que fuera a ser tan pronto.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca3">Tuviste una expresión agria en ese momento, pero en realidad te gusto, no?</text>
+  <text id="gebura6_intro_ca3">Aunque ponías esa cara de amargada, la verdad es que te caí bastante bien, ¿no?</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g2">Que demonios.</text>
-  <text id="gebura6_intro_ca4">Sabes, no tengo idea de la vida de las personas de la Callejuela o de su dolor.</text>
-  <!-- 화자 : 카르멘-->
-
-  <text id="gebura6_intro_ca5">Tal vez he estado viviendo una vida más rica pero cobarde en comparación con ellos.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca6">Así que siempre me avergoncé de todo, incluso de un pequeño rayo de sol.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g3">... No fue difícil todo el tiempo.</text>
-
-  <text id="gebura6_intro_ca7">... Sé que debe haber sido una decisión difícil venir aquí, así que gracias.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca8">Tarde o temprano, tendremos problemas inesperados aquí.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca9">Hay demasiados problemas para resolver de manera pacífica.</text>
+  <text id="gebura6_intro_g2">¿Pero de qué hablas...?</text>
+  <text id="gebura6_intro_ca4">Sabes, no sé mucho sobre el dolor de la gente de los Callejones ni sobre su mundo.</text>
   <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_ca10">La razón real por la que te hablé ese día de todas las demás personas fue sobre algo bastante trivial.</text>
+  <text id="gebura6_intro_ca5">Tal vez yo he llevado una vida bastante más acomodada pero cobarde en comparación a ellos.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g4">…… Qué era?</text>
-  <text id="gebura6_intro_ca11">Para ser honesto....</text>
+  <text id="gebura6_intro_ca6">Por eso, me he sentido avergonzada incluso ante el más mínimo rayo de sol.</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_g3">……. No creas que allá todo es solo miseria.</text>
+
+  <text id="gebura6_intro_ca7"> …. Venir hasta aquí no debió ser una decisión fácil. Gracias.</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_ca8">Tarde o temprano, enfrentaremos dificultades imprevistas en este lugar.</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_ca9">Hay muchísimas cosas que no podremos solucionar de forma pacífica.</text>
   <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_g5">Honesto...?</text>
-  <text id="gebura6_intro_ca12">Pensé que podría intercambiar contigo por precios más baratos.</text>
+  <text id="gebura6_intro_ca10">Y aun así, la razón por la que te hablé a ti ese día, en lugar de algún sindicato o de otro Fixer, no fue por algo grandioso.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g6">...... Tomé la decisión equivocada. Volveré ahora.</text>
+  <text id="gebura6_intro_g4">…… ¿Entonces por qué fue?</text>
+  <text id="gebura6_intro_ca11">La verdad es que….</text>
+  <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_ca13">Escúchame.</text>
+  <text id="gebura6_intro_g5">¿La verdad es que…?</text>
+  <text id="gebura6_intro_ca12">Pensé que si te convencía, podrías cobrarme más barato...</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca14">Te vi pagar los gastos del funeral de una anciana que ni siquiera sabías.</text>
+  <text id="gebura6_intro_g6">...... Me equivoqué de lugar. Ya me voy.</text>
+
+  <text id="gebura6_intro_ca13">Escúchame hasta el final.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca15">Realmente admiré tu amabilidad e incluso lo esperaba.</text>
+  <text id="gebura6_intro_ca14">Te vi pagar los gastos del funeral de una anciana que ni siquiera conocías.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g7">Los cuerpos no enterrados pueden causar la infestación de ratones en todo la callejuela,</text>
-  <text id="gebura6_intro_g8">y yo sólo quería compensarla por la comida que ella me ha dado.</text>
-  <text id="gebura6_intro_g9">Conseguirlo? Nunca he estado cerca de ser amable en toda mi vida.</text>
-  <text id="gebura6_intro_ca16">……</text>
+  <text id="gebura6_intro_ca15">Me encantó ver ese lado amable en ti, y me llenó de esperanza.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g10">POR QUE SIGUES SONRIENDO?!</text>
-  <text id="gebura6_intro_ca17">Estoy satisfecho conmigo mismo por tener un gran discernimiento en mi elección.</text>
+  <text id="gebura6_intro_g7">Si los cadáveres se entierran de cualquier forma, el Callejón entero se llena de ratas.</text>
+  <text id="gebura6_intro_g8">Además, recordé que ella me había dado comida un par de veces, así que solo le devolví el favor.</text>
+  <text id="gebura6_intro_g9">¿Entiendes? Jamás en mi vida he tenido algo que ver con la amabilidad.</text>
+  <text id="gebura6_intro_ca16">…..…..</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_g10">¡¿Por qué demonios te ríes?!</text>
+  <text id="gebura6_intro_ca17">Solo me maravillo de lo acertada que soy al juzgar a las personas.</text>
   <!-- 화자 : 카르멘-->
   <!-- A 독백-->
-  <text id="gebura6_intro_A1">Ella tenía razón. Carmen tenía buen ojo para la gente.</text>
-  <text id="gebura6_intro_A2">La historia de cómo construyó su reputación podría llenar una crónica y luego algo.</text>
-  <text id="gebura6_intro_A3">Pero Carmen estaba demasiado envuelta en cuidar a los demás que no se cuidaba bien a sí misma.</text>
-  <text id="gebura6_intro_A4">Estábamos tan felices juntos entonces, que es casi cruel recordar esos recuerdos.</text>
-  <text id="gebura6_intro_A5">Estábamos volando hacia un mundo ilimitado que parecía no tener fin.</text>
+  <text id="gebura6_intro_A1">Tal y como ella decía, Carmen tenía un ojo excepcional para la gente.</text>
+  <text id="gebura6_intro_A2">La forma en que se hizo famosa más tarde bastaría para llenar un libro entero y aún faltaría espacio.</text>
+  <text id="gebura6_intro_A3">Pero Carmen estaba tan ocupada cuidando a los demás que nunca le quedaba tiempo para cuidar de sí misma.</text>
+  <text id="gebura6_intro_A4">Ahora que lo pienso, en ese entonces volábamos felices con una crueldad casi irónica.</text>
+  <text id="gebura6_intro_A5">Nos dirigíamos hacia un mundo infinito que parecía que jamás iba a terminar.</text>
   <!-- A 독백끝-->
-  <text id="gebura6_intro_g11">Por cierto, quién es el tipo que me está mirando?</text>
-  <text id="gebura6_intro_ca18">Esa es A. Él siempre se ve así.</text>
+  <text id="gebura6_intro_g11">Por cierto, ¿quién es ese tipo que me está mirando feo desde hace rato?</text>
+  <text id="gebura6_intro_ca18">Es A. Es que su cara ya es así de amargada.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca19">……</text>
+  <text id="gebura6_intro_ca19">…….</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca20">Te lo ruego, por favor protege a las personas aquí.</text>
+  <text id="gebura6_intro_ca20">Te lo ruego. Protege a la gente de este lugar.</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca21">Puedo confiar en ti en esto.</text>
+  <text id="gebura6_intro_ca21">Contigo a nuestro lado, me sentiré a salvo.</text>
   <!-- 화자 : 카르멘-->
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="gebura6_intro_g12">Desde el pasado hasta el presente, las Anormalídades han deambulado por las instalaciones y han matado a numerosas personas.</text>
-  <text id="gebura6_intro_g13">A pesar de mi reputación, hay muchas cosas que no pude salvar.</text>
-  <text id="gebura6_intro_g14">Mi vida entera estuvo lejos de estar justificada.</text>
-  <text id="gebura6_intro_g15">No hubiera tenido una conexión tan fuerte con la callejuela si me hubiera quedado en el Nido.</text>
-  <text id="gebura6_intro_g16">Era un lugar donde no había necesidad de justicia, moral u otras cosas como esas.</text>
-  <text id="gebura6_intro_g17">Si nunca has estado allí antes, no lo sabrías.</text>
-  <text id="gebura6_intro_g18">Qué agonía ha vivido la gente allí.</text>
-  <text id="gebura6_intro_g19">Qué injusto debe haber sido la vida de las personas que vivían allí.</text>
-  <text id="gebura6_intro_g20">Lo que aprendí fue cómo sobrevivir a esta existencia miserable.</text>
-  <text id="gebura6_intro_g21">Carmen me dijo que no renunciaría a nadie, incluidas las personas como nosotros.</text>
-  <text id="gebura6_intro_g22">Ella también nos dijo que los débiles con los espíritus dispuestos también podrían poseer suficiente poder para cortar cabezas.</text>
-  <text id="gebura6_intro_g23">Qué historia tan absurda y ridícula. Por qué no seguí adelante?</text>
+  <text id="gebura6_intro_g12">Tanto en el pasado como ahora, las Anormalidades deambulan por las instalaciones masacrando a muchísimas personas.</text>
+  <text id="gebura6_intro_g13">A pesar de toda mi fama, hay demasiadas cosas que no logré proteger.</text>
+  <text id="gebura6_intro_g14">Toda mi vida sentí que mi existencia estaba muy alejada del concepto de la justicia.</text>
+  <text id="gebura6_intro_g15">Si hubiera vivido solo en un Nido, no me habría cruzado tanto con los Callejones.</text>
+  <text id="gebura6_intro_g16">Es un lugar donde nociones como la justicia o la moral no sirven para nada.</text>
+  <text id="gebura6_intro_g17">Pero si nunca has estado ahí, no lo entenderías.</text>
+  <text id="gebura6_intro_g18">Las historias tan miserables que carga la gente de ese lugar.</text>
+  <text id="gebura6_intro_g19">Lo injustas que son sus vidas.</text>
+  <text id="gebura6_intro_g20">Lo único que aprendí fue a sobrevivir, por más miserable que fuera.</text>
+  <text id="gebura6_intro_g21">Carmen me dijo que no abandonaría a nadie, ni siquiera a personas como nosotros.</text>
+  <text id="gebura6_intro_g22">Y me dijo que, si se lo proponían, hasta los más débiles podrían tener la fuerza suficiente para decapitar a cualquiera.</text>
+  <text id="gebura6_intro_g23">Ese día... ¿Por qué no pude simplemente ignorar una historia tan absurda y sin sentido?</text>
   <text id="gebura6_intro_g24">........</text>
-  <text id="gebura6_intro_g25">No soy lo suficientemente inteligente para estos cálculos complicados,</text>
-  <text id="gebura6_intro_g26">Ni siquiera pude escribir un documento coherente.</text>
-  <text id="gebura6_intro_g27">Lo único que pude hacer fue sacar mi espada contra el enemigo que estaba en el camino.</text>
-  <text id="gebura6_intro_g28">Solo estaba protegiéndome de mi mismo para sobrevivir,</text>
-  <text id="gebura6_intro_g29">pero ese día, nunca me sentí más orgulloso de mí mismo de poder proteger a otros.</text>
-  <text id="gebura6_intro_g30">Pero no pude proteger a nadie, lo que me cortó profundamente.</text>
-  <text id="gebura6_intro_g31">Estaba lleno de ira que me hizo perder la cabeza.</text>
-  <text id="gebura6_selection1">Al final, sin embargo, logré proteger a alguien.</text>
+  <text id="gebura6_intro_g25">No soy inteligente, así que no entiendo cálculos complejos,</text>
+  <text id="gebura6_intro_g26">ni tampoco sé escribir documentos lógicos.</text>
+  <text id="gebura6_intro_g27">Lo único que podía hacer era desenvainar mi espada contra los enemigos que se interponían en el camino.</text>
+  <text id="gebura6_intro_g28">El talento que había desarrollado solo para mi propia supervivencia...</text>
+  <text id="gebura6_intro_g29">Por primera vez sentí orgullo de saber que con él podía proteger a alguien.</text>
+  <text id="gebura6_intro_g30">Pero al final, el hecho de no haber podido salvar a nadie se convirtió en un dolor demasiado grande para mí.</text>
+  <text id="gebura6_intro_g31">Y por eso me llené de ira y enloquecí.</text>
+  <text id="gebura6_selection1">Pero al final, sí lograste proteger a alguien.</text>
   <!-- 선택지-->
-  <text id="gebura6_selection2">B y yo sobrevivimos.</text>
+  <text id="gebura6_selection2">B y yo sobrevivimos gracias a ti.</text>
   <!-- 선택지-->
-  <text id="gebura6_intro_g32">Como sea.</text>
-  <text id="gebura6_intro_g33">Usted y los otros sobrevivieron gracias a mí...</text>
-  <text id="gebura6_intro_g34">Pensé que había perdido la voluntad de Carmen para siempre,</text>
-  <text id="gebura6_intro_g35">pero después de todo, algo me llevó aquí, verdad?</text>
-  <text id="gebura6_intro_g36">Siento que puedo respirar un poco ahora.</text>
-  <text id="gebura6_intro_g37">Nos despertamos con ese momento en que nuestras respiraciones se detuvieron alojadas en nosotros como fragmentos.</text>
-  <text id="gebura6_intro_g38">Lamentablemente me desperté con solo tener ira en mi corazón contra las Anormalidades.</text>
-  <text id="gebura6_intro_g39">La extrañas, no?</text>
+  <text id="gebura6_intro_g32">Es cierto.</text>
+  <text id="gebura6_intro_g33">Tú y ese otro tipo sobrevivieron gracias a mí..</text>
+  <text id="gebura6_intro_g34">Creí que había perdido la voluntad de Carmen para siempre,</text>
+  <text id="gebura6_intro_g35">pero gracias a mí, esa voluntad logró mantenerse con vida de alguna forma y llegar hasta aquí, ¿no es así?</text>
+  <text id="gebura6_intro_g36">Creo que ahora por fin puedo respirar un poco más tranquila.</text>
+  <text id="gebura6_intro_g37">Despertamos con los momentos de nuestra muerte clavados como fragmentos en nosotros.</text>
+  <text id="gebura6_intro_g38">Y tontamente, yo desperté consumida únicamente por mi ira hacia las Anormalidades.</text>
+  <text id="gebura6_intro_g39">Tú también la extrañas, ¿verdad?</text>
   <text id="gebura6_intro_g40">Yo también.</text>
-  <text id="gebura6_intro_g41">No creo que ella pueda volver nunca.</text>
-  <text id="gebura6_intro_g42">No creo que pueda volver a ver su intrépida sonrisa en su rostro, lo que hizo que personas como yo la siguieran.</text>
-  <text id="gebura6_intro_g43">La luz que se desbordó de su rostro que solo querías sostener con ambas manos.</text>
-  <text id="gebura6_intro_g44">Pero mi voluntad y promesa siempre serán eternas.</text>
-  <text id="gebura6_intro_g45">Será un lugar donde podrá vivir incluso después de la muerte.</text>
+  <text id="gebura6_intro_g41">Ella nunca podrá regresar.</text>
+  <text id="gebura6_intro_g42">Nunca volveremos a ver esa sonrisa descarada que lograba conmover hasta a personas como yo.</text>
+  <text id="gebura6_intro_g43">Ni esa luz tan inmensa que desbordaba de ella, imposible de contener en nuestras manos.</text>
+  <text id="gebura6_intro_g44">Pero aunque pase una eternidad, su voluntad y su promesa seguirán intactas.</text>
+  <text id="gebura6_intro_g45">De ser así, ella seguirá viviendo dentro de nosotros incluso después de su muerte.</text>
 
-  <text id="gebura6_intro_g46">Si también lo recuerdas, por favor dime.</text>
-  <text id="gebura6_intro_g47">El presente que ella nos dejó.</text>
-
-
-
-
+  <text id="gebura6_intro_g46">Si lo recuerdas, házmelo saber.</text>
+  <text id="gebura6_intro_g47">El regalo que nos dejó a todos.</text>
 
 </localize>

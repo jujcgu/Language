@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <text id="day9_angela_1">Gerente, quiero que elija uno entre el alfabeto A, B y C.</text>
-  <text id="day9_selection1">A.</text>
-  <text id="day9_selection2">B.</text>
-  <text id="day9_selection3">C.</text>
-  <text id="day9_angela_1_1">Escogiste uno? Bien, entonces escucha atentamente.</text>
-  <text id="day9_angela_1_2">'A' es una buena letra. Mi nombre comienza con eso también.</text>
-  <text id="day9_angela_1_3">Las personas que eligieron A son sensibles a los demas' Opinión sobre ti, pero orientada a resultados. Como usted es un excelente oyente, las personas que lo rodean acuden a usted.</text>
-  <text id="day9_angela_2_1">Escogiste uno? Bien, entonces escucha atentamente.</text>
-  <text id="day9_angela_2_2">Las personas que eligieron B son orientadas al detalle, racionales y realistas. Algunos incluso pueden ser materialistas. Sin embargo tus rasgos te llevarán al éxito.</text>
-  <text id="day9_angela_2_3">No me gusta mucho la letra 'B.' </text>
-  <text id="day9_angela_3_1">Escogiste uno? Bien, entonces escucha atentamente.</text>
-  <text id="day9_angela_3_2">Bien, 'C.'</text>
-  <text id="day9_angela_3_3">Las personas que eligieron C creen que el proceso es más importante que el resultado, por lo tanto, son buenos para planificar y disfrutar del cambio. Podrás obtener información sin estar limitado por las reglas.</text>
-  <text id="day9_angela_2">Es un nuevo pasatiempo entre los empleados, pero me parece poco interesante.</text>
-  <text id="day9_angela_3">No hay observaciones científicas. Solo es bueno para pasar el tiempo.</text>
-  <text id="day9_angela_4">También se podría imaginar...</text>
-  <text id="day9_angela_5">Podría haber sido este o ese tipo de persona si fuera una humana.</text>
-  <text id="day9_angela_6">Fue eso demasiado lejos?</text>
+  <text id="day9_angela_1">Gerente, de las letras A, B y C, ¿podría elegir su favorita?</text>
+  <text id="day9_selection1">A</text>
+  <text id="day9_selection2">B</text>
+  <text id="day9_selection3">C</text>
+  <text id="day9_angela_1_1">¿Ya eligió una? Bien, entonces escuche atentamente.</text>
+  <text id="day9_angela_1_2">La "A" es una letra fascinante. Mi nombre también empieza con "A", ¿no es así?</text>
+  <text id="day9_angela_1_3">Si eligió la "A", es alguien que se preocupa mucho por cómo lo ven los demás y tiene una personalidad orientada a los resultados. Sin embargo, su virtud de saber aceptar y escuchar a los demás hará que mucha gente lo aprecie.</text>
+  <text id="day9_angela_2_1">¿Ya eligió una? Bien, entonces escuche atentamente.</text>
+  <text id="day9_angela_2_2">Si eligió la "B", es alguien meticuloso y lógico, tal vez tan honesto que quienes lo rodean podrían llamarle materialista. Sin embargo, su virtud de buscar los beneficios prácticos y evitar salir perdiendo le guiará hacia el éxito.</text>
+  <text id="day9_angela_2_3">A decir verdad, no me agrada mucho la letra "B". </text>
+  <text id="day9_angela_3_1">¿Ya eligió una? Bien, entonces escuche atentamente.</text>
+  <text id="day9_angela_3_2">La "C", no está nada mal.</text>
+  <text id="day9_angela_3_3">Si eligió la "C", tiene una fuerte tendencia a valorar más el proceso que el resultado, se le da bien planificar y le gustan los cambios. Será capaz de lograr un gran crecimiento interior sin dejarse atar por las reglas.</text>
+  <text id="day9_angela_2">Al parecer es un test de personalidad muy popular entre los empleados últimamente, pero no es tan divertido como pensaba.</text>
+  <text id="day9_angela_3">Por supuesto que carece de todo fundamento científico, pero a veces probar este tipo de juegos puede resultar bastante entretenido.</text>
+  <text id="day9_angela_4">Incluso me permite imaginar cosas como...</text>
+  <text id="day9_angela_5">qué clase de personalidad tendría si yo fuera humana.</text>
+  <text id="day9_angela_6">¿Es una idea demasiado absurda?</text>
 </localize>

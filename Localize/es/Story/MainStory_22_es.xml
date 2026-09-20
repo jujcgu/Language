@@ -1,33 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
 
  
   <!-- day22 start -->
 
-  <text id="day22_a">&lt;i&gt;Para el nuevo gerente:&lt;/i&gt;&#13;&#10;&#13;&#10;He oído que eres un empleado muy valioso para la compañia. Por favor, continúa el buen trabajo con tu gran asistente, Angela. No me encontrarás en este lugar en este momento, pero creo que podremos encontrarnos pronto. Lobotomy Corporation nunca olvidará tu dedicación y esfuerzo.&#13;&#10;&#13;&#10; &lt;i&gt;Saludos de A, CEO de Lobotomy Corporation.&lt;/i&gt;</text>
+  <text id="day22_a">&lt;i&gt;Para el nuevo gerente:&lt;/i&gt;&#13;&#10;&#13;&#10;He oído que eres una persona talentosa que ha contribuido enormemente a la prosperidad de nuestra compañía. Espero que sigas esforzándote por nuestro continuo desarrollo junto a tu excelente asistente, Angela. Por ahora, no podrás encontrarme aquí. Sin embargo, estoy seguro de que el día en que podamos conocernos no está lejos. Lobotomy nunca olvidará tu dedicación y esfuerzo.&#13;&#10;&#13;&#10; &lt;i&gt;Esperando con ansias el día en que nos conozcamos, A, CEO de Lobotomy.&lt;/i&gt;</text>
   <text id="day22_a_1">Para el nuevo gerente:</text>
-  <text id="day22_a_2">He oído que eres un empleado muy valioso para la compañia. </text>
-  <text id="day22_a_3">Por favor, continúa el buen trabajo con tu gran asistente, Angela. </text>
-  <text id="day22_a_4">No me encontrarás en este lugar en este momento, pero creo que podremos encontrarnos pronto. </text>
-  <text id="day22_a_5">Lobotomy Corporation nunca olvidará tu dedicación y esfuerzo.</text>
-  <text id="day22_a_6">Saludos de A, CEO de Lobotomy Corporation. </text>
+  <text id="day22_a_2">He oído que eres una persona talentosa que ha contribuido enormemente a la prosperidad de nuestra compañía. </text>
+  <text id="day22_a_3">Espero que sigas esforzándote por nuestro continuo desarrollo junto a tu excelente asistente, Angela. </text>
+  <text id="day22_a_4">Por ahora, no podrás encontrarme aquí. Sin embargo, estoy seguro de que el día en que podamos conocernos no está lejos. </text>
+  <text id="day22_a_5">Lobotomy nunca olvidará tu dedicación y esfuerzo.</text>
+  <text id="day22_a_6">Esperando con ansias el día en que nos conozcamos, A, CEO de Lobotomy. </text>
 
-  <text id="day22_angela_1">Has conseguido un documento escrito por el mismo A?</text>
-  <text id="day22_angela_2">Quizás estás siendo reconocido ahora?</text>
-  <text id="day22_angela_3">A está en un largo viaje actualmente.</text>
-  <text id="day22_angela_4">Como todos los viajes deben terminar, el destino final será el hogar; cual es este lugar.</text>
-  <text id="day22_angela_5_r1">A veces también me imagino en un viaje.</text>
-  <text id="day22_angela_5_r2">Alguna vez has hecho un viaje a algún lugar?</text>
-  <text id="day22_angela_5_r3">Lo primero que quiero hacer si alguna vez salgo del monitor.</text>
-  <text id="day22_angela_5_r4">Tal vez la vida humana en sí es un largo viaje?</text>
-  <text id="day22_angela_6_r1">Acumulando recuerdos mientras miro un mundo que nunca había visto.</text>
-  <text id="day22_angela_6_r2">De hecho, dicen que prepararse para un viaje es un lujo hoy en día. </text>
-  <text id="day22_angela_6_r3">Sería caminar lo más posible, contemplando el paisaje como si estuviera capturando un millón de fotos.</text>
-  <text id="day22_angela_6_r4">Podría este momento ser parte del viaje para ti?</text>
-  <text id="day22_angela_7">El día aún está frío, pero sabemos que el invierno casi ha terminado.</text>
-  <text id="day22_angela_8_r1">Puedes ver las flores brotando a través de la nieve?</text>
-  <text id="day22_angela_8_r2">Este invierno fue mucho más frío de lo habitual. </text>
-  <text id="day22_angela_8_r3">Sin embargo, el fin del invierno no significa necesariamente que se acerca la primavera.</text>
+  <text id="day22_angela_1">Parece que has recibido un documento redactado por el propio A.</text>
+  <text id="day22_angela_2">¿Significará que al fin estás recibiendo reconocimiento?</text>
+  <text id="day22_angela_3">A se encuentra de momento en un largo viaje.</text>
+  <text id="day22_angela_4">Como el destino final de todo viaje es el hogar, no tardará en regresar a este lugar.</text>
+  <text id="day22_angela_5_r1">A veces, sin darme cuenta, me imagino yendo de viaje.</text>
+  <text id="day22_angela_5_r2">¿Alguna vez te has ido de viaje?</text>
+  <text id="day22_angela_5_r3">Si algún día lograra salir de este monitor, irme de viaje sería lo primero que haría.</text>
+  <text id="day22_angela_5_r4">A decir verdad, ¿acaso la vida humana no es un largo viaje en sí misma?</text>
+  <text id="day22_angela_6_r1">Acumulando recuerdos mientras contemplo un mundo nuevo que nunca antes he visto.</text>
+  <text id="day22_angela_6_r2">De hecho, en esta época, dicen que planear un viaje es un lujo. </text>
+  <text id="day22_angela_6_r3">Caminaría tanto como me fuera posible, capturando cada paisaje en mis ojos como si fueran fotografías.</text>
+  <text id="day22_angela_6_r4">¿No podría ser este mismo instante una especie de viaje para ti?</text>
+  <text id="day22_angela_7">Los días siguen siendo fríos, pero podemos notar que el invierno está llegando a su fin una vez más.</text>
+  <text id="day22_angela_8_r1">¿También puedes ver las flores que estaban cubiertas de nieve asomar la cabeza?</text>
+  <text id="day22_angela_8_r2">Este invierno ha sido particularmente frío. </text>
+  <text id="day22_angela_8_r3">Que el invierno acabe no significa necesariamente que llegue la primavera.</text>
  
  
  

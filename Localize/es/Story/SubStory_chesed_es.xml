@@ -1,331 +1,331 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
   <!-- 에피소드 1-->
   
-  <text id="chesed1_intro_c1">Qué tienes en mente?</text>
-  <text id="chesed1_intro_c2">No es el aire más dulce que antes?</text>
-  <text id="chesed1_intro_c3">Puedo tomar una taza de café, gerente?</text>
-  <text id="chesed1_intro_c4">...</text>
-  <text id="chesed1_intro_c5">Ah, mucho mejor. No puedo comenzar mi día sin una taza de café por la mañana.</text>
-  <text id="chesed1_intro_c6">No estás ofendido con la forma en que te hablo o algo así, verdad?</text>
-  <text id="chesed1_intro_c7">Soy Chesed, jefe del Equipo de Bienestar.</text>
-  <text id="chesed1_intro_c8">El Equipo de Bienestar es notable, me enorgullece decir que mi equipo tiene el nivel de satisfacción más alto en la corporación.</text>
-  <text id="chesed1_intro_c9">Angela me dijo que cooperara contigo por ahora.</text>
-  <text id="chesed1_intro_c10">Bueno, puedo estar de acuerdo con cualquiera, pero jugar con un gerente es difícil incluso para mí.</text>
-  <text id="chesed1_intro_c11">Pero son las órdenes de Angela, así que no tengo otra opción. </text>
-  <text id="chesed1_intro_c12">Me tengo que ir ya, el café se está enfriando.</text>
-  <text id="chesed1_intro_e1">Uhm, Señor Chesed?, tengo algo que decirte.</text>
-  <text id="chesed1_intro_c13">Adelante.</text>
-  <text id="chesed1_intro_e2">Uhm... no pulí el E.G.O lo suficiente, y algunos de ellos están funcionando mal en este momento. Creo que tengo que hacer algunos diagnósticos adicionales, lo siento, señor.</text>
-  <text id="chesed1_intro_c14">Esta bien. Tienes mucho trabajo que hacer además de la gestión E.G.O.</text>
-  <text id="chesed1_intro_e3">Sr. Chesed...</text>
-  <text id="chesed1_intro_c15">Lo comprobaré yo mismo, es suficiente que lo hayas descubierto ahora.</text>
-  <text id="chesed1_intro_c16">Hay tantas cosas que hacer. No puedes permitirte seguir prestando atención a todo eso.</text>
-  <text id="chesed1_intro_e4">Gracias, señor!</text>
-  <text id="chesed1_intro_c17">Si, que tengas un buen dia!</text>
-  <text id="chesed1_intro_c18">...</text>
-  <text id="chesed1_intro_c19">Mi reacción fue muy diferente de lo que has visto por aquí, no es así?</text>
-  <text id="chesed1_intro_c20">Claro, Angela no lo habría tratado así.</text>
-  <text id="chesed1_intro_c21">Pero los empleados serán reemplazados pronto, entonces, cuál es el significado de invertir el esfuerzo para ellos?</text>
-  <text id="chesed1_intro_c22">.... Ah caray, el café está frío ahora.</text>
-  <text id="chesed1_intro_c23">Bueno, el café frío no vale la pena.</text>
-  <text id="chesed1_intro_c24">Mejor ponerlo por el desagüe. </text>
+  <text id="chesed1_intro_c1">¿En qué estás pensando?</text>
+  <text id="chesed1_intro_c2">¿Acaso no se siente el aire más dulce que de costumbre?</text>
+  <text id="chesed1_intro_c3">Si te parece bien, gerente, ¿puedo tomar un poco de café?</text>
+  <text id="chesed1_intro_c4">…</text>
+  <text id="chesed1_intro_c5">Ah, así está mucho mejor. No puedo empezar a trabajar bien si no tomo mi café antes de comenzar el día~</text>
+  <text id="chesed1_intro_c6">Espero que no te ofenda que te hable de tú, ¿verdad?</text>
+  <text id="chesed1_intro_c7">Soy Chesed, y estoy a cargo del Equipo de Bienestar.</text>
+  <text id="chesed1_intro_c8">El Equipo de Bienestar es un departamento maravilloso. Me enorgullece decir que es el que tiene la mayor satisfacción y lealtad por parte de los empleados.</text>
+  <text id="chesed1_intro_c9">La señorita Angela dijo que debemos cooperar el uno con el otro por ahora.</text>
+  <text id="chesed1_intro_c10">La verdad, soy capaz de llevarme bien con cualquiera, pero andar de bromas y risas con el gerente es algo difícil para mí.</text>
+  <text id="chesed1_intro_c11">Pero bueno, son órdenes de la señorita Angela, no me queda de otra.</text>
+  <text id="chesed1_intro_c12">Ya me tengo que ir, el café que me preparé se va a enfriar~</text>
+  <text id="chesed1_intro_e1">Disculpe, señor Chesed, tengo algo que decirle.</text>
+  <text id="chesed1_intro_c13">Sí, dime. Te escucho.</text>
+  <text id="chesed1_intro_e2">Ah... No le di el mantenimiento adecuado al E.G.O., y me parece que algunos no están funcionando bien. Creo que tendré que hacer una revisión adicional... Lo siento mucho, señor.</text>
+  <text id="chesed1_intro_c14">No te preocupes~ Tienes mucho que hacer; encargarse de los E.G.O. encima de todo debe ser pesado, ¿no?</text>
+  <text id="chesed1_intro_e3">Señor Chesed...</text>
+  <text id="chesed1_intro_c15">Iré a revisarlo yo mismo más tarde, con que te hayas dado cuenta a tiempo es suficiente.</text>
+  <text id="chesed1_intro_c16">Hay demasiadas cosas en las que pensar aquí. Si te preocupas por cada pequeño detalle, vas a perder la cabeza.</text>
+  <text id="chesed1_intro_e4">¡Muchas gracias, señor Chesed!</text>
+  <text id="chesed1_intro_c17">Claro, ¡vamos a darlo todo el día de hoy!~</text>
+  <text id="chesed1_intro_c18">.....</text>
+  <text id="chesed1_intro_c19">Mi forma de actuar fue muy distinta a lo que estás acostumbrado a ver por aquí, ¿no es así?</text>
+  <text id="chesed1_intro_c20">Claro, la señorita Angela sin duda no lo habría dejado pasar tan fácilmente.</text>
+  <text id="chesed1_intro_c21">Pero no le veo sentido a ser estricto con empleados que de todos modos serán reemplazados pronto.</text>
+  <text id="chesed1_intro_c22">...Al final el café se enfrió.</text>
+  <text id="chesed1_intro_c23">Ni modo, un café tibio es peor que no tomar nada.</text>
+  <text id="chesed1_intro_c24">En estos casos, es mejor tirarlo por el desagüe sin remordimientos.</text>
   
   <!--에피소드 2-->
 
-  <text id="chesed2_intro_c1">Bueno, lo hiciste bien. Así que no eres tan inútil.</text>
-  <text id="chesed2_intro_c2">Pero no lo hagas más.</text>
-  <text id="chesed2_intro_c3">Gerente, ya has hecho muchas cosas.</text>
-  <text id="chesed2_intro_c4">Lo que ya ha hecho debería haber alargado la vida de los empleados en algún grado.</text>
-  <text id="chesed2_intro_c5">Entonces... ya deberías estar satisfecho.</text>
-  <text id="chesed2_intro_c6">No es que no pueda entender tu punto de vista.</text>
-  <text id="chesed2_intro_c7">Usted vino a la corporación y desea hacer todo lo posible para que este lugar se convierta en algo mejor.</text>
-  <text id="chesed2_intro_c8">Pero este lugar es como el café frío.</text>
-  <text id="chesed2_intro_c9">Tal vez sea una comparación extraña...</text>
-  <text id="chesed2_intro_c10">Tal vez sería mejor si al menos fingimos nuestra postura noble y benévola hasta el final?</text>
+  <text id="chesed2_intro_c1">Parece que no eras tan inútil. Hiciste un trabajo decente.</text>
+  <text id="chesed2_intro_c2">Pero, ¿no crees que es mejor tomarlo con calma?</text>
+  <text id="chesed2_intro_c3">Gerente, ya has hecho mucho.</text>
+  <text id="chesed2_intro_c4">Todo lo que has hecho hasta ahora seguramente ha extendido la vida de los empleados, aunque sea un poco.</text>
+  <text id="chesed2_intro_c5">A lo que voy es que, ya deberías estar satisfecho con eso.</text>
+  <text id="chesed2_intro_c6">No es que no entienda tu posición.</text>
+  <text id="chesed2_intro_c7">Entraste a Lobotomy y quieres cambiar este lugar para bien lo más que puedas.</text>
+  <text id="chesed2_intro_c8">Pero este lugar es como ese café frío de hace un rato.</text>
+  <text id="chesed2_intro_c9">Sé que parece una analogía extraña, pero así lo veo yo.</text>
+  <text id="chesed2_intro_c10">¿No crees que sería mejor, al menos en apariencia, mantener una actitud benevolente para llevarnos bien hasta el final?</text>
   <text id="chesed2_intro_c11">Lo mismo va para ti, gerente.</text>
-  <text id="chesed2_intro_c12">No necesitas invertir tus emociones en temas tan sin sentido.</text>
-  <text id="chesed2_selection1">Ignorarlo.</text>
+  <text id="chesed2_intro_c12">No tienes que desgastar tus emociones en cosas molestas y sin sentido aquí.</text>
+  <text id="chesed2_selection1">Ignorar.</text>
   <text id="chesed2_selection2">Refutar.</text>
-  <text id="chesed2_intro_c13">... Está bien, está bien. Vístete, apasionado gerente.</text>
-  <text id="chesed2_intro_c14">Tengo curiosidad por cuánto tiempo durará ese incendio dentro de usted, gerente.</text>
-  <text id="chesed2_intro_c15">Iré ahora, estoy bastante ocupado aunque no lo parezca.</text>
+  <text id="chesed2_intro_c13">...Está bien, está bien. Haz lo que quieras, gerente apasionado.</text>
+  <text id="chesed2_intro_c14">Me pregunto cuándo se apagará ese fuego que arde dentro de ti.</text>
+  <text id="chesed2_intro_c15">Me retiro, aunque me vea relajado, estoy bastante ocupado.</text>
 
-  <!--::Comment:: 과거 회상 1-->
-  <text id="chesed2_intro_c16">Angela, mira esto. Pasé toda la noche investigando un método eficiente de bienestar para los empleados.</text>
-  <!--::Comment:: 과거 회상 1 끝-->
+  <!-- 과거 회상 1-->
+  <text id="chesed2_intro_c16">Señorita Angela, mire esto. Me pasé toda la noche investigando métodos eficientes para el bienestar de los empleados.</text>
+  <!-- 과거 회상 1 끝-->
 
-  <text id="chesed2_intro_c17">... Eso es gracioso.</text>
-  <text id="chesed2_intro_c18">Mira quien hablando.</text>
+  <text id="chesed2_intro_c17">…Qué ironía.</text>
+  <text id="chesed2_intro_c18">Mira quién se estaba preocupando por quién.</text>
 
   <!--에피소드 3-->
-  <text id="chesed3_intro_c1">Lo has vuelto a hacer.</text>
-  <text id="chesed3_intro_c2">Angela te alabó por tu trabajo?</text>
-  <text id="chesed3_intro_c3">“Tus esfuerzos contribuirán a convertir este lugar en uno mejor...” (En una voz con dignidad)</text>
-  <text id="chesed3_intro_c4">... Gloriosas, pero palabras vacias.</text>
-  <text id="chesed3_intro_c5">Yo era muy apasionado en el pasado. Ser responsable de todo un departamento, qué tan bueno es eso?</text>
-  <text id="chesed3_intro_c6">Ni siquiera me gustaba tomar café entonces.</text>
-  <text id="chesed3_intro_c7">Debo decir que desarrollé el gusto por el café cuando aprendí la amargura de la vida...</text>
-  <text id="chesed3_intro_c8">O es la necesidad de permanecer despierto? Por supuesto que no necesitamos dormir en absoluto, pero el estado de ánimo, sabes?</text>
-  <text id="chesed3_intro_c9">Una vez, incluso insistí en manejar las anormalídades yo mismo.</text>
-  <text id="chesed3_intro_c10">Pensé que permitir solo a los empleados en el campo estaba mal.</text>
-  <text id="chesed3_intro_c11">Bueno, es bastante absurdo pensar en ello ahora.</text>
-  <text id="chesed3_intro_c12">Entonces, por qué me he vuelto así, preguntas?</text>
-  <text id="chesed3_intro_c13">Bueno, su conjetura es tan buena como la mía.</text>
+  <text id="chesed3_intro_c1">Lo hiciste de maravilla esta vez también.</text>
+  <text id="chesed3_intro_c2">¿Supongo que recibiste muchos elogios de la señorita Angela?</text>
+  <text id="chesed3_intro_c3">“Sus esfuerzos contribuirán a transformar este lugar en algo grandioso...” (Con voz imponente)</text>
+  <text id="chesed3_intro_c4">...Suena bien, pero en realidad son palabras sin sentido y aburridas.</text>
+  <text id="chesed3_intro_c5">Yo también solía estar muy motivado en el pasado. Ser responsable de todo un departamento suena fascinante, ¿no?</text>
+  <text id="chesed3_intro_c6">Y pensar que en ese entonces ni siquiera me gustaba el café.</text>
+  <text id="chesed3_intro_c7">Empecé a beberlo cuando conocí el sabor amargo de la vida, por así decirlo.</text>
+  <text id="chesed3_intro_c8">O tal vez fue cuando dejé de querer dormir. Obviamente nosotros no necesitamos dormir, pero ya sabes, es por el ambiente.</text>
+  <text id="chesed3_intro_c9">Una vez, incluso me empeñé en ir a gestionar a las Anormalidades yo mismo.</text>
+  <text id="chesed3_intro_c10">Pensaba que era absurdo que solo los empleados fueran enviados al campo.</text>
+  <text id="chesed3_intro_c11">Mirando hacia atrás, es una historia bastante ridícula.</text>
+  <text id="chesed3_intro_c12">Pero, ¿te preguntas por qué me volví así?</text>
+  <text id="chesed3_intro_c13">Bueno, quién sabe por qué.</text>
 
-  <!--::Comment:: 과거 회상 2-->
-  <text id="chesed3_intro_c14">Angela, mira esto. Pasé toda la noche investigando un método eficiente de bienestar para los empleados.</text>
-  <text id="chesed3_intro_a1">Chesed, qué es esto? Te dije que esto no cambiará nada.</text>
-  <text id="chesed3_intro_c15">Pero por favor, solo miralo. Hay un efecto demostrado por las estadísticas e incluso cuesta menos. Será beneficioso para todos.</text>
-  <text id="chesed3_intro_a2">Escucha Chesed, usar máquinas en lugar de empleados nunca sucederá.</text>
-  <text id="chesed3_intro_c16">Porqué es eso? Te lo dije antes, no reemplazará a las personas por completo, solo usará las máquinas en trabajos peligrosos.</text>
-  <text id="chesed3_intro_c17">Claramente, será beneficioso para todos. Las bajas contra las anormalídades serán menores.</text>
-  <text id="chesed3_intro_a3">No es no. Vuelve a tu puesto y termina tu trabajo.</text>
-  <text id="chesed3_intro_c18">Nunca me rendiré. Te gustará el plan al final. Lo desarrollaré aún más y se lo mostraré una y otra vez, sin importar cuántas veces deba hacerlo.</text>
-  <!--::Comment:: 과거 회상 2 끝-->
+  <!-- 과거 회상 2-->
+  <text id="chesed3_intro_c14">Señorita Angela, mire esto. Me pasé toda la noche investigando métodos eficientes para el bienestar de los empleados.</text>
+  <text id="chesed3_intro_a1">¿Qué escribiste esta vez, Chesed? Ya te he dicho que esto no cambiará nada.</text>
+  <text id="chesed3_intro_c15">No diga eso y por lo menos léalo una vez. No requiere mucho presupuesto y estadísticamente se ha comprobado su eficacia. Estoy seguro de que será beneficioso para todos.</text>
+  <text id="chesed3_intro_a2">Chesed, por más que insistas, la introducción de máquinas para reemplazar a los empleados es algo que jamás se hará realidad.</text>
+  <text id="chesed3_intro_c16">¿Pero por qué? Como le mencioné antes, no reemplazarán a las personas por completo; solo usaremos máquinas en tareas donde la vida de los empleados esté en peligro.</text>
+  <text id="chesed3_intro_c17">Obviamente será beneficioso para todos. ¡La cantidad de empleados que pierden la vida ante las Anormalidades se reduciría drásticamente!</text>
+  <text id="chesed3_intro_a3">Lo que no puede ser, no puede ser. Regresa y termina el resto de tu trabajo.</text>
+  <text id="chesed3_intro_c18">No me rendiré. Tarde o temprano te terminará gustando. Lo voy a pulir y a presentar de nuevo, cuantas veces sea necesario.</text>
+  <!-- 과거 회상 2 끝-->
 
-  <text id="chesed3_intro_ta1">Chesed, en relación con el incidente de la anormalidad que escapo que acabo a 8 de sus empleados,</text>
-  <text id="chesed3_intro_ta2">algunos empleados han hecho una sugerencia para cerrar esa parte del corredor. Todavía quedan algunas partes de los cuerpos por ahí.</text>
-  <text id="chesed3_intro_c19">Bien. Lo bloquearé y les diré que se desvíen.</text>
-  <text id="chesed3_intro_c20">Has oído eso, gerente? Debería ir, te dije que estoy ocupada.</text>
-  <text id="chesed3_selection1">Reconfórtale.</text>
+  <text id="chesed3_intro_ta1">Chesed, sobre el incidente donde 8 empleados de tu equipo fueron masacrados cuando escapó esa Anormalidad...</text>
+  <text id="chesed3_intro_ta2">Recibimos una sugerencia de los empleados. Creo que tendremos que restringir el acceso a parte del pasillo temporalmente. Al parecer quedaron restos esparcidos por ahí que no alcanzamos a recoger.</text>
+  <text id="chesed3_intro_c19">Entendido. Ordenaré que se bloquee el acceso y que tomen rutas alternas.</text>
+  <text id="chesed3_intro_c20">¿Escuchaste eso, gerente? Me tengo que ir, te dije que estaba algo ocupado.</text>
+  <text id="chesed3_selection1">Consolarlo.</text>
   <text id="chesed3_selection2">No decir nada.</text>
-  <text id="chesed3_intro_c21">Oye, no me mires así. Habría ocurrido en cualquier momento.</text>
-  <text id="chesed3_intro_c22">Que la Anormalidad debe haber eliminado a los empleados antes de desintegrarlos...</text>
-  <text id="chesed3_intro_c23">Estoy... estoy seguro de que fue una muerte indolora. </text>
+  <text id="chesed3_intro_c21">Oye, no me mires con esos ojos. Era algo que iba a pasar tarde o temprano.</text>
+  <text id="chesed3_intro_c22">Con esa Anormalidad, la mayoría de los empleados seguramente perdieron el conocimiento antes de ser desmembrados.</text>
+  <text id="chesed3_intro_c23">Sí... estoy seguro de que para ellos terminó sin dolor.</text>
 
  <!-- 에피소드 4-->
 
-  <text id="chesed4_intro_c1">Así que estás aguantando.</text>
-  <text id="chesed4_intro_c2">Hoy ha sido un mal día, han pasado tantas cosas.</text>
-  <text id="chesed4_intro_c3">Es bueno que todos tengan roles claramente asignados.</text>
-  <text id="chesed4_intro_c4">Pueden concentrarse en su trabajo sin pensarlo.</text>
-  <text id="chesed4_intro_c5">Angela es muy buena para mantener a todos bajo control.</text>
-  <text id="chesed4_intro_c6">Cada vez que alguien intenta dejar su rol asignado,</text>
-  <text id="chesed4_intro_c7">ella se vuelve despiadada.</text>
-  <text id="chesed4_intro_c8">Aprendí que tengo un rol pre-asignado.</text>
-  <text id="chesed4_intro_c9">Nos guste o no, ya se ha decidido.</text>
-  <text id="chesed4_intro_c10">Así que me decidí a esperar.</text>
-  <text id="chesed4_intro_c11">Espera, por qué te preguntas?</text>
-  <text id="chesed4_intro_c12">Si hay un comienzo, hay un final.</text>
-  <text id="chesed4_intro_c13">Hasta que su plan termine.</text>
-  <!--::Comment:: 과거 회상 3-->
-  <text id="chesed4_intro_c14">Angela, hay algo extraño en los documentos.</text>
-  <text id="chesed4_intro_c15">Este registro indica que la falla de bloqueo de la unidad de contención permitió el escape de la Anormalidad,</text>
-  <text id="chesed4_intro_a1">…</text>
-  <text id="chesed4_intro_c16">pero que yo sepa, la puerta de la unidad de contención estaba bien ese día, no hay rastro de ningún mal funcionamiento.</text>
-  <text id="chesed4_intro_a2">…</text>
-  <text id="chesed4_intro_c17">Y la que tenía autoridad sobre la puerta de la unidad de contención era usted, Angela.</text>
-  <text id="chesed4_intro_c18">...</text>
-  <text id="chesed4_intro_c19">Angela dime Por qué lo hiciste? Sabes cuántos empleados de mi departamento murieron?</text>
-  <text id="chesed4_intro_a3">Brillante Chesed, sabía que lo descubrirías, pero esto fue más rápido de lo que esperaba.</text>
-  <text id="chesed4_intro_c20">Qué quieres decir con eso? </text>
-  <text id="chesed4_intro_a4">Gracias a sus grandes esfuerzos, la tasa de escape de su departamento ha sido muy baja en estos días. Eres un gran Sephirah, eso lo reconozco.</text>
-  <text id="chesed4_intro_a5">No le dije esto a nadie, y no necesito hacerlo, pero...</text>
-  <text id="chesed4_intro_a6">Las Anormalidades crean más energía matando personas.</text>
-  <text id="chesed4_intro_c21">Cómo es posible...</text>
-  <text id="chesed4_intro_a7">Usted publicó varios informes sobre la importación de maquinaria, no es así?</text>
-  <text id="chesed4_intro_a8">Si las máquinas baratas y sin alma reemplazan el trabajo del empleado, entonces sí, la tasa de bajas de los empleados bajará. Pero eso también reducirá drásticamente la tasa de producción de energía.</text>
-  <text id="chesed4_intro_a9">Lobotomy Corporation está operando un negocio masivo, que incluye una cuota diaria de suministro de energía, producción de electricidad de la ciudad y relaciones comerciales con varios interesados, como otros Alas. </text>
-  <text id="chesed4_intro_a10">Refinamos energía en el método más eficiente disponible y obtenemos ganancias. Eso es lo único que debes tener en cuenta.</text>
-  <text id="chesed4_intro_c22">Eso es solo... por qué estás siendo tan cruel?</text>
-  <text id="chesed4_intro_a11">Chesed, los empleados tienen mucha suerte de ser contratados en una de las Alas. Mucha gente lucha por un trabajo aquí todos los días. </text>
-  <text id="chesed4_intro_a12">Siempre hay nuevos empleados disponibles para reemplazar a los muertos.</text>
-  <text id="chesed4_intro_a13">Sobre qué autoridad estás tratando de quitarles su fortuna?</text>
-  <text id="chesed4_intro_c23">…</text>
-  <text id="chesed4_intro_a14">Entiendo que eres inteligente, Chesed. Pero, por qué no usas esa inteligencia en otra dirección?</text>
-  <text id="chesed4_intro_c24">...</text>
-  <text id="chesed4_intro_a15">Parece que eso fue un shock para ti. Pero antes te lo advertí, nada cambiará. Pensaste que estaba mintiendo?</text>
-  <text id="chesed4_intro_c25">...</text>
-  <text id="chesed4_intro_a16">Intente beber una taza de café caliente en lugar de perder el tiempo. Saborea tu posición más alta.</text>
-  <text id="chesed4_intro_a17">No olvides que nuestro objetivo es singular.</text>
-  <text id="chesed4_intro_a18">Oh, y Chesed?</text>
-  <text id="chesed4_intro_a19">Soy la mejor IA que existe en este mundo. No dejo estupidos rastros.</text>
-  <text id="chesed4_intro_a20">Entonces, fue entretenido tu trabajo como un pequeño detective?</text>
-  <!--::Comment:: 과거 회상 3 끝-->
-  <text id="chesed4_intro_c26">Sabes que no existimos en la forma que ves?</text>
-  <text id="chesed4_intro_c27">Tengo curiosidad por cómo me vería desde tu punto de vista.</text>
-  <text id="chesed4_intro_c28">Debe ser algo desagradable e incapaz, que hubiera odiado en el pasado.</text>
+  <text id="chesed4_intro_c1">Sigue así de bien.</text>
+  <text id="chesed4_intro_c2">Hoy estuve exhausto, los problemas no paraban de acumularse uno tras otro.</text>
+  <text id="chesed4_intro_c3">Supongo que es cómodo tener roles tan claramente asignados para cada uno.</text>
+  <text id="chesed4_intro_c4">Puedes simplemente concentrarte en lo que te dan, sin tener que pensar profundamente en ello.</text>
+  <text id="chesed4_intro_c5">La señorita Angela es muy buena orquestando roles.</text>
+  <text id="chesed4_intro_c6">Y en el momento en que alguien intenta salirse de la línea, aunque sea un paso,</text>
+  <text id="chesed4_intro_c7">se vuelve implacable y cruel.</text>
+  <text id="chesed4_intro_c8">Al parecer, yo también tenía un rol predeterminado desde el principio.</text>
+  <text id="chesed4_intro_c9">Me guste o no, es algo que ya estaba decidido.</text>
+  <text id="chesed4_intro_c10">Así que decidí simplemente esperar.</text>
+  <text id="chesed4_intro_c11">¿Que qué estoy esperando, dices?</text>
+  <text id="chesed4_intro_c12">Si hay un punto de inicio, debe haber un punto final.</text>
+  <text id="chesed4_intro_c13">Hasta que todo este plan suyo llegue a su fin.</text>
+  <!-- 과거 회상 3-->
+  <text id="chesed4_intro_c14">Señorita Angela, encontré algo extraño mientras revisaba los documentos.</text>
+  <text id="chesed4_intro_c15">En los registros de este día, dice que la Anormalidad escapó por una falla en la cerradura de la unidad de contención...</text>
+  <text id="chesed4_intro_a1">….</text>
+  <text id="chesed4_intro_c16">Pero que yo sepa, la puerta de esa unidad no presentó ninguna falla ese día, ni tampoco había rastros de algo así.</text>
+  <text id="chesed4_intro_a2">….</text>
+  <text id="chesed4_intro_c17">Y la única con la autoridad para controlar las puertas de las unidades de contención es usted, Angela.</text>
+  <text id="chesed4_intro_c18">…</text>
+  <text id="chesed4_intro_c19">Angela, hable. ¿Por qué hizo eso? ¿Acaso sabe cuántos de mis empleados murieron por culpa de ese incidente?</text>
+  <text id="chesed4_intro_a3">Eres muy perspicaz, Chesed. Sabía que te darías cuenta, pero fue un poco más rápido de lo que esperaba.</text>
+  <text id="chesed4_intro_c20">¿Qué está queriendo decir?</text>
+  <text id="chesed4_intro_a4">Gracias a tu 'brillante' esfuerzo, la tasa de escapes en tu departamento ha sido excepcionalmente baja últimamente. Eres un Sephirah competente, te reconozco eso.</text>
+  <text id="chesed4_intro_a5">Pero, y aunque no se lo he dicho a nadie, ni tampoco era necesario decirlo...</text>
+  <text id="chesed4_intro_a6">Las Anormalidades producen mucha más energía al matar personas.</text>
+  <text id="chesed4_intro_c21">¿Cómo puede ser tan...</text>
+  <text id="chesed4_intro_a7">¿Recuerdas que has presentado informes para importar maquinaria varias veces?</text>
+  <text id="chesed4_intro_a8">Si unas máquinas baratas y sin alma reemplazaran a los empleados en el trabajo, sí, como dices, la tasa de mortalidad bajaría. Pero eso también significa que la producción de energía caería severamente.</text>
+  <text id="chesed4_intro_a9">Lobotomy dirige un negocio colosal con múltiples intereses entrelazados, incluyendo la cuota diaria de suministro, el abastecimiento eléctrico de la Ciudad y nuestras relaciones comerciales con las otras Alas.</text>
+  <text id="chesed4_intro_a10">Nosotros refinamos la energía de la forma más eficiente posible y obtenemos beneficios. Eso es lo único que debes tener en mente.</text>
+  <text id="chesed4_intro_c22">Eso es absurdo... ¿Por qué es usted tan cruel?</text>
+  <text id="chesed4_intro_a11">Chesed, los empleados ya son increíblemente afortunados con solo haber sido aceptados en un Ala. Todos los días, innumerables personas pelean a muerte para entrar a nuestra empresa.</text>
+  <text id="chesed4_intro_a12">Siempre habrá un empleado nuevo para reemplazar a uno muerto.</text>
+  <text id="chesed4_intro_a13">¿Con qué derecho intentas arrebatarles esa fortuna?</text>
+  <text id="chesed4_intro_c23">….</text>
+  <text id="chesed4_intro_a14">Sé que eres inteligente, Chesed. ¿Pero por qué no usas esa cabeza para algo más productivo?</text>
+  <text id="chesed4_intro_c24">…</text>
+  <text id="chesed4_intro_a15">Parece que te llevaste una gran sorpresa, pero ya te había advertido que nada cambiaría. ¿Acaso creías que mentía?</text>
+  <text id="chesed4_intro_c25">…</text>
+  <text id="chesed4_intro_a16">En lugar de perder el tiempo, ¿por qué no te tomas un café caliente? Toma este momento para sentirte satisfecho con tu puesto, que es mucho mejor que el de esos empleados.</text>
+  <text id="chesed4_intro_a17">No lo olvides, nuestro objetivo es uno solo.</text>
+  <text id="chesed4_intro_a18">Ah, y por cierto, Chesed...</text>
+  <text id="chesed4_intro_a19">Soy la mejor IA que existe en este lugar. No voy a dejar rastros por torpeza.</text>
+  <text id="chesed4_intro_a20">Dime, ¿estás satisfecho jugando al detective?</text>
+  <!-- 과거 회상 3 끝-->
+  <text id="chesed4_intro_c26">¿Sabías que nosotros no existimos tal como nos vemos?</text>
+  <text id="chesed4_intro_c27">Me pregunto qué apariencia tengo ante tus ojos.</text>
+  <text id="chesed4_intro_c28">Probablemente sea una apariencia patética e incompetente; una que mi yo del pasado seguramente habría detestado.</text>
   
   <!-- 에피소드 5-->
   <text id="chesed5_intro_c1">……….</text>
-  <text id="chesed5_intro_c2">Tranquilo, no es así?</text>
-  <text id="chesed5_intro_c3">Mira bien este silencio.</text>
-  <text id="chesed5_intro_c4">Gerente, alguna vez se ha despertado temprano para caminar por las calles durante el amanecer?</text>
-  <text id="chesed5_intro_c5">Creo que este momento aquí es equivalente al amanecer del mundo exterior.</text>
-  <text id="chesed5_intro_c6">Las Anormalidades están en inactividad gracias a la Disuasión de Qlifot durante los respiros.</text>
-  <text id="chesed5_intro_c7">Los empleados se preparan para dejar que el destino decida qué les sucede.</text>
-  <text id="chesed5_intro_c8">Cuando la disuasión se debilite, los poderes suprimidos los despertarán.</text>
-  <text id="chesed5_intro_c9">Siempre es difícil creer que un lugar tan tranquilo como este pronto será engullido por el pandemónium.</text>
-  <text id="chesed5_intro_c10">Qué tan lindo sería mantener esta tranquilidad?</text>
-  <text id="chesed5_intro_c11">Cuántas veces tenemos que fallar? Cuánto más debemos acostumbrarnos a la oscuridad, para finalmente encontrar la luz?</text>
-  <text id="chesed5_intro_e1">Buenos días, Chesed.</text>
+  <text id="chesed5_intro_c2">¿Silencioso, verdad?</text>
+  <text id="chesed5_intro_c3">Observa bien este silencio.</text>
+  <text id="chesed5_intro_c4">Gerente, ¿alguna vez te has despertado temprano para caminar por las calles al amanecer?</text>
+  <text id="chesed5_intro_c5">Si tuviéramos que comparar este momento con un día en el mundo exterior, supongo que equivaldría a la madrugada.</text>
+  <text id="chesed5_intro_c6">Fuera del horario de trabajo, las Anormalidades están en letargo gracias a la Disuasión de Qliphoth.</text>
+  <text id="chesed5_intro_c7">Los empleados pronto se prepararán para entregarse a un destino que es como una ruleta rusa.</text>
+  <text id="chesed5_intro_c8">Cuando la Disuasión se debilite, esos poderes reprimidos las despertarán.</text>
+  <text id="chesed5_intro_c9">Siempre me resulta difícil de creer que este lugar tan pacífico pronto se convertirá en un pandemónium.</text>
+  <text id="chesed5_intro_c10">Qué maravilloso sería si este silencio durara para siempre...</text>
+  <text id="chesed5_intro_c11">¿Cuánto más debemos desmoronarnos y acostumbrarnos a la oscuridad antes de poder ver la luz?</text>
+  <text id="chesed5_intro_e1">Buenos días, señor Chesed.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c12">Si buenos días. Buena suerte hoy.</text>
-  <text id="chesed5_intro_e2">Chesed, he estado pensando, y creo que tuve mucha suerte de ser asignado al Equipo de Bienestar.</text>
+  <text id="chesed5_intro_c12">Sí, buenos días~ Buen trabajo hoy también~</text>
+  <text id="chesed5_intro_e2">Señor Chesed, lo he pensado desde hace tiempo, pero creo que haber sido asignado al Equipo de Bienestar fue una inmensa suerte de mi parte.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_e3">El solo hecho de entrar en la Corporación fue realmente competitivo, pero ¿ser asignado a este equipo? Eso fue como un milagro.</text>
+  <text id="chesed5_intro_e3">Simplemente ser aceptado en la empresa requirió superar una competencia brutal, pero, ¿poder entrar en este departamento? Es casi un milagro.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c13">... Adularme no te llevará nada.</text>
-  <text id="chesed5_intro_e4">Piénsalo como una adulación.</text>
+  <text id="chesed5_intro_c13">..... No vas a conseguir nada adulándome, ¿sabes?</text>
+  <text id="chesed5_intro_e4">Tómelo como adulación si quiere.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_e5">Pero no hay nadie que se preocupe más por los otros empleados como usted, Chesed. Todo el mundo sabe lo poco que les importa a los otros líderes de departamento sus empleados.</text>
+  <text id="chesed5_intro_e5">Pero es verdad, no hay muchos departamentos que se preocupen tanto por la seguridad de sus empleados como el suyo, señor Chesed. Cualquiera sabe cómo funcionan los departamentos de al lado.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c14">…No, tu estas equivocado.</text>
-  <text id="chesed5_intro_e6">Solo digo que te aprecio mucho. Perdón por mantenerte tanto tiempo, me iré ahora.</text>
+  <text id="chesed5_intro_c14">....No, no es tan así.</text>
+  <text id="chesed5_intro_e6">Solo quería decirle que siempre le estaré muy agradecido. Lamento haberle quitado su tiempo, me iré ahora.</text>
   <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c15">Sí, prepárate para hoy.</text>
-  <text id="chesed5_intro_c16">……</text>
-  <text id="chesed5_intro_c17">Durante muchos días, me consolé a mí mismo de que no estaba haciendo tan mal por un Sephirah.</text>
-  <text id="chesed5_intro_c18">No puse a mis empleados en situaciones mortales, y logré ser flexible una y otra vez.</text>
-  <text id="chesed5_intro_c19">Enojarse con alguien por romper las reglas, o estar de acuerdo con alguien que dijo que mejoraría este lugar,</text>
-  <text id="chesed5_intro_c20">si doy un paso atrás y lo miro todo, no puedo evitar pensar...</text>
-  <text id="chesed5_intro_c21">Qué sentido tiene todo esto?</text>
-  <text id="chesed5_intro_c22">Esperaba enviarlo en paz porque de todos modos solo estaban destinados a morir.</text>
-  <text id="chesed5_intro_c23">Estaba escondiendo la mentira más grande de todas adentro,</text>
-  <text id="chesed5_intro_c24">pero seguí desempeñando el papel de un buen líder, sabiendo que todo era mentira.</text>
-  <text id="chesed5_intro_c25">Angela también sabía.</text>
-  <text id="chesed5_intro_c26">Ella sabía que nunca podría exponer todos los secretos de este lugar a los empleados y derrocar el sistema.</text>
-  <text id="chesed5_intro_c27">Quiero decir,</text>
-  <text id="chesed5_intro_c28">simplemente no quería ir contra ella.</text>
-  <text id="chesed5_intro_c29">Al estar en el Departamento de Bienestar, en realidad no me importaba el bienestar de los empleados.</text>
-  <text id="chesed5_intro_c30">Estaba asustado.</text>
-  <text id="chesed5_intro_c31">Angela detuvo las dudas y consultas sobre este lugar dejando que los empleados murieran.</text>
-  <text id="chesed5_intro_c32">Así que empecé a ayudar a Angela,</text>
-  <text id="chesed5_intro_c33">y solo cubrí mis ojos...</text>
+  <text id="chesed5_intro_c15">Claro, prepárate bien hoy~</text>
+  <text id="chesed5_intro_c16">……..</text>
+  <text id="chesed5_intro_c17">Hubo muchos días en los que me consolaba a mí mismo pensando que no era tan mal Sephirah después de todo.</text>
+  <text id="chesed5_intro_c18">Al menos no arrojaba a mis empleados a misiones suicidas como otros, y me las arreglaba para manejar la situación conforme venía.</text>
+  <text id="chesed5_intro_c19">Ya sea regañando un poco por romper las reglas, o siguiéndole la corriente a alguien nuevo que dice que convertirá esto en un lugar mejor...</text>
+  <text id="chesed5_intro_c20">Pero si doy un paso atrás y lo miro todo...</text>
+  <text id="chesed5_intro_c21">Me pregunto, ¿qué sentido tiene todo esto?</text>
+  <text id="chesed5_intro_c22">En el fondo, yo solo quería que se fueran en paz a su muerte segura.</text>
+  <text id="chesed5_intro_c23">Pero mientras ocultaba la peor de las mentiras,</text>
+  <text id="chesed5_intro_c24">jugaba a interpretar el papel de un líder compasivo, sabiendo que todo era una farsa.</text>
+  <text id="chesed5_intro_c25">La señorita Angela también lo sabe.</text>
+  <text id="chesed5_intro_c26">Sabe que no soy alguien lo suficientemente valiente como para contarle todos los secretos a los empleados y poner patas arriba este lugar.</text>
+  <text id="chesed5_intro_c27">Yo...</text>
+  <text id="chesed5_intro_c28">Solo quería evitar enfurecerla tanto como fuera posible.</text>
+  <text id="chesed5_intro_c29">Aunque este es el Departamento de Bienestar, la verdad es que nunca me importó en absoluto el bienestar de los empleados.</text>
+  <text id="chesed5_intro_c30">Tenía miedo.</text>
+  <text id="chesed5_intro_c31">Cuando las dudas y preguntas sobre este lugar aumentaban, la señorita Angela respondía con la muerte de los empleados.</text>
+  <text id="chesed5_intro_c32">Por eso, me tapaba los ojos y los oídos mientras seguía en la palma de la mano de la señorita Angela,</text>
+  <text id="chesed5_intro_c33">y la ayudaba con su trabajo sucio...</text>
   <!-- 게부라 등장-->
-  <text id="chesed5_intro_g1">Oye, tenemos una emergencia. Has oído el informe de estado? Las anormalídades están fuera de control.</text>
+  <text id="chesed5_intro_g1">Oye, es una emergencia. ¿Recibiste el informe de la situación? Las Anormalidades están fuera de control.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g2">No sé qué pasó, pero tenemos que retomar el control de la situación en este momento.</text>
+  <text id="chesed5_intro_g2">No sé cuál es el problema, pero tenemos que controlar la situación ahora mismo.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_c34">…Pensé que no querías hablar conmigo, Gebura.</text>
-  <text id="chesed5_intro_g3">…Puedes controlar la disuasión, verdad?</text>
+  <text id="chesed5_intro_c34">…. Por lo general ni siquiera quieres cruzar palabra conmigo, ¿qué bicho te picó, Gebura?</text>
+  <text id="chesed5_intro_g3">…..Tú puedes controlar la Disuasión desde tu puesto, ¿no?</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g4">Necesitamos aumentar la Disuasión Qliphoth ahora.</text>
+  <text id="chesed5_intro_g4">Tenemos que aumentar la Disuasión de Qliphoth.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g5">Angela llamará al Equipo Conejo si el resto de las anormalídades no se suprimen.</text>
+  <text id="chesed5_intro_g5">Si no suprimimos a las Anormalidades restantes, la señorita Angela probablemente llamará al Equipo de Conejos.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g6">Quiero envolver las cosas de mi lado.</text>
+  <text id="chesed5_intro_g6">Quiero acabar con esto por mi cuenta como sea.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_c35">....Pero Gebura, nadie puede tocar el Controlador Qliphoth sin la aprobación de Angela. Tú lo sabes.</text>
-  <text id="chesed5_intro_g7">Así que no quieres hacerlo.</text>
+  <text id="chesed5_intro_c35">....Pero Gebura, tú lo sabes. Nadie puede operar el Controlador de Qliphoth sin la autorización de la señorita Angela.</text>
+  <text id="chesed5_intro_g7">En resumen, no tienes intención de hacerlo.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g8">Cobarde. ¿Realmente crees que podrías resolver esta situación simplemente por cumplir con las formalidades?</text>
+  <text id="chesed5_intro_g8">Cobarde. ¿En serio crees que basta con escabullirte del problema cuando se presenta?</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g9">Espero que sufras hasta tu muerte, sucumbiendo a tus miedos.</text>
+  <text id="chesed5_intro_g9">Sigue arrastrándote ante el miedo toda tu vida, pudriéndote.</text>
   <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g10">Vive las palabras recubiertas de azúcar de tus empleados.</text>
+  <text id="chesed5_intro_g10">Sigue regodeándote en las dulces adulaciones de tus empleados.</text>
   <!-- 화자 : 게부라-->
   <!-- 게부라 퇴장-->
-  <text id="chesed5_intro_c36">...Ha pasado un tiempo desde que fui agarrado por el cuello.</text>
+  <text id="chesed5_intro_c36">....Ha pasado un tiempo desde que alguien me agarraba por el cuello.</text>
   <!-- 앤젤라 등장-->
   <text id="chesed5_intro_a1">Chesed.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c37">.........</text>
-  <text id="chesed5_intro_a2">Usted sabía que iba a venir, verdad? Me conoces demasiado bien.</text>
+  <text id="chesed5_intro_c37">….........</text>
+  <text id="chesed5_intro_a2">¿Sabías que iba a venir, no? Me conoces demasiado bien.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a3">Quizás tú eres el que más me entiende entre todos los Sephirahs.</text>
+  <text id="chesed5_intro_a3">Tal vez seas el Sephirah que mejor comprende mis intenciones de entre todos los demás.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a4">Debilitar la disuasión de Qliphoth.</text>
+  <text id="chesed5_intro_a4">Debilita aún más la Disuasión de Qliphoth.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c38">Qué tienes en la manga esta vez?</text>
-  <text id="chesed5_intro_a5">Quieres saber de nuevo la razón? Después de todo este tiempo?</text>
+  <text id="chesed5_intro_c38">¿Otra de sus sucias jugadas?</text>
+  <text id="chesed5_intro_a5">¿Acaso te entró de repente la curiosidad por saber mis razones? ¿A estas alturas?</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c39">... Gebura y los otros empleados probablemente todavía estén peleando en este momento. Lo sabes bien?</text>
-  <text id="chesed5_intro_a6">Gebura es...</text>
+  <text id="chesed5_intro_c39">...Gebura y los demás empleados probablemente siguen luchando en este instante, ¿es consciente de ello?</text>
+  <text id="chesed5_intro_a6">Gebura...</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a7">Lo siento, es un poco gracioso. No sabía que hablarías de Gebura.</text>
+  <text id="chesed5_intro_a7">Perdona, es que me da algo de gracia. No me esperaba que fueras tú quien mencionara a Gebura.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a8">Usted debe saberlo. Lo has visto por ti mismo.</text>
+  <text id="chesed5_intro_a8">Deberías saberlo bien, tú la has observado de cerca.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a9">Gebura no pudo controlar su propia rabia y ahora ha perdido su camino.</text>
+  <text id="chesed5_intro_a9">Gebura simplemente fracasó en controlar su propia ira y ha perdido el rumbo.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a10">Estoy diciendo que no está luchando por una gran ideología.</text>
+  <text id="chesed5_intro_a10">A lo que me refiero es que ella no se está enfrentando a esto por algún gran ideal.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c40">Ella sabe dónde está mejor que nadie.</text>
-  <text id="chesed5_intro_c41">Todos tienen sus propias batallas en este lugar,</text>
-  <text id="chesed5_intro_c42">pero siento que soy el único que está viendo esta situación.</text>
-  <text id="chesed5_intro_a11">Pensé que te gustaba eso, Chesed?</text>
+  <text id="chesed5_intro_c40">Supongo que ella misma sabrá mejor en qué situación se encuentra.</text>
+  <text id="chesed5_intro_c41">Cada quien está librando su propia batalla aquí,</text>
+  <text id="chesed5_intro_c42">pero desde hace tiempo empecé a sentir que soy el único que se ha quedado de brazos cruzados, limitándose a observar.</text>
+  <text id="chesed5_intro_a11">¿Y no es eso lo que te gusta, Chesed?</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a12">Tomando una taza de café, disfrutando del día tranquilo con su música clásica.</text>
+  <text id="chesed5_intro_a12">Beber café y escuchar música elegante, disfrutando de un día tranquilo y pacífico.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a13">Creo que te estoy proporcionando el ambiente adecuado.</text>
+  <text id="chesed5_intro_a13">Yo diría que te estoy brindando exactamente el entorno que deseas.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a14">Ah, nuestra conversación ha durado más de lo que esperaba.</text>
+  <text id="chesed5_intro_a14">Ah, me alargué un poco.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a15">Así que déjame decirte de nuevo.</text>
+  <text id="chesed5_intro_a15">Te lo repetiré.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a16">Baja la disuasión.</text>
+  <text id="chesed5_intro_a16">Baja la Disuasión.</text>
   <!-- 화자 : 앤젤라-->
   <!-- 장면 전환 (과거 회상)-->
-  <text id="chesed5_intro_c431">Hmm .. el cafe huele bien.....</text>
+  <text id="chesed5_intro_c431">Sí, hoy también vamos todos a...</text>
   <text id="chesed5_intro_b1">Abre la puerta.</text>
   <!-- 화자 : 비나-->
-  <text id="chesed5_intro_c43">Quién eres tú?</text>
-  <text id="chesed5_intro_b2">Tu gusto por la música es bastante elegante.</text>
-  <text id="chesed5_intro_b3">Aunque muy diferente del mío.</text>
-  <text id="chesed5_intro_c44">Pero qué………</text>
-  <text id="chesed5_intro_b4">Lo siento, no pensé que me abrirías la puerta, así que entré.</text>
-  <text id="chesed5_intro_c45">Cómo llegaste aquí? Te conozco...?</text>
-  <text id="chesed5_intro_b5">Vine de la Cabeza, y los estaba buscando desesperadamente a todos.</text>
-  <text id="chesed5_intro_b6">La razón por la que vine todo este camino es...</text>
-  <text id="chesed5_intro_b7">Digamos que vine aquí para tocar mi música favorita.</text>
-  <text id="chesed5_intro_b8">Oye, puedes decirme quién es este caballero?</text>
-  <text id="chesed5_intro_e7">Daniel... Su nombre es Daniel.</text>
+  <text id="chesed5_intro_c43">¿Quién eres tú?</text>
+  <text id="chesed5_intro_b2">¿Tienes un gusto musical bastante elegante, no?</text>
+  <text id="chesed5_intro_b3">Aunque no encaja mucho con el mío.</text>
+  <text id="chesed5_intro_c44">Pero qué… …….</text>
+  <text id="chesed5_intro_b4">Disculpa, parecía que no tenías intención de abrirme, así que entré sin más.</text>
+  <text id="chesed5_intro_c45">¿Cómo entraste aquí? Más importante aún, ¿quién eres tú...?</text>
+  <text id="chesed5_intro_b5">Vengo de la Cabeza, y los he estado buscando con muchas ansias.</text>
+  <text id="chesed5_intro_b6">Y el motivo de mi visita...</text>
+  <text id="chesed5_intro_b7">¿Digamos que vine a que escuchen mi tipo de música favorita?</text>
+  <text id="chesed5_intro_b8">Tú, ¿me podrías decir cuál es el nombre de este caballero?</text>
+  <text id="chesed5_intro_e7">Daniel... Su nombre es Daniel…</text>
   <!-- 화자 : 직원 -->
-  <text id="chesed5_intro_b9">Daniel...? El nombre es más de lo que mereces.</text>
-  <text id="chesed5_intro_b10">Supongo que usted está a cargo de este lugar.</text>
-  <text id="chesed5_intro_b11">Abre el sector en el que están encerrados esos monstruos.</text>
-  <text id="chesed5_intro_b12">Como viste anteriormente, no es nada para mí abrir ninguna puerta cerrada con mi poder.</text>
-  <text id="chesed5_intro_b13">Solo estoy siendo educado, te pido que lo hagas, ya que estás a cargo de este lugar.</text>
-  <text id="chesed5_intro_b14">No te resistas, solo escúchame. Si tu haces eso...</text>
-  <text id="chesed5_intro_b15">Tal vez algunas de estas personas puedan escapar.</text>
-  <text id="chesed5_intro_c46">Es fácil señalar con el dedo al traidor.</text>
-  <text id="chesed5_intro_c47">Pero nunca se sabe realmente hasta que haya experimentado la situación usted mismo.</text>
-  <text id="chesed5_intro_c48">Un escalofrío recorrió todo mi cuerpo, un miedo que aún no había sentido antes.</text>
-  <text id="chesed5_intro_c49">Me encontré con numerosas anormalídades experimentales, pero nunca experimenté la paralización de mi cuerpo y la coagulación de la sangre antes.</text>
-  <text id="chesed5_intro_c50">Así que esta es la, "Cabeza."</text>
+  <text id="chesed5_intro_b9">Con que Daniel... Es un nombre que le queda grande.</text>
+  <text id="chesed5_intro_b10">Parece ser que eres tú el individuo a cargo del control de este lugar.</text>
+  <text id="chesed5_intro_b11">Abre los sectores donde están encerrados esos peculiares monstruos.</text>
+  <text id="chesed5_intro_b12">Como ya has visto, no me cuesta nada abrir puertas cerradas con mis propios medios.</text>
+  <text id="chesed5_intro_b13">Solo que, como tú eres el encargado aquí, quise pedirte el favor directamente.</text>
+  <text id="chesed5_intro_b14">Así que sé buen chico y obedece. Si lo haces...</text>
+  <text id="chesed5_intro_b15">¿Quizás la gente de aquí pueda huir?</text>
+  <text id="chesed5_intro_c46">Es fácil señalar con el dedo y llamar traidor a alguien.</text>
+  <text id="chesed5_intro_c47">Pero nadie lo comprende de verdad a menos que haya estado en esa situación.</text>
+  <text id="chesed5_intro_c48">Un escalofrío que te hace temblar desde la punta de los pies; un terror que jamás había experimentado.</text>
+  <text id="chesed5_intro_c49">Me había topado con muchas Anormalidades experimentales en el pasado, y aunque me dieran miedo, mi cuerpo nunca se había paralizado por completo.</text>
+  <text id="chesed5_intro_c50">Así que esta es la “Cabeza”.</text>
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="chesed5_intro_c51">Gerente, no me des una orden.</text>
-  <text id="chesed5_intro_c52">No trates de justificarme actos cobardes.</text>
-  <text id="chesed5_intro_c53">Me avergüenzo de consolarme diciendo que no se podía hacer nada después de pasar por el túnel de la derrota.</text>
-  <text id="chesed5_intro_c54">Estoy tan avergonzado de mí mismo, no puedo soportarlo más...</text>
+  <text id="chesed5_intro_c51">Gerente, no me des ninguna orden.</text>
+  <text id="chesed5_intro_c52">Ya no intentes justificar actos cobardes por mí.</text>
+  <text id="chesed5_intro_c53">Tras atravesar el túnel de la derrota, me da vergüenza seguir excusándome con que no me quedaba de otra.</text>
+  <text id="chesed5_intro_c54">Me avergüenzo tanto de mí mismo que ya no puedo soportarlo más...</text>
 
-  <text id="chesed5_intro_c55">Mi cuerpo es como un castigo para mí; recordándome de mi pasado. Ni siquiera puedo sangrar de este cuerpo.</text>
-  <text id="chesed5_intro_c56">No quiero ser el títere que obtiene la aprobación haciendo el trabajo sucio de Angela,</text>
-  <text id="chesed5_intro_c57">y no quiero ser tu ayuda quien no puede hacer nada.</text>
-  <text id="chesed5_intro_c58">Todo eso fue solo una serie de vergüenza para mi.</text>
-  <text id="chesed5_intro_c59">Gerente, esta es mi rebelión contra usted y Angela.</text>
+  <text id="chesed5_intro_c55">Este cuerpo, que ni siquiera está diseñado para sangrar de forma adecuada, fue incrustado en mí como un estigma para que nunca olvide mi pasado.</text>
+  <text id="chesed5_intro_c56">Ser el títere que se lleva los aplausos mientras hace el trabajo sucio de Angela,</text>
+  <text id="chesed5_intro_c57">y ser el asistente de un gerente que es incapaz de hacer algo,</text>
+  <text id="chesed5_intro_c58">todo eso ha sido una secuencia de humillación para mí.</text>
+  <text id="chesed5_intro_c59">Gerente, esta es mi rebelión en contra de usted y de Angela.</text>
   <!-- 장면 전환 (과거)-->
-  <text id="chesed5_intro_c60">“Soy el único que sobrevivió...”</text>
-  <text id="chesed5_intro_c61">“Diciendo que no había nada que pudiera hacer. Que estaba demasiado asustada para soportarlo sola. Que quería rescatar a mi gente de aquí...”</text>
-  <text id="chesed5_intro_c62">“Todas son excusas sin sentido...”</text>
-  <text id="chesed5_intro_c63">“Creo que moriré pronto también...”</text>
-  <text id="chesed5_intro_c64">“La Cabeza se dirigía hacia aquí...”</text>
+  <text id="chesed5_intro_c60">“Soy el único que logró sobrevivir… ”</text>
+  <text id="chesed5_intro_c61">“Decir que no me quedaba de otra, que tenía demasiado miedo para soportarlo solo, que quería hacer todo lo posible para que mi gente viviera… “</text>
+  <text id="chesed5_intro_c62">“Seguro que todo eso son excusas baratas…”</text>
+  <text id="chesed5_intro_c63">“Probablemente yo también muera pronto...”</text>
+  <text id="chesed5_intro_c64">“La Cabeza... viene hacia acá...”</text>
   <text id="chesed5_intro_c65">“............”</text>
-  <text id="chesed5_intro_c66">“Nos vemos de nuevo en el infierno... A...”</text>
+  <text id="chesed5_intro_c66">“Nos vemos en el infierno... A...”</text>
 
   <!-- 화자 계속 A-->
-  <text id="chesed5_intro_A1">Cómo domina el miedo la mente humana?</text>
-  <text id="chesed5_intro_A2">Cuántas personas mantendrían sus creencias si se encontraran cara a cara con una verdadera pesadilla?</text>
-  <text id="chesed5_intro_A3">Por lo tanto, nadie puede culpar a su comportamiento imprudente.</text>
-  <text id="chesed5_intro_A4">Para ser honesto, todo comenzó a caer desde el acantilado en el momento en que la Cabeza encontró este lugar.</text>
-  <text id="chesed5_selection1">Cuelgue el intercomunicador.</text>
+  <text id="chesed5_intro_A1">¿Cómo domina el miedo la mente humana?</text>
+  <text id="chesed5_intro_A2">¿Cuántos serían capaces de mantenerse firmes en sus convicciones al estar cara a cara con esa pesadilla?</text>
+  <text id="chesed5_intro_A3">Por esa razón, nadie puede culpar sus acciones a la ligera.</text>
+  <text id="chesed5_intro_A4">Si soy honesto, en el momento en que la Cabeza descubrió este lugar, todo ya estaba cayendo en picada.</text>
+  <text id="chesed5_selection1">Colgar el intercomunicador.</text>
   <!-- 선택지-->
-  <text id="chesed5_selection2">Cuelgue el intercomunicador.</text>
+  <text id="chesed5_selection2">Colgar el intercomunicador.</text>
   <!-- 선택지-->
-  <text id="chesed5_selection3">Cuelgue el intercomunicador.</text>
+  <text id="chesed5_selection3">Colgar el intercomunicador.</text>
   <!-- 선택지-->
 
-  <text id="chesed5_intro_A5">Nuestra última conversación terminó con un silencio desesperado.</text>
-  <text id="chesed5_intro_A6">Daniel, que era inteligente y tenía una alta posición social, tenía más talento que nadie en el laboratorio de investigación.</text>
-  <text id="chesed5_intro_A7">Tenía una excelente reputación de las personas que lo rodeaban con su encantadora sonrisa y humor.</text>
-  <text id="chesed5_intro_A8">Podría haber sido fácil para él entrar en una de las Alas con sus habilidades y personalidad.</text>
-  <text id="chesed5_intro_A9">Pero él nos eligió a nosotros, no al Ala.</text>
-  <text id="chesed5_intro_A10">Aunque fue increíble, una vez lo fue, sin duda murió desesperado y arrepentido, maldiciendo su elección.</text>
-  <text id="chesed5_intro_A11">Viendo los cadáveres de los compañeros de trabajo frente a él,</text>
-  <text id="chesed5_intro_A12">sin tener un solo consuelo de saber que no fue su culpa,</text>
-  <text id="chesed5_intro_A13">no merece ninguna paz para sí mismo...</text>
+  <text id="chesed5_intro_A5">Un silencio desesperado marcó el final de la conversación.</text>
+  <text id="chesed5_intro_A6">Daniel, quien poseía una mente brillante y un estatus social elevado, era más astuto y hábil que cualquier otro en el laboratorio.</text>
+  <text id="chesed5_intro_A7">Con su característica sonrisa audaz y su gran carisma, siempre gozó de una excelente reputación entre todos.</text>
+  <text id="chesed5_intro_A8">Gracias a su talento y personalidad, probablemente podría haber entrado en cualquiera de las Alas con facilidad,</text>
+  <text id="chesed5_intro_A9">pero él nos eligió a nosotros en su lugar.</text>
+  <text id="chesed5_intro_A10">Aquel hombre que alguna vez fue tan admirable, seguramente murió desesperado y arrepentido, maldiciendo su elección.</text>
+  <text id="chesed5_intro_A11">Contemplando los cadáveres de sus colegas esparcidos frente a sus ojos,</text>
+  <text id="chesed5_intro_A12">sin poder recibir siquiera el consuelo de que no fue su culpa,</text>
+  <text id="chesed5_intro_A13">murió sin obtener la más mínima paz...</text>
 
 
 
@@ -335,90 +335,90 @@
 
   <!-- 에피소드 6-->
   <!-- 과거 모습-->
-  <text id="chesed6_intro_c1">QUE?!</text>
-  <text id="chesed6_intro_c2">La gente aquí no toma café por la mañana?</text>
-  <text id="chesed6_intro_c3">No hay mejor manera de obtener energía que una taza de café recién hecho antes de comenzar el día.</text>
-  <text id="chesed6_intro_c4">Qué es esa mirada en tus caras?</text>
-  <text id="chesed6_intro_c5">No esperabas que viniera aquí, verdad?</text>
-  <text id="chesed6_intro_c6">Que decepcionante. No esperaba una gran fiesta de bienvenida, pero no creía que ustedes fueran tan descorazonados.</text>
-  <text id="chesed6_intro_c7">Bueno, por supuesto que entiendo.</text>
-  <text id="chesed6_intro_c8">Probablemente te estés preguntando por qué un hombre tan talentoso como yo postulaba para unirme a una compañia tan miserable, eh?</text>
-  <text id="chesed6_intro_c9">Bueno, cada uno tiene sus propios valores diferentes...</text>
-  <text id="chesed6_intro_c10">…………</text>
-  <text id="chesed6_intro_c11">Ah, eres usted A?</text>
-  <text id="chesed6_intro_c12">Creo que escuche de ti de Carmen.</text>
-  <text id="chesed6_intro_c13">...Bien, en realidad, el discurso de Carmen me trajo aquí.</text>
-  <text id="chesed6_intro_c14">Donde esta ella?</text>
-  <text id="chesed6_intro_ca1">Así que viniste, adicto al café.</text>
+  <text id="chesed6_intro_c1">¡No puede ser!</text>
+  <text id="chesed6_intro_c2">¿Me están diciendo que en este lugar no toman café por la mañana?</text>
+  <text id="chesed6_intro_c3">¡No hay nada mejor que el aroma de una buena taza de café para recargar energías antes de comenzar el día!~</text>
+  <text id="chesed6_intro_c4">¿Por qué me miran así?</text>
+  <text id="chesed6_intro_c5">¿Acaso no se esperaban que yo viniera?</text>
+  <text id="chesed6_intro_c6">Qué decepción~ Obviamente no esperaba una gran fiesta de bienvenida, pero no creí que fueran tan amargados.</text>
+  <text id="chesed6_intro_c7">Ah, bueno, supongo que lo puedo entender.</text>
+  <text id="chesed6_intro_c8">¿Seguro se están preguntando por qué un talento tan espectacular como yo aplicaría a una empresa tan miserable y venida a menos como esta, no?</text>
+  <text id="chesed6_intro_c9">En fin, supongo que cada quien tiene sus propios valores y cosas por el estilo...</text>
+  <text id="chesed6_intro_c10">………….</text>
+  <text id="chesed6_intro_c11">Ah, ¿tú eres A?</text>
+  <text id="chesed6_intro_c12">Creo que Carmen me mencionó algo al respecto.</text>
+  <text id="chesed6_intro_c13">...Así es. De hecho, vine después de escuchar el discurso de Carmen.</text>
+  <text id="chesed6_intro_c14">¿En dónde está ella?</text>
+  <text id="chesed6_intro_ca1">Vaya, así que viniste. Adicto al café.</text>
   <!-- 화자 : 카르멘-->
-  <text id="chesed6_intro_c15">Este es Daniel...</text>
-  <text id="chesed6_intro_ca2">Tu puedes sentarte aquí. La persona sentada a tu lado te explicará sobre tu trabajo.</text>
-  <text id="chesed6_intro_c16">Qué, sabías que iba a venir?</text>
-  <text id="chesed6_intro_ca3">Te lo dije. No importa lo grande que seas, siempre estarás en la palma de mis manos.</text>
-  <text id="chesed6_intro_c17">Pensé que estabas siendo sarcástico.</text>
-  <text id="chesed6_intro_c18">Tengo una condición para preguntar, puedo?</text>
-  <text id="chesed6_intro_c19">Podemos conseguir una máquina de café aquí?</text>
-  <text id="chesed6_intro_c20">Quiero que todos sepan lo bueno que es el café recién hecho.</text>
-  <text id="chesed6_intro_A1">Daniel atrajo la atención de todos con su elegante traje, que no encajaba aquí en absoluto.</text>
+  <text id="chesed6_intro_c15">Me llamo Daniel...</text>
+  <text id="chesed6_intro_ca2">Toma asiento por aquí. La persona a tu lado te explicará los detalles de tu trabajo más adelante.</text>
+  <text id="chesed6_intro_c16">Oye, ¿ya sabías que iba a venir?</text>
+  <text id="chesed6_intro_ca3">Te lo dije. Por muy asombroso que te creas, estás en la palma de mi mano.</text>
+  <text id="chesed6_intro_c17">Vaya, pensé que solo decías eso para burlarte de mi arrogancia...</text>
+  <text id="chesed6_intro_c18">Tengo una condición antes de empezar, ¿podrían cumplirla?</text>
+  <text id="chesed6_intro_c19">¿Podrían conseguir una máquina de café para este lugar?</text>
+  <text id="chesed6_intro_c20">Me voy a encargar de predicarles a todos lo delicioso que es el café recién filtrado...</text>
+  <text id="chesed6_intro_A1">Daniel apareció vistiendo un traje elegante que no encajaba en absoluto con el lugar, y rápidamente acaparó la atención de todos.</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A2">Creo que Carmen me lo dijo hace unos días.</text>
+  <text id="chesed6_intro_A2">Recuerdo que Carmen me lo mencionó hace unos días.</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A3">Una de las élites se acercará para postularse a nuestra compañia.</text>
+  <text id="chesed6_intro_A3">Una figura de la más alta élite se iba a presentar pronto para postularse en nuestra empresa,</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A4">Es un poco pomposo, así que no creas todo lo que dice.</text>
+  <text id="chesed6_intro_A4">y me advirtió que era algo presumido, así que no debía tomarme muy en serio algunas de las cosas que dijera.</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A5">Le pregunté cómo fue capaz de reclutar a una élite tan grande. Carmen respondió despreocupadamente como si le preguntara algo demasiado trivial.</text>
+  <text id="chesed6_intro_A5">Cuando le pregunté cómo demonios fue capaz de reclutar a alguien de esa categoría, Carmen me respondió con indiferencia, como si le hubiera hecho una pregunta tonta.</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A6">‘Soy bueno en volar las mentes de otras personas.’</text>
+  <text id="chesed6_intro_A6">‘Ya sabes que se me da muy bien sacudir la mente de la gente, ¿no?’</text>
   <!-- 화자 : A-->
-  <text id="chesed6_intro_A7">'Deberías saberlo a estas alturas.'</text>
+  <text id="chesed6_intro_A7">‘Pensé que ya lo sabrías a estas alturas.’</text>
   <!-- 화자 : A-->
   <!-- 장면 전환 (현재, 관자와의 대화)-->
 
-  <text id="chesed6_intro_c21">La revolución no necesita completarse con el ondear banderas o el derramamiento de sangre, gerente.</text>
-  <text id="chesed6_intro_c22">Estuve esperando a un salvador durante tanto tiempo.</text>
-  <text id="chesed6_intro_c23">Alguien que pudiera sacarme de mis viejos costumbres y despertarme.</text>
-  <text id="chesed6_intro_c24">Por qué no pensé que yo mismo podría ser el salvador?</text>
-  <text id="chesed6_intro_c25">Recordarías mi error?</text>
-  <text id="chesed6_intro_c26">Es muy valioso para mi.</text>
+  <text id="chesed6_intro_c21">No toda revolución requiere que se alcen banderas y se derrame sangre para ser completada, gerente.</text>
+  <text id="chesed6_intro_c22">Estuve esperando a un salvador desde hace mucho tiempo.</text>
+  <text id="chesed6_intro_c23">Alguien que fuera capaz de destrozar la rutina que me tenía paralizado y de despertarme desde adentro.</text>
+  <text id="chesed6_intro_c24">¿Por qué nunca se me ocurrió que yo mismo podía ser ese salvador?</text>
+  <text id="chesed6_intro_c25">¿Me harías el favor de recordar este fracaso mío?</text>
+  <text id="chesed6_intro_c26">Porque, para mí, tiene un valor incalculable.</text>
   <!-- 앤젤라 등장-->
-  <text id="chesed6_intro_a1">Espero que tu propia patética, “rebelión” te haya enseñado algunas cosas.</text>
+  <text id="chesed6_intro_a1">Espero que tu pequeña y patética “rebelión” te haya servido de consuelo, por muy insignificante que haya sido.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a2">Aún no entiendes la razón por la que no te detuve?</text>
+  <text id="chesed6_intro_a2">¿Aún no te has dado cuenta de por qué no hice nada para detenerte?</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a3">Estoy hablando de la verdadera razón por la que te estaba observando sin apagarte como lo hice con Tiphereth.</text>
+  <text id="chesed6_intro_a3">Si te preguntas cuál fue el motivo de simplemente limitarme a observar sin desconectarte la energía como lo hice con Tiphereth...</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a4">Quería grabar tus lecciones en tu cuerpo de metal. Espero que hayas aprendido algo de tu resistencia que terminó costando la vida de tus empleados pobres que confiaron en ti hasta el final.</text>
+  <text id="chesed6_intro_a4">Fue porque quería grabar en ese cerebro de chatarra tuyo el costo de tu inútil resistencia; la muerte de aquellos pobres empleados que confiaron en ti.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a5">Sé que la palabra, ‘muerte’ no significa nada para ti ahora, pero para ellos, tenía un significado.</text>
+  <text id="chesed6_intro_a5">Sé bien que a tu yo de ahora la palabra 'muerte' no le significa nada, pero para ellos sí importaba.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c27">Eso es extraño, Angela.</text>
-  <text id="chesed6_intro_c28">Desde cuándo empezaste a preocuparte por la muerte de los empleados?</text>
-  <text id="chesed6_intro_c29">Usted fue la persona que forzó la apertura de la unidad de contención solo por más energía.</text>
-  <text id="chesed6_intro_c30">Te apoyé torpemente al estar de acuerdo con tus acciones...</text>
-  <text id="chesed6_intro_c31">No creas que lo he perdido con todo lo que está sucediendo en este momento.</text>
-  <text id="chesed6_intro_c32">Ahora sé que realmente no te importa tu condición.</text>
-  <text id="chesed6_intro_c33">Que ni siquiera eras el que debería haber seguido.</text>
-  <text id="chesed6_intro_a6">Chesed, por supuesto, debes seguir a nuestro gerente y no a mí. No tienes que recordármelo...</text>
+  <text id="chesed6_intro_c27">Eso es curioso, señorita Angela.</text>
+  <text id="chesed6_intro_c28">¿Desde cuándo te importan las muertes de los empleados?</text>
+  <text id="chesed6_intro_c29">¿No fuiste tú quien forzó la apertura de las unidades de contención todo por el simple hecho de conseguir más energía?</text>
+  <text id="chesed6_intro_c30">Y yo me limitaba a seguirte la corriente torpemente, mientras encubría tus acciones...……….</text>
+  <text id="chesed6_intro_c31">No creas que lo he perdido todo con lo que pasó hoy.</text>
+  <text id="chesed6_intro_c32">Ahora me doy cuenta de que nuestra condición te importa mucho menos de lo que creía.</text>
+  <text id="chesed6_intro_c33">Y que no era a ti a quien debía someter mi voluntad.</text>
+  <text id="chesed6_intro_a6">Es obvio que a quien debes obedecer no es a mí, sino al gerente, Chesed. No hace falta que me lo recuerdes...</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c34">Sabes a lo que me refiero. No voy a dejarte hacer lo que quieras.</text>
-  <text id="chesed6_intro_a7">Eres un perdedor. En el pasado e incluso ahora.</text>
+  <text id="chesed6_intro_c34">Sabes exactamente a lo que me refiero. No voy a permitir que las cosas sigan saliendo a tu manera.</text>
+  <text id="chesed6_intro_a7">Eres un perdedor. Tanto ahora, como lo fuiste en el pasado.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c35">Sí, soy un fracaso. No necesitas recordarme.</text>
-  <text id="chesed6_intro_c36">Es posible que desee creer que nada ha cambiado,</text>
-  <text id="chesed6_intro_c37">pero de hecho, muchas cosas están cambiando.</text>
-  <text id="chesed6_intro_a8">Contamos con usted para salvar la situación, Chesed.</text>
+  <text id="chesed6_intro_c35">Sí, fracasé. No tenías que recordármelo, yo lo sé mejor que nadie.</text>
+  <text id="chesed6_intro_c36">Supongo que prefieres aferrarte a la idea de que nada ha cambiado,</text>
+  <text id="chesed6_intro_c37">pero te aseguro que hay muchísimas cosas que están empezando a cambiar.</text>
+  <text id="chesed6_intro_a8">Tienes bastante desastre que limpiar, Chesed.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a9">Vamos a deshacernos de los sentimientos difíciles que tenemos entre nosotros.</text>
+  <text id="chesed6_intro_a9">Así que vamos a ponerle fin a estos resentimientos sin sentido de una buena vez.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a10">Pero quiero que sepas esto.</text>
+  <text id="chesed6_intro_a10">Pero hay algo que quiero que te quede claro.</text>
   <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a11">No importa lo grande que seas, siempre estarás en la palma de mis manos.</text>
+  <text id="chesed6_intro_a11">No importa cuán asombroso te creas que eres, sigues estando en la palma de mi mano.</text>
   <!-- 화자 : 앤젤라-->
   <!-- 앤젤라 퇴장-->
-  <text id="chesed6_intro_c38">Todavía tengo miedo, gerente.</text>
-  <text id="chesed6_intro_c39">Todavía no estoy seguro de poder luchar contra los miedos que pueda enfrentar en el futuro.</text>
-  <text id="chesed6_intro_c40">Pero decidí no huir...</text>
-  <text id="chesed6_intro_c41">Entonces, puedes darme una orden ahora?</text>
+  <text id="chesed6_intro_c38">Sigo sintiendo miedo, gerente.</text>
+  <text id="chesed6_intro_c39">Y tampoco estoy completamente seguro de poder enfrentar de frente los horrores que nos aguardan en el futuro,</text>
+  <text id="chesed6_intro_c40">pero, como mínimo, tomé la decisión de no volver a huir.</text>
+  <text id="chesed6_intro_c41">Entonces, ¿me harías el honor de darme una orden?</text>
 
 </localize>

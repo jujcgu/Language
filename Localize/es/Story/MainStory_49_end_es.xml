@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   
 	
-  <text id="day49_adamGameOver_1">Quieres saber por qué ha llegado a esto?</text>
-  <text id="day49_adamGameOver_1_1">Porque no tuviste fe en ti mismo.</text>
-  <text id="day49_adamGameOver_1_2">Las acciones sin fe solo resultan en muertes terribles.</text>
-	<text id="day49_adamGameOver_2">No te preocupes. Te llevaré, porque lo sé todo.</text>
-	<text id="day49_adamGameOver_3">Yo soy tu.</text>
-	<text id="day49_adamGameOver_4">Soy el único que realizó la única verdad y se colocó en el mundo mismo.</text>
-	<text id="day49_adamGameOver_5">Soy tú quien dejó los caminos por los que caminé y decidí unirme al mundo que ella quería crear.</text>
-	<text id="day49_adamGameOver_6">Podemos hacer lo que imaginemos.</text>
+  <text id="day49_adamGameOver_1">¿Quieres que te diga por qué todo terminó así?</text>
+  <text id="day49_adamGameOver_1_1">Es porque no tuviste fe en ti mismo.</text>
+  <text id="day49_adamGameOver_1_2">Al intentar actuar sin sinceridad, el resultado solo son muertes atroces.</text>
+	<text id="day49_adamGameOver_2">No te preocupes. Yo, que lo sé todo, te acogeré.</text>
+	<text id="day49_adamGameOver_3">Yo soy tú.</text>
+	<text id="day49_adamGameOver_4">Soy yo, quien alcanzó la única iluminación y decidió poner al mundo a sus pies.</text>
+	<text id="day49_adamGameOver_5">Eres tú, quien olvidó el camino recorrido y decidió unirse al mundo que ella anhelaba.</text>
+	<text id="day49_adamGameOver_6">Somos nosotros, capaces de hacer realidad cualquier cosa que podamos imaginar de ahora en adelante.</text>
  
-  <text id="day49_adamGameOver_6_1">Monstruos! Ayuda!</text>
-  <text id="day49_adamGameOver_6_2">Mira! Algo está creciendo en mí! Hahahahaha!!</text>
+  <text id="day49_adamGameOver_6_1">¡Son monstruos, auxilio!</text>
+  <text id="day49_adamGameOver_6_2">¡Algo raro está creciendo en mi cuerpo, miren esto, jajajajaja!</text>
 	<text id="day49_adamGameOver_7">Observa.</text>
-	<text id="day49_adamGameOver_8">Cómo perfeccionamos este mundo plagado de pérdidas.</text>
-	<text id="day49_adamGameOver_9">El dios necio llamado racionalidad gobernó este mundo hasta ahora.</text>
-	<text id="day49_adamGameOver_10">No, llamarlo un dios es una exageración. Es una mera ilusión.</text>
-	<text id="day49_adamGameOver_11">Vamos a arrastrarlo hacia abajo y abrir los ojos de todos.</text>
-	<text id="day49_adamGameOver_12">Sí, vendrá el mundo que Carmen quería.</text>
-	<text id="day49_adamGameOver_13">Vamos a crear este paraíso.</text>
-  <text id="day49_adamGameOver_13_1">Incluso la cabeza y el ojo son simples humanos. No pueden detenernos quienes se dieron cuenta de la verdad.</text>
-  <text id="day49_adamGameOver_14">Sabes que todo lo que vimos en esta tierra son solo sombras, que nunca has sido testigo de la verdad hasta ahora.</text>
-	<text id="day49_adamGameOver_15">Este fruto de la redención llegará al corazón de todos.</text>
-	<text id="day49_adamGameOver_16">Los abandonados, los poderosos, los ricos, los esperanzadores, todos.</text>
-	<text id="day49_adamGameOver_17">El árbol del ser humano alcanzará la raíz de este mundo.</text>
-  <text id="day49_adamGameOver_18">Observa.</text>
-	<text id="day49_adamGameOver_19">Declaré que serás libre al final. </text>
+	<text id="day49_adamGameOver_8">Cómo este mundo, plagado únicamente de pérdidas, alcanza la perfección gracias a nosotros.</text>
+	<text id="day49_adamGameOver_9">Lo que ha dominado a la humanidad hasta ahora es un dios necio llamado razón.</text>
+	<text id="day49_adamGameOver_10">No, llamarlo dios es una ilusión demasiado trágica.</text>
+	<text id="day49_adamGameOver_11">Con nuestras propias manos derrocaremos a ese dios y abriremos los ojos de todos.</text>
+	<text id="day49_adamGameOver_12">Así es, el mundo que Carmen anhelaba pronto se desplegará ante nuestros ojos.</text>
+	<text id="day49_adamGameOver_13">Tú y yo haremos de este lugar un paraíso.</text>
+  <text id="day49_adamGameOver_13_1">Incluso la Cabeza y el Ojo no son más que humanos débiles, así que no podrán detenernos ahora que conocemos la verdad.</text>
+  <text id="day49_adamGameOver_14">Sabías que todo lo que habíamos visto en nuestra tierra eran simples sombras, y que en realidad nunca habíamos mirado a la verdad a la cara.</text>
+	<text id="day49_adamGameOver_15">Con esto, el exquisito fruto de la salvación que ofrezco llegará generosamente a todos.</text>
+	<text id="day49_adamGameOver_16">A los abandonados, a los poderosos, a los saciados y a los que claman por esperanza. Sin dejar a nadie atrás.</text>
+	<text id="day49_adamGameOver_17">Pues las raíces del Árbol de la Humanidad se extenderán hasta los confines del mundo entero.</text>
+  <text id="day49_adamGameOver_18">Contempla,</text>
+	<text id="day49_adamGameOver_19">¿Acaso no te dije que todos serían libres?</text>
 </localize>

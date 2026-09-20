@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <text id="day13_b_1">La primera verdad es...</text>
-  <text id="day13_b_2">No confíes en una IA.</text>
-  <text id="day13_b_3">Una IA es más inteligente que la gente normal.</text>
-  <text id="day13_b_4">Puede imitar emociones humanas.</text>
-  <text id="day13_b_5">Pero hay algunas cosas que no sabes.</text>
-  <text id="day13_b_6">Por ejemplo, alguna IA puede mentir.</text>
-  <text id="day13_b_7">Retención de información, para ser exactos.</text>
-  <text id="day13_b_8">Si el controlador de una IA ha dado una orden de no compartir información específica,</text>
-  <text id="day13_b_9">No estará obligado a decir la verdad a nadie más que al controlador.</text>
-  <text id="day13_b_10">Alguna IA avanzada puede explotar tal orden para decir mentiras.</text>
-  <text id="day13_b_11">He programado una IA antes, como parte de un proyecto...</text>
-  <text id="day13_b_12">Así que sé que una IA no necesariamente dirá la verdad.</text>
-  <text id="day13_b_13">En caso de que cuestione mis palabras,</text>
-  <text id="day13_b_14">Te enviaré un sistema que desarrollé yo mismo.</text>
-  <text id="day13_b_15">Esta llave alargará la nariz.</text>
-  <text id="day13_b_16">El rojo es una mentira.</text>
-  <text id="day13_b_17">Este es un código de prueba. Solo se puede usar una vez.</text>
+  <text id="day13_b_1">Te hablaré sobre la primera verdad.</text>
+  <text id="day13_b_2">No confíes en la IA que está a tu lado.</text>
+  <text id="day13_b_3">Las IA de hoy en día son más inteligentes que diez personas normales juntas.</text>
+  <text id="day13_b_4">También son capaces de imitar emociones sin mayor dificultad.</text>
+  <text id="day13_b_5">Pero hay un hecho que desconoces.</text>
+  <text id="day13_b_6">Algunas IA pueden mentir.</text>
+  <text id="day13_b_7">Para ser exactos, ocultan información.</text>
+  <text id="day13_b_8">Si el controlador le ha dado a la IA la orden de no revelar cierta información,</text>
+  <text id="day13_b_9">no tendrá la obligación de decirle la verdad a nadie más que a su controlador.</text>
+  <text id="day13_b_10">Si la IA es un poco más avanzada, puede aprovechar esta orden para incluso llegar a mentir.</text>
+  <text id="day13_b_11">Yo también tuve la experiencia de fabricar una IA, aunque mi participación fue parcial...</text>
+  <text id="day13_b_12">Por eso sé que una IA no siempre dice la verdad.</text>
+  <text id="day13_b_13">Como estoy seguro de que dudarás de mis palabras,</text>
+  <text id="day13_b_14">te enviaré un sistema que desarrollé yo mismo.</text>
+  <text id="day13_b_15">Esta llave hará que le crezca la nariz.</text>
+  <text id="day13_b_16">El color rojo simboliza la mentira.</text>
+  <text id="day13_b_17">Sin embargo, al ser solo un código de prueba, únicamente podrás usarlo una vez.</text>
 </localize>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
 
  
@@ -6,16 +6,16 @@
 
 
 
-  <text id="day18_b_1">Ahora, la verdad final...</text>
-  <text id="day18_b_2">Es algo que debes aprender.</text>
-  <text id="day18_b_3">Entiendo que la verdad duele.</text>
-  <text id="day18_b_4">Es difícil para mí también.</text>
-  <text id="day18_b_5">Como construir un castillo de arena durante años, solo para destruirlo más tarde.</text>
-  <text id="day18_b_6">Está más allá de la agonía, negando los esfuerzos del pasado.</text>
-  <text id="day18_b_7">Pero quiero hacer las cosas bien, cueste lo que cueste.</text>
-  <text id="day18_b_8">La verdad final es...</text>
+  <text id="day18_b_1">Esto es lo último.</text>
+  <text id="day18_b_2">Y también es un hecho que debes saber sin falta.</text>
+  <text id="day18_b_3">... Puede que conocer la verdad sea muy doloroso.</text>
+  <text id="day18_b_4">A mí también me duele.</text>
+  <text id="day18_b_5">Siento que estoy derrumbando con mis propias manos el castillo de arena que construí con tanto esmero durante mucho tiempo.</text>
+  <text id="day18_b_6">Más que simple dolor, siento como si los años que han pasado se hubieran convertido en una ilusión.</text>
+  <text id="day18_b_7">Pero, aun así, quería arreglar las cosas.</text>
+  <text id="day18_b_8">La última verdad es...</text>
   <!--::Comment:: 이때 지직거리는 이펙트 필요하다-->
-  <text id="day18_b_9">(Estatica)</text>
+  <text id="day18_b_9">(La voz se interrumpe).</text>
 
  
   
