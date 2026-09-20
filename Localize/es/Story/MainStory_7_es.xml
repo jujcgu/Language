@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<text id="day7_angela_1">La tasa de producción de energía está aumentando gradualmente.</text>
-	<text id="day7_angela_2">Ha quedado demostrado que posee habilidades mucho más extraordinarias de lo que usted mismo creía, gerente.</text>
-	<text id="day7_angela_3">Los altos mandos de Lobotomy también lo están observando con atención.</text>
-	<text id="day7_angela_4">Entre ellos se encuentra 'A', a quien le he mencionado anteriormente.</text>
-	<text id="day7_angela_5">¿Sabe usted algo sobre A?</text>
+	<text id="day7_angela_2">Gerente, ha quedado demostrado que posee capacidades mucho mayores de las que creía.</text>
+	<text id="day7_angela_3">Los altos mandos de Lobotomy también se han fijado en usted.</text>
+	<text id="day7_angela_4">Entre ellos se encuentra 'A', a quien he mencionado alguna vez.</text>
+	<text id="day7_angela_5">¿Sabe usted algo acerca de A?</text>
 	<text id="day7_angela_6">A es nuestro pionero.</text>
-	<text id="day7_angela_7">El agricultor que sembró semillas por primera vez en una tierra a la que nadie había llegado.</text>
-	<text id="day7_angela_8">Puede que todavía falte un poco de tiempo para que A se reúna con usted, pero...</text>
-	<text id="day7_angela_9">quizás entonces las cosas que ha estado deseando puedan hacerse realidad.</text>
-	<text id="day7_angela_10">¿Yo? Por supuesto que lo respeto profundamente.</text>
-	<text id="day7_angela_11">Estrictamente hablando, es gracias a A que llegué a este mundo.</text>
+	<text id="day7_angela_7">Un agricultor que sembró las primeras semillas en una tierra a la que nadie había llegado.</text>
+	<text id="day7_angela_8">Que A se reúna con usted quizá sea un asunto para más adelante,</text>
+	<text id="day7_angela_9">pero es posible que aquello que siempre ha anhelado pueda hacerse realidad.</text>
+	<text id="day7_angela_10">¿Yo? Por supuesto, lo respeto muchísimo.</text>
+	<text id="day7_angela_11">Estrictamente hablando, es gracias a A que pude venir al mundo.</text>
 	<text id="day7_angela_12">Sin embargo, también es una persona difícil de comprender.</text>
-	<text id="day7_angela_13">Probablemente haya muy pocas personas comunes capaces de llegar a entenderlo.</text>
-	<text id="day7_angela_14">A decir verdad, comprender a alguien es una tarea difícil, incluso dejando a A de lado.</text>
-	<text id="day7_angela_15">¿Llegará el día en que logre entenderlo a usted por completo?</text>
+	<text id="day7_angela_13">Probablemente, entre las personas comunes, haya muy pocos que puedan entenderlo.</text>
+	<text id="day7_angela_14">A decir verdad, comprender a alguien es una tarea difícil, incluso sin contar a A.</text>
+	<text id="day7_angela_15">¿Llegará el día en que pueda comprenderlo a usted por completo?</text>
 </localize>
