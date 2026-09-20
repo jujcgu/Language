@@ -1,9 +1,9 @@
 ---
 name: localization-glossary
-description: Enforces consistency for established terminology, names, and concepts in the game. Use this as the definitive translation memory.
+description: "Glossary and style guidelines for Latin American Spanish translation of Lobotomy Corporation. Enforces consistency for established terminology, names, and concepts in the game. Use this as the definitive translation memory."
 ---
 
-# Localization Glossary
+# Lobotomy Corporation: Spanish Localization Glossary & Style Guide
 
 ## Core Terminology
 
